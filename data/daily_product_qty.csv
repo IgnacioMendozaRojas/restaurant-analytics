@@ -1,0 +1,1229 @@
+date,product_id,product,qty
+2023-01-23,1000,Completo - Napolitano,2
+2023-01-23,1010,Completo - Alercino,4
+2023-01-23,1020,Completo - Completo,9
+2023-01-23,1040,Completo - Casa,1
+2023-01-23,1050,Completo - Chacarero,4
+2023-01-23,1060,Completo - A Lo Pobre,4
+2023-01-23,1080,Completo - Vegetariano,1
+2023-01-23,1100,As Pollo - Alercino,2
+2023-01-23,1130,As Pollo - Casa,1
+2023-01-23,1140,As Pollo - Chacarero,3
+2023-01-23,1150,As Pollo - A Lo Pobre,1
+2023-01-23,1170,As Carne - Italiano,5
+2023-01-23,1190,As Carne - Alercino,1
+2023-01-23,1200,As Carne - Completo,1
+2023-01-23,1230,As Carne - Chacarero,3
+2023-01-23,1240,As Carne - A Lo Pobre,2
+2023-01-23,1260,Base - Vienesa,1
+2023-01-23,1290,Completo - Italiano,68
+2023-01-23,1300,As Pollo - Italiano,3
+2023-01-23,1310,Papas - Pollo BBQ - Individuales,1
+2023-01-23,1350,Papas - Vegetarianas - 3 Personas,1
+2023-01-23,1370,Papas - Cheddar - Individuales,2
+2023-01-23,1380,Papas - Cheddar - 3 Personas,2
+2023-01-23,1390,Papas - Cheddar - 5 Personas,2
+2023-01-23,1400,Papas - Bravas - Individuales,3
+2023-01-23,1410,Papas - Bravas - 3 Personas,4
+2023-01-23,1420,Papas - Bravas - 5 Personas,1
+2023-01-23,1430,Papas Fritas - Mediana,4
+2023-01-23,1440,Papas Fritas - Grande,2
+2023-01-23,1450,Salchipapas - Mediana,8
+2023-01-23,1460,Salchipapas - Grande,2
+2023-01-23,1520,Agregado - Tocino,1
+2023-01-23,1580,Agregado - Huevo,2
+2023-01-23,1600,Agregado - Palta,1
+2023-01-23,1620,Agregado - Cebolla Caramelizada,1
+2023-01-23,1640,Pizza - Margarita - Grande,6
+2023-01-23,1650,Pizza - Pepperoni - Mediana,2
+2023-01-23,1670,Pizza - Salame - Mediana,2
+2023-01-23,1680,Pizza - Salame - Grande,2
+2023-01-23,1690,Pizza - Napolitana - Mediana,6
+2023-01-23,1700,Pizza - Napolitana - Grande,4
+2023-01-23,1710,Pizza - Pollo BBQ - Mediana,1
+2023-01-23,1720,Pizza - Pollo BBQ - Grande,5
+2023-01-23,1730,Jugo - Frambuesa,26
+2023-01-23,1740,Jugo - Melón,3
+2023-01-23,1750,Jugo - Piña,15
+2023-01-23,1760,Jugo - Frutilla,9
+2023-01-23,1770,Bebida - Coca Cola Normal 350,41
+2023-01-23,1780,Bebida - Coca Cola Cero 350,2
+2023-01-23,1790,Bebida - Fanta Normal 350,2
+2023-01-23,1800,Bebida - Sprite Normal 350,15
+2023-01-23,1810,Agua - Sin Gas,1
+2023-01-23,1820,Café - Espresso Intenso,5
+2023-01-23,1830,Café - Chococino,1
+2023-01-23,1840,Café - Latte Macchiato Vainilla,3
+2023-01-23,1850,Café - Cappuccino,1
+2023-01-23,1860,Té - Hierbas Surtidas,2
+2023-01-23,1870,Agregado - Vienesa Medinger,2
+2023-01-23,1880,Agua - Con Gas,1
+2023-01-23,2000,Envase - Pizza,11
+2023-01-23,2010,Envase - Jugo,2
+2023-01-23,2020,Envase - Papas - Individuales - Mediana,4
+2023-01-23,2030,Envase - Papas - 3 Personas - Grande,5
+2023-01-23,2040,Envase - Papas - 5 Personas,2
+2023-01-23,2050,Envase - Completo - Normal,39
+2023-01-23,2060,Envase - Completo - A Lo Pobre - Alercino,2
+2023-01-24,1000,Completo - Napolitano,2
+2023-01-24,1010,Completo - Alercino,2
+2023-01-24,1020,Completo - Completo,8
+2023-01-24,1030,Completo - Gringo,1
+2023-01-24,1040,Completo - Casa,2
+2023-01-24,1050,Completo - Chacarero,5
+2023-01-24,1060,Completo - A Lo Pobre,2
+2023-01-24,1070,Completo - Luco,1
+2023-01-24,1080,Completo - Vegetariano,2
+2023-01-24,1100,As Pollo - Alercino,2
+2023-01-24,1140,As Pollo - Chacarero,2
+2023-01-24,1150,As Pollo - A Lo Pobre,1
+2023-01-24,1170,As Carne - Italiano,7
+2023-01-24,1190,As Carne - Alercino,1
+2023-01-24,1220,As Carne - Casa,1
+2023-01-24,1230,As Carne - Chacarero,2
+2023-01-24,1240,As Carne - A Lo Pobre,2
+2023-01-24,1250,As Carne - Luco,1
+2023-01-24,1260,Base - Vienesa,3
+2023-01-24,1280,Base - As Carne,2
+2023-01-24,1290,Completo - Italiano,63
+2023-01-24,1300,As Pollo - Italiano,3
+2023-01-24,1310,Papas - Pollo BBQ - Individuales,7
+2023-01-24,1320,Papas - Pollo BBQ - 3 Personas,1
+2023-01-24,1340,Papas - Vegetarianas - Individuales,1
+2023-01-24,1370,Papas - Cheddar - Individuales,2
+2023-01-24,1400,Papas - Bravas - Individuales,2
+2023-01-24,1410,Papas - Bravas - 3 Personas,2
+2023-01-24,1420,Papas - Bravas - 5 Personas,1
+2023-01-24,1430,Papas Fritas - Mediana,9
+2023-01-24,1440,Papas Fritas - Grande,2
+2023-01-24,1450,Salchipapas - Mediana,2
+2023-01-24,1460,Salchipapas - Grande,2
+2023-01-24,1470,Agregado - Queso Cheddar,1
+2023-01-24,1540,Agregado - Tomate,1
+2023-01-24,1570,Agregado - Aceitunas Negras,2
+2023-01-24,1600,Agregado - Palta,2
+2023-01-24,1610,Agregado - Queso Mozzarella,1
+2023-01-24,1620,Agregado - Cebolla Caramelizada,1
+2023-01-24,1630,Pizza - Margarita - Mediana,1
+2023-01-24,1640,Pizza - Margarita - Grande,2
+2023-01-24,1660,Pizza - Pepperoni - Grande,1
+2023-01-24,1670,Pizza - Salame - Mediana,2
+2023-01-24,1680,Pizza - Salame - Grande,1
+2023-01-24,1690,Pizza - Napolitana - Mediana,2
+2023-01-24,1700,Pizza - Napolitana - Grande,7
+2023-01-24,1710,Pizza - Pollo BBQ - Mediana,1
+2023-01-24,1720,Pizza - Pollo BBQ - Grande,1
+2023-01-24,1730,Jugo - Frambuesa,7
+2023-01-24,1740,Jugo - Melón,2
+2023-01-24,1750,Jugo - Piña,2
+2023-01-24,1770,Bebida - Coca Cola Normal 350,21
+2023-01-24,1780,Bebida - Coca Cola Cero 350,10
+2023-01-24,1790,Bebida - Fanta Normal 350,4
+2023-01-24,1800,Bebida - Sprite Normal 350,9
+2023-01-24,1810,Agua - Sin Gas,2
+2023-01-24,1820,Café - Espresso Intenso,2
+2023-01-24,1850,Café - Cappuccino,2
+2023-01-24,1860,Té - Hierbas Surtidas,9
+2023-01-24,1880,Agua - Con Gas,3
+2023-01-24,2000,Envase - Pizza,7
+2023-01-24,2010,Envase - Jugo,1
+2023-01-24,2020,Envase - Papas - Individuales - Mediana,9
+2023-01-24,2030,Envase - Papas - 3 Personas - Grande,2
+2023-01-24,2040,Envase - Papas - 5 Personas,1
+2023-01-24,2050,Envase - Completo - Normal,37
+2023-01-24,2060,Envase - Completo - A Lo Pobre - Alercino,2
+2023-01-24,2300,Café - En Polvo,3
+2023-01-25,1010,Completo - Alercino,2
+2023-01-25,1020,Completo - Completo,4
+2023-01-25,1030,Completo - Gringo,3
+2023-01-25,1040,Completo - Casa,2
+2023-01-25,1050,Completo - Chacarero,2
+2023-01-25,1060,Completo - A Lo Pobre,3
+2023-01-25,1130,As Pollo - Casa,2
+2023-01-25,1150,As Pollo - A Lo Pobre,1
+2023-01-25,1170,As Carne - Italiano,7
+2023-01-25,1190,As Carne - Alercino,3
+2023-01-25,1210,As Carne - Gringo,2
+2023-01-25,1220,As Carne - Casa,1
+2023-01-25,1230,As Carne - Chacarero,7
+2023-01-25,1240,As Carne - A Lo Pobre,2
+2023-01-25,1250,As Carne - Luco,1
+2023-01-25,1260,Base - Vienesa,1
+2023-01-25,1280,Base - As Carne,1
+2023-01-25,1290,Completo - Italiano,79
+2023-01-25,1300,As Pollo - Italiano,7
+2023-01-25,1310,Papas - Pollo BBQ - Individuales,2
+2023-01-25,1320,Papas - Pollo BBQ - 3 Personas,1
+2023-01-25,1350,Papas - Vegetarianas - 3 Personas,3
+2023-01-25,1370,Papas - Cheddar - Individuales,2
+2023-01-25,1380,Papas - Cheddar - 3 Personas,1
+2023-01-25,1400,Papas - Bravas - Individuales,4
+2023-01-25,1410,Papas - Bravas - 3 Personas,2
+2023-01-25,1420,Papas - Bravas - 5 Personas,2
+2023-01-25,1430,Papas Fritas - Mediana,7
+2023-01-25,1440,Papas Fritas - Grande,1
+2023-01-25,1450,Salchipapas - Mediana,5
+2023-01-25,1460,Salchipapas - Grande,5
+2023-01-25,1510,Agregado - Salsa Americana,1
+2023-01-25,1520,Agregado - Tocino,2
+2023-01-25,1530,Agregado - Champiñones,1
+2023-01-25,1540,Agregado - Tomate,1
+2023-01-25,1550,Agregado - Choclo,1
+2023-01-25,1560,Agregado - Ají Verde,1
+2023-01-25,1580,Agregado - Huevo,2
+2023-01-25,1600,Agregado - Palta,2
+2023-01-25,1620,Agregado - Cebolla Caramelizada,1
+2023-01-25,1640,Pizza - Margarita - Grande,2
+2023-01-25,1660,Pizza - Pepperoni - Grande,1
+2023-01-25,1670,Pizza - Salame - Mediana,2
+2023-01-25,1680,Pizza - Salame - Grande,1
+2023-01-25,1690,Pizza - Napolitana - Mediana,2
+2023-01-25,1700,Pizza - Napolitana - Grande,5
+2023-01-25,1710,Pizza - Pollo BBQ - Mediana,2
+2023-01-25,1720,Pizza - Pollo BBQ - Grande,2
+2023-01-25,1730,Jugo - Frambuesa,8
+2023-01-25,1750,Jugo - Piña,2
+2023-01-25,1760,Jugo - Frutilla,3
+2023-01-25,1780,Bebida - Coca Cola Cero 350,21
+2023-01-25,1790,Bebida - Fanta Normal 350,11
+2023-01-25,1800,Bebida - Sprite Normal 350,26
+2023-01-25,1810,Agua - Sin Gas,1
+2023-01-25,1820,Café - Espresso Intenso,3
+2023-01-25,1830,Café - Chococino,2
+2023-01-25,1840,Café - Latte Macchiato Vainilla,1
+2023-01-25,1850,Café - Cappuccino,3
+2023-01-25,1860,Té - Hierbas Surtidas,10
+2023-01-25,2000,Envase - Pizza,7
+2023-01-25,2020,Envase - Papas - Individuales - Mediana,4
+2023-01-25,2030,Envase - Papas - 3 Personas - Grande,7
+2023-01-25,2040,Envase - Papas - 5 Personas,1
+2023-01-25,2050,Envase - Completo - Normal,46
+2023-01-25,2060,Envase - Completo - A Lo Pobre - Alercino,2
+2023-01-25,2300,Café - En Polvo,3
+2023-01-26,1010,Completo - Alercino,1
+2023-01-26,1020,Completo - Completo,8
+2023-01-26,1030,Completo - Gringo,1
+2023-01-26,1040,Completo - Casa,2
+2023-01-26,1050,Completo - Chacarero,2
+2023-01-26,1060,Completo - A Lo Pobre,3
+2023-01-26,1080,Completo - Vegetariano,1
+2023-01-26,1100,As Pollo - Alercino,2
+2023-01-26,1110,As Pollo - Completo,2
+2023-01-26,1140,As Pollo - Chacarero,1
+2023-01-26,1150,As Pollo - A Lo Pobre,2
+2023-01-26,1170,As Carne - Italiano,4
+2023-01-26,1200,As Carne - Completo,2
+2023-01-26,1210,As Carne - Gringo,1
+2023-01-26,1220,As Carne - Casa,5
+2023-01-26,1230,As Carne - Chacarero,2
+2023-01-26,1240,As Carne - A Lo Pobre,2
+2023-01-26,1250,As Carne - Luco,2
+2023-01-26,1280,Base - As Carne,1
+2023-01-26,1290,Completo - Italiano,68
+2023-01-26,1300,As Pollo - Italiano,2
+2023-01-26,1310,Papas - Pollo BBQ - Individuales,3
+2023-01-26,1370,Papas - Cheddar - Individuales,6
+2023-01-26,1390,Papas - Cheddar - 5 Personas,1
+2023-01-26,1400,Papas - Bravas - Individuales,5
+2023-01-26,1410,Papas - Bravas - 3 Personas,5
+2023-01-26,1420,Papas - Bravas - 5 Personas,1
+2023-01-26,1430,Papas Fritas - Mediana,5
+2023-01-26,1440,Papas Fritas - Grande,4
+2023-01-26,1450,Salchipapas - Mediana,6
+2023-01-26,1460,Salchipapas - Grande,5
+2023-01-26,1520,Agregado - Tocino,1
+2023-01-26,1540,Agregado - Tomate,1
+2023-01-26,1580,Agregado - Huevo,2
+2023-01-26,1590,Agregado - Pollo,1
+2023-01-26,1640,Pizza - Margarita - Grande,3
+2023-01-26,1650,Pizza - Pepperoni - Mediana,3
+2023-01-26,1660,Pizza - Pepperoni - Grande,2
+2023-01-26,1670,Pizza - Salame - Mediana,2
+2023-01-26,1680,Pizza - Salame - Grande,3
+2023-01-26,1700,Pizza - Napolitana - Grande,7
+2023-01-26,1710,Pizza - Pollo BBQ - Mediana,2
+2023-01-26,1720,Pizza - Pollo BBQ - Grande,3
+2023-01-26,1730,Jugo - Frambuesa,5
+2023-01-26,1740,Jugo - Melón,2
+2023-01-26,1760,Jugo - Frutilla,1
+2023-01-26,1770,Bebida - Coca Cola Normal 350,15
+2023-01-26,1780,Bebida - Coca Cola Cero 350,13
+2023-01-26,1790,Bebida - Fanta Normal 350,18
+2023-01-26,1800,Bebida - Sprite Normal 350,19
+2023-01-26,1810,Agua - Sin Gas,2
+2023-01-26,1820,Café - Espresso Intenso,3
+2023-01-26,1830,Café - Chococino,5
+2023-01-26,1840,Café - Latte Macchiato Vainilla,2
+2023-01-26,1860,Té - Hierbas Surtidas,11
+2023-01-26,1870,Agregado - Vienesa Medinger,2
+2023-01-26,2000,Envase - Pizza,10
+2023-01-26,2020,Envase - Papas - Individuales - Mediana,9
+2023-01-26,2030,Envase - Papas - 3 Personas - Grande,3
+2023-01-26,2050,Envase - Completo - Normal,59
+2023-01-26,2060,Envase - Completo - A Lo Pobre - Alercino,1
+2023-01-26,2300,Café - En Polvo,2
+2023-01-27,1000,Completo - Napolitano,2
+2023-01-27,1010,Completo - Alercino,7
+2023-01-27,1020,Completo - Completo,8
+2023-01-27,1030,Completo - Gringo,3
+2023-01-27,1040,Completo - Casa,6
+2023-01-27,1050,Completo - Chacarero,2
+2023-01-27,1060,Completo - A Lo Pobre,2
+2023-01-27,1070,Completo - Luco,2
+2023-01-27,1080,Completo - Vegetariano,2
+2023-01-27,1090,As Pollo - Napolitano,1
+2023-01-27,1100,As Pollo - Alercino,1
+2023-01-27,1110,As Pollo - Completo,1
+2023-01-27,1130,As Pollo - Casa,1
+2023-01-27,1150,As Pollo - A Lo Pobre,2
+2023-01-27,1170,As Carne - Italiano,6
+2023-01-27,1190,As Carne - Alercino,1
+2023-01-27,1210,As Carne - Gringo,1
+2023-01-27,1220,As Carne - Casa,1
+2023-01-27,1230,As Carne - Chacarero,4
+2023-01-27,1240,As Carne - A Lo Pobre,2
+2023-01-27,1260,Base - Vienesa,17
+2023-01-27,1280,Base - As Carne,6
+2023-01-27,1300,As Pollo - Italiano,7
+2023-01-27,1310,Papas - Pollo BBQ - Individuales,1
+2023-01-27,1320,Papas - Pollo BBQ - 3 Personas,3
+2023-01-27,1350,Papas - Vegetarianas - 3 Personas,1
+2023-01-27,1370,Papas - Cheddar - Individuales,3
+2023-01-27,1380,Papas - Cheddar - 3 Personas,3
+2023-01-27,1390,Papas - Cheddar - 5 Personas,1
+2023-01-27,1400,Papas - Bravas - Individuales,5
+2023-01-27,1410,Papas - Bravas - 3 Personas,2
+2023-01-27,1430,Papas Fritas - Mediana,5
+2023-01-27,1440,Papas Fritas - Grande,2
+2023-01-27,1450,Salchipapas - Mediana,5
+2023-01-27,1460,Salchipapas - Grande,2
+2023-01-27,1500,Agregado - Pepinillo,1
+2023-01-27,1520,Agregado - Tocino,1
+2023-01-27,1530,Agregado - Champiñones,2
+2023-01-27,1540,Agregado - Tomate,14
+2023-01-27,1580,Agregado - Huevo,2
+2023-01-27,1600,Agregado - Palta,13
+2023-01-27,1630,Pizza - Margarita - Mediana,2
+2023-01-27,1650,Pizza - Pepperoni - Mediana,5
+2023-01-27,1660,Pizza - Pepperoni - Grande,7
+2023-01-27,1670,Pizza - Salame - Mediana,2
+2023-01-27,1680,Pizza - Salame - Grande,2
+2023-01-27,1690,Pizza - Napolitana - Mediana,1
+2023-01-27,1700,Pizza - Napolitana - Grande,8
+2023-01-27,1710,Pizza - Pollo BBQ - Mediana,3
+2023-01-27,1720,Pizza - Pollo BBQ - Grande,6
+2023-01-27,1730,Jugo - Frambuesa,17
+2023-01-27,1740,Jugo - Melón,6
+2023-01-27,1750,Jugo - Piña,16
+2023-01-27,1760,Jugo - Frutilla,17
+2023-01-27,1770,Bebida - Coca Cola Normal 350,32
+2023-01-27,1780,Bebida - Coca Cola Cero 350,11
+2023-01-27,1790,Bebida - Fanta Normal 350,4
+2023-01-27,1800,Bebida - Sprite Normal 350,7
+2023-01-27,1810,Agua - Sin Gas,1
+2023-01-27,1820,Café - Espresso Intenso,3
+2023-01-27,1830,Café - Chococino,1
+2023-01-27,1860,Té - Hierbas Surtidas,2
+2023-01-27,2000,Envase - Pizza,12
+2023-01-27,2010,Envase - Jugo,1
+2023-01-27,2020,Envase - Papas - Individuales - Mediana,6
+2023-01-27,2030,Envase - Papas - 3 Personas - Grande,4
+2023-01-27,2040,Envase - Papas - 5 Personas,1
+2023-01-27,2050,Envase - Completo - Normal,17
+2023-01-27,2060,Envase - Completo - A Lo Pobre - Alercino,4
+2023-01-27,2500,Agregado - Porotos Verdes,1
+2023-01-27,3050,Jugo - Mango,14
+2023-01-28,1000,Completo - Napolitano,3
+2023-01-28,1010,Completo - Alercino,7
+2023-01-28,1020,Completo - Completo,11
+2023-01-28,1050,Completo - Chacarero,2
+2023-01-28,1060,Completo - A Lo Pobre,6
+2023-01-28,1070,Completo - Luco,1
+2023-01-28,1080,Completo - Vegetariano,1
+2023-01-28,1100,As Pollo - Alercino,2
+2023-01-28,1130,As Pollo - Casa,2
+2023-01-28,1140,As Pollo - Chacarero,1
+2023-01-28,1150,As Pollo - A Lo Pobre,2
+2023-01-28,1170,As Carne - Italiano,10
+2023-01-28,1190,As Carne - Alercino,5
+2023-01-28,1200,As Carne - Completo,2
+2023-01-28,1210,As Carne - Gringo,2
+2023-01-28,1220,As Carne - Casa,4
+2023-01-28,1230,As Carne - Chacarero,2
+2023-01-28,1240,As Carne - A Lo Pobre,2
+2023-01-28,1250,As Carne - Luco,2
+2023-01-28,1260,Base - Vienesa,15
+2023-01-28,1270,Base - As Pollo,1
+2023-01-28,1280,Base - As Carne,2
+2023-01-28,1300,As Pollo - Italiano,8
+2023-01-28,1310,Papas - Pollo BBQ - Individuales,2
+2023-01-28,1320,Papas - Pollo BBQ - 3 Personas,2
+2023-01-28,1340,Papas - Vegetarianas - Individuales,1
+2023-01-28,1370,Papas - Cheddar - Individuales,4
+2023-01-28,1380,Papas - Cheddar - 3 Personas,3
+2023-01-28,1400,Papas - Bravas - Individuales,2
+2023-01-28,1410,Papas - Bravas - 3 Personas,6
+2023-01-28,1420,Papas - Bravas - 5 Personas,1
+2023-01-28,1430,Papas Fritas - Mediana,5
+2023-01-28,1440,Papas Fritas - Grande,4
+2023-01-28,1450,Salchipapas - Mediana,7
+2023-01-28,1460,Salchipapas - Grande,5
+2023-01-28,1470,Agregado - Queso Cheddar,1
+2023-01-28,1520,Agregado - Tocino,1
+2023-01-28,1530,Agregado - Champiñones,2
+2023-01-28,1540,Agregado - Tomate,15
+2023-01-28,1550,Agregado - Choclo,1
+2023-01-28,1580,Agregado - Huevo,1
+2023-01-28,1590,Agregado - Pollo,1
+2023-01-28,1600,Agregado - Palta,15
+2023-01-28,1620,Agregado - Cebolla Caramelizada,1
+2023-01-28,1630,Pizza - Margarita - Mediana,5
+2023-01-28,1640,Pizza - Margarita - Grande,1
+2023-01-28,1650,Pizza - Pepperoni - Mediana,1
+2023-01-28,1660,Pizza - Pepperoni - Grande,4
+2023-01-28,1670,Pizza - Salame - Mediana,2
+2023-01-28,1680,Pizza - Salame - Grande,7
+2023-01-28,1690,Pizza - Napolitana - Mediana,1
+2023-01-28,1700,Pizza - Napolitana - Grande,12
+2023-01-28,1710,Pizza - Pollo BBQ - Mediana,3
+2023-01-28,1720,Pizza - Pollo BBQ - Grande,7
+2023-01-28,1730,Jugo - Frambuesa,33
+2023-01-28,1740,Jugo - Melón,7
+2023-01-28,1750,Jugo - Piña,9
+2023-01-28,1760,Jugo - Frutilla,11
+2023-01-28,1770,Bebida - Coca Cola Normal 350,22
+2023-01-28,1780,Bebida - Coca Cola Cero 350,7
+2023-01-28,1790,Bebida - Fanta Normal 350,6
+2023-01-28,1800,Bebida - Sprite Normal 350,9
+2023-01-28,1810,Agua - Sin Gas,2
+2023-01-28,1820,Café - Espresso Intenso,1
+2023-01-28,1840,Café - Latte Macchiato Vainilla,2
+2023-01-28,1860,Té - Hierbas Surtidas,2
+2023-01-28,1880,Agua - Con Gas,1
+2023-01-28,2000,Envase - Pizza,22
+2023-01-28,2010,Envase - Jugo,5
+2023-01-28,2020,Envase - Papas - Individuales - Mediana,4
+2023-01-28,2030,Envase - Papas - 3 Personas - Grande,7
+2023-01-28,2040,Envase - Papas - 5 Personas,1
+2023-01-28,2050,Envase - Completo - Normal,28
+2023-01-28,2060,Envase - Completo - A Lo Pobre - Alercino,3
+2023-01-28,2300,Café - En Polvo,3
+2023-01-28,3050,Jugo - Mango,13
+2023-01-29,1000,Completo - Napolitano,2
+2023-01-29,1010,Completo - Alercino,3
+2023-01-29,1020,Completo - Completo,17
+2023-01-29,1030,Completo - Gringo,1
+2023-01-29,1040,Completo - Casa,2
+2023-01-29,1050,Completo - Chacarero,4
+2023-01-29,1060,Completo - A Lo Pobre,5
+2023-01-29,1070,Completo - Luco,2
+2023-01-29,1080,Completo - Vegetariano,3
+2023-01-29,1100,As Pollo - Alercino,1
+2023-01-29,1140,As Pollo - Chacarero,3
+2023-01-29,1160,As Pollo - Luco,1
+2023-01-29,1170,As Carne - Italiano,12
+2023-01-29,1180,As Carne - Napolitano,2
+2023-01-29,1190,As Carne - Alercino,1
+2023-01-29,1200,As Carne - Completo,2
+2023-01-29,1220,As Carne - Casa,1
+2023-01-29,1230,As Carne - Chacarero,4
+2023-01-29,1240,As Carne - A Lo Pobre,3
+2023-01-29,1250,As Carne - Luco,2
+2023-01-29,1260,Base - Vienesa,15
+2023-01-29,1300,As Pollo - Italiano,7
+2023-01-29,1310,Papas - Pollo BBQ - Individuales,3
+2023-01-29,1320,Papas - Pollo BBQ - 3 Personas,3
+2023-01-29,1350,Papas - Vegetarianas - 3 Personas,1
+2023-01-29,1370,Papas - Cheddar - Individuales,2
+2023-01-29,1380,Papas - Cheddar - 3 Personas,1
+2023-01-29,1400,Papas - Bravas - Individuales,5
+2023-01-29,1410,Papas - Bravas - 3 Personas,4
+2023-01-29,1430,Papas Fritas - Mediana,7
+2023-01-29,1440,Papas Fritas - Grande,7
+2023-01-29,1450,Salchipapas - Mediana,4
+2023-01-29,1460,Salchipapas - Grande,6
+2023-01-29,1470,Agregado - Queso Cheddar,1
+2023-01-29,1480,Agregado - Carne Churrasco,1
+2023-01-29,1530,Agregado - Champiñones,1
+2023-01-29,1540,Agregado - Tomate,14
+2023-01-29,1550,Agregado - Choclo,1
+2023-01-29,1570,Agregado - Aceitunas Negras,2
+2023-01-29,1580,Agregado - Huevo,1
+2023-01-29,1600,Agregado - Palta,15
+2023-01-29,1630,Pizza - Margarita - Mediana,3
+2023-01-29,1640,Pizza - Margarita - Grande,3
+2023-01-29,1650,Pizza - Pepperoni - Mediana,4
+2023-01-29,1660,Pizza - Pepperoni - Grande,5
+2023-01-29,1670,Pizza - Salame - Mediana,1
+2023-01-29,1680,Pizza - Salame - Grande,3
+2023-01-29,1690,Pizza - Napolitana - Mediana,7
+2023-01-29,1700,Pizza - Napolitana - Grande,8
+2023-01-29,1710,Pizza - Pollo BBQ - Mediana,5
+2023-01-29,1720,Pizza - Pollo BBQ - Grande,2
+2023-01-29,1730,Jugo - Frambuesa,27
+2023-01-29,1740,Jugo - Melón,6
+2023-01-29,1750,Jugo - Piña,7
+2023-01-29,1760,Jugo - Frutilla,9
+2023-01-29,1770,Bebida - Coca Cola Normal 350,33
+2023-01-29,1780,Bebida - Coca Cola Cero 350,7
+2023-01-29,1790,Bebida - Fanta Normal 350,7
+2023-01-29,1800,Bebida - Sprite Normal 350,7
+2023-01-29,1810,Agua - Sin Gas,2
+2023-01-29,1820,Café - Espresso Intenso,3
+2023-01-29,1840,Café - Latte Macchiato Vainilla,1
+2023-01-29,1860,Té - Hierbas Surtidas,2
+2023-01-29,1880,Agua - Con Gas,2
+2023-01-29,2000,Envase - Pizza,22
+2023-01-29,2010,Envase - Jugo,4
+2023-01-29,2020,Envase - Papas - Individuales - Mediana,7
+2023-01-29,2030,Envase - Papas - 3 Personas - Grande,12
+2023-01-29,2040,Envase - Papas - 5 Personas,2
+2023-01-29,2050,Envase - Completo - Normal,18
+2023-01-29,2060,Envase - Completo - A Lo Pobre - Alercino,7
+2023-01-29,2300,Café - En Polvo,2
+2023-01-29,3050,Jugo - Mango,10
+2023-01-30,1000,Completo - Napolitano,1
+2023-01-30,1010,Completo - Alercino,5
+2023-01-30,1020,Completo - Completo,3
+2023-01-30,1030,Completo - Gringo,2
+2023-01-30,1050,Completo - Chacarero,3
+2023-01-30,1060,Completo - A Lo Pobre,1
+2023-01-30,1080,Completo - Vegetariano,2
+2023-01-30,1110,As Pollo - Completo,2
+2023-01-30,1130,As Pollo - Casa,1
+2023-01-30,1140,As Pollo - Chacarero,1
+2023-01-30,1150,As Pollo - A Lo Pobre,1
+2023-01-30,1170,As Carne - Italiano,8
+2023-01-30,1190,As Carne - Alercino,5
+2023-01-30,1210,As Carne - Gringo,1
+2023-01-30,1220,As Carne - Casa,2
+2023-01-30,1230,As Carne - Chacarero,2
+2023-01-30,1240,As Carne - A Lo Pobre,3
+2023-01-30,1250,As Carne - Luco,2
+2023-01-30,1260,Base - Vienesa,1
+2023-01-30,1270,Base - As Pollo,1
+2023-01-30,1290,Completo - Italiano,43
+2023-01-30,1300,As Pollo - Italiano,3
+2023-01-30,1310,Papas - Pollo BBQ - Individuales,4
+2023-01-30,1330,Papas - Pollo BBQ - 5 Personas,2
+2023-01-30,1370,Papas - Cheddar - Individuales,6
+2023-01-30,1380,Papas - Cheddar - 3 Personas,3
+2023-01-30,1400,Papas - Bravas - Individuales,6
+2023-01-30,1410,Papas - Bravas - 3 Personas,3
+2023-01-30,1430,Papas Fritas - Mediana,6
+2023-01-30,1440,Papas Fritas - Grande,2
+2023-01-30,1450,Salchipapas - Mediana,7
+2023-01-30,1460,Salchipapas - Grande,6
+2023-01-30,1470,Agregado - Queso Cheddar,1
+2023-01-30,1490,Agregado - Chucrut,1
+2023-01-30,1510,Agregado - Salsa Americana,1
+2023-01-30,1520,Agregado - Tocino,1
+2023-01-30,1530,Agregado - Champiñones,2
+2023-01-30,1580,Agregado - Huevo,1
+2023-01-30,1590,Agregado - Pollo,2
+2023-01-30,1600,Agregado - Palta,2
+2023-01-30,1620,Agregado - Cebolla Caramelizada,2
+2023-01-30,1630,Pizza - Margarita - Mediana,1
+2023-01-30,1640,Pizza - Margarita - Grande,1
+2023-01-30,1650,Pizza - Pepperoni - Mediana,2
+2023-01-30,1660,Pizza - Pepperoni - Grande,2
+2023-01-30,1670,Pizza - Salame - Mediana,1
+2023-01-30,1680,Pizza - Salame - Grande,2
+2023-01-30,1690,Pizza - Napolitana - Mediana,7
+2023-01-30,1700,Pizza - Napolitana - Grande,8
+2023-01-30,1710,Pizza - Pollo BBQ - Mediana,2
+2023-01-30,1720,Pizza - Pollo BBQ - Grande,4
+2023-01-30,1730,Jugo - Frambuesa,17
+2023-01-30,1740,Jugo - Melón,7
+2023-01-30,1750,Jugo - Piña,8
+2023-01-30,1760,Jugo - Frutilla,14
+2023-01-30,1770,Bebida - Coca Cola Normal 350,21
+2023-01-30,1780,Bebida - Coca Cola Cero 350,13
+2023-01-30,1790,Bebida - Fanta Normal 350,9
+2023-01-30,1800,Bebida - Sprite Normal 350,4
+2023-01-30,1810,Agua - Sin Gas,3
+2023-01-30,1820,Café - Espresso Intenso,9
+2023-01-30,1850,Café - Cappuccino,2
+2023-01-30,1860,Té - Hierbas Surtidas,6
+2023-01-30,1870,Agregado - Vienesa Medinger,1
+2023-01-30,1880,Agua - Con Gas,4
+2023-01-30,2000,Envase - Pizza,9
+2023-01-30,2010,Envase - Jugo,2
+2023-01-30,2020,Envase - Papas - Individuales - Mediana,10
+2023-01-30,2030,Envase - Papas - 3 Personas - Grande,6
+2023-01-30,2050,Envase - Completo - Normal,29
+2023-01-30,2060,Envase - Completo - A Lo Pobre - Alercino,5
+2023-01-30,2300,Café - En Polvo,3
+2023-01-30,3050,Jugo - Mango,5
+2023-01-31,1000,Completo - Napolitano,2
+2023-01-31,1010,Completo - Alercino,9
+2023-01-31,1020,Completo - Completo,7
+2023-01-31,1030,Completo - Gringo,3
+2023-01-31,1050,Completo - Chacarero,4
+2023-01-31,1060,Completo - A Lo Pobre,8
+2023-01-31,1070,Completo - Luco,2
+2023-01-31,1080,Completo - Vegetariano,1
+2023-01-31,1090,As Pollo - Napolitano,1
+2023-01-31,1100,As Pollo - Alercino,2
+2023-01-31,1110,As Pollo - Completo,1
+2023-01-31,1130,As Pollo - Casa,1
+2023-01-31,1140,As Pollo - Chacarero,6
+2023-01-31,1160,As Pollo - Luco,1
+2023-01-31,1170,As Carne - Italiano,8
+2023-01-31,1180,As Carne - Napolitano,1
+2023-01-31,1190,As Carne - Alercino,3
+2023-01-31,1200,As Carne - Completo,2
+2023-01-31,1210,As Carne - Gringo,1
+2023-01-31,1220,As Carne - Casa,2
+2023-01-31,1230,As Carne - Chacarero,8
+2023-01-31,1250,As Carne - Luco,1
+2023-01-31,1260,Base - Vienesa,4
+2023-01-31,1290,Completo - Italiano,48
+2023-01-31,1300,As Pollo - Italiano,2
+2023-01-31,1310,Papas - Pollo BBQ - Individuales,1
+2023-01-31,1320,Papas - Pollo BBQ - 3 Personas,5
+2023-01-31,1370,Papas - Cheddar - Individuales,7
+2023-01-31,1380,Papas - Cheddar - 3 Personas,2
+2023-01-31,1400,Papas - Bravas - Individuales,2
+2023-01-31,1410,Papas - Bravas - 3 Personas,3
+2023-01-31,1420,Papas - Bravas - 5 Personas,2
+2023-01-31,1430,Papas Fritas - Mediana,5
+2023-01-31,1440,Papas Fritas - Grande,2
+2023-01-31,1450,Salchipapas - Mediana,14
+2023-01-31,1460,Salchipapas - Grande,7
+2023-01-31,1470,Agregado - Queso Cheddar,1
+2023-01-31,1490,Agregado - Chucrut,1
+2023-01-31,1520,Agregado - Tocino,3
+2023-01-31,1540,Agregado - Tomate,2
+2023-01-31,1580,Agregado - Huevo,2
+2023-01-31,1600,Agregado - Palta,6
+2023-01-31,1630,Pizza - Margarita - Mediana,1
+2023-01-31,1640,Pizza - Margarita - Grande,7
+2023-01-31,1660,Pizza - Pepperoni - Grande,3
+2023-01-31,1670,Pizza - Salame - Mediana,3
+2023-01-31,1680,Pizza - Salame - Grande,2
+2023-01-31,1690,Pizza - Napolitana - Mediana,5
+2023-01-31,1700,Pizza - Napolitana - Grande,12
+2023-01-31,1710,Pizza - Pollo BBQ - Mediana,3
+2023-01-31,1720,Pizza - Pollo BBQ - Grande,5
+2023-01-31,1730,Jugo - Frambuesa,37
+2023-01-31,1740,Jugo - Melón,8
+2023-01-31,1750,Jugo - Piña,14
+2023-01-31,1760,Jugo - Frutilla,18
+2023-01-31,1770,Bebida - Coca Cola Normal 350,7
+2023-01-31,1780,Bebida - Coca Cola Cero 350,23
+2023-01-31,1790,Bebida - Fanta Normal 350,1
+2023-01-31,1810,Agua - Sin Gas,2
+2023-01-31,1840,Café - Latte Macchiato Vainilla,1
+2023-01-31,1860,Té - Hierbas Surtidas,3
+2023-01-31,2000,Envase - Pizza,21
+2023-01-31,2010,Envase - Jugo,13
+2023-01-31,2020,Envase - Papas - Individuales - Mediana,5
+2023-01-31,2030,Envase - Papas - 3 Personas - Grande,6
+2023-01-31,2040,Envase - Papas - 5 Personas,2
+2023-01-31,2050,Envase - Completo - Normal,17
+2023-01-31,2060,Envase - Completo - A Lo Pobre - Alercino,18
+2023-01-31,2300,Café - En Polvo,2
+2023-01-31,3000,Café - Lungo,2
+2023-01-31,3050,Jugo - Mango,22
+2023-02-01,1000,Completo - Napolitano,1
+2023-02-01,1010,Completo - Alercino,2
+2023-02-01,1020,Completo - Completo,11
+2023-02-01,1030,Completo - Gringo,2
+2023-02-01,1050,Completo - Chacarero,2
+2023-02-01,1060,Completo - A Lo Pobre,3
+2023-02-01,1080,Completo - Vegetariano,2
+2023-02-01,1100,As Pollo - Alercino,1
+2023-02-01,1110,As Pollo - Completo,1
+2023-02-01,1120,As Pollo - Gringo,1
+2023-02-01,1150,As Pollo - A Lo Pobre,2
+2023-02-01,1160,As Pollo - Luco,2
+2023-02-01,1170,As Carne - Italiano,5
+2023-02-01,1190,As Carne - Alercino,2
+2023-02-01,1200,As Carne - Completo,1
+2023-02-01,1220,As Carne - Casa,1
+2023-02-01,1240,As Carne - A Lo Pobre,1
+2023-02-01,1250,As Carne - Luco,1
+2023-02-01,1260,Base - Vienesa,1
+2023-02-01,1270,Base - As Pollo,2
+2023-02-01,1280,Base - As Carne,1
+2023-02-01,1290,Completo - Italiano,79
+2023-02-01,1300,As Pollo - Italiano,5
+2023-02-01,1310,Papas - Pollo BBQ - Individuales,4
+2023-02-01,1320,Papas - Pollo BBQ - 3 Personas,2
+2023-02-01,1340,Papas - Vegetarianas - Individuales,2
+2023-02-01,1360,Papas - Vegetarianas - 5 Personas,1
+2023-02-01,1370,Papas - Cheddar - Individuales,7
+2023-02-01,1380,Papas - Cheddar - 3 Personas,1
+2023-02-01,1390,Papas - Cheddar - 5 Personas,1
+2023-02-01,1400,Papas - Bravas - Individuales,7
+2023-02-01,1410,Papas - Bravas - 3 Personas,5
+2023-02-01,1420,Papas - Bravas - 5 Personas,3
+2023-02-01,1430,Papas Fritas - Mediana,7
+2023-02-01,1440,Papas Fritas - Grande,2
+2023-02-01,1450,Salchipapas - Mediana,11
+2023-02-01,1460,Salchipapas - Grande,9
+2023-02-01,1470,Agregado - Queso Cheddar,1
+2023-02-01,1490,Agregado - Chucrut,4
+2023-02-01,1510,Agregado - Salsa Americana,2
+2023-02-01,1580,Agregado - Huevo,3
+2023-02-01,1600,Agregado - Palta,2
+2023-02-01,1630,Pizza - Margarita - Mediana,2
+2023-02-01,1640,Pizza - Margarita - Grande,2
+2023-02-01,1650,Pizza - Pepperoni - Mediana,1
+2023-02-01,1660,Pizza - Pepperoni - Grande,2
+2023-02-01,1670,Pizza - Salame - Mediana,4
+2023-02-01,1680,Pizza - Salame - Grande,3
+2023-02-01,1690,Pizza - Napolitana - Mediana,3
+2023-02-01,1700,Pizza - Napolitana - Grande,11
+2023-02-01,1710,Pizza - Pollo BBQ - Mediana,1
+2023-02-01,1720,Pizza - Pollo BBQ - Grande,7
+2023-02-01,1730,Jugo - Frambuesa,44
+2023-02-01,1740,Jugo - Melón,11
+2023-02-01,1750,Jugo - Piña,19
+2023-02-01,1760,Jugo - Frutilla,18
+2023-02-01,1770,Bebida - Coca Cola Normal 350,53
+2023-02-01,1780,Bebida - Coca Cola Cero 350,7
+2023-02-01,1800,Bebida - Sprite Normal 350,1
+2023-02-01,1810,Agua - Sin Gas,1
+2023-02-01,1820,Café - Espresso Intenso,1
+2023-02-01,1860,Té - Hierbas Surtidas,4
+2023-02-01,1880,Agua - Con Gas,1
+2023-02-01,2000,Envase - Pizza,5
+2023-02-01,2010,Envase - Jugo,2
+2023-02-01,2020,Envase - Papas - Individuales - Mediana,11
+2023-02-01,2030,Envase - Papas - 3 Personas - Grande,9
+2023-02-01,2040,Envase - Papas - 5 Personas,2
+2023-02-01,2050,Envase - Completo - Normal,13
+2023-02-01,2060,Envase - Completo - A Lo Pobre - Alercino,23
+2023-02-01,2300,Café - En Polvo,2
+2023-02-01,3000,Café - Lungo,7
+2023-02-01,3010,Café - Café con Leche,2
+2023-02-01,3050,Jugo - Mango,17
+2023-02-02,1000,Completo - Napolitano,3
+2023-02-02,1010,Completo - Alercino,7
+2023-02-02,1020,Completo - Completo,12
+2023-02-02,1030,Completo - Gringo,2
+2023-02-02,1040,Completo - Casa,6
+2023-02-02,1050,Completo - Chacarero,4
+2023-02-02,1060,Completo - A Lo Pobre,5
+2023-02-02,1070,Completo - Luco,1
+2023-02-02,1100,As Pollo - Alercino,2
+2023-02-02,1130,As Pollo - Casa,1
+2023-02-02,1140,As Pollo - Chacarero,1
+2023-02-02,1150,As Pollo - A Lo Pobre,2
+2023-02-02,1170,As Carne - Italiano,6
+2023-02-02,1190,As Carne - Alercino,2
+2023-02-02,1230,As Carne - Chacarero,4
+2023-02-02,1240,As Carne - A Lo Pobre,1
+2023-02-02,1260,Base - Vienesa,1
+2023-02-02,1290,Completo - Italiano,84
+2023-02-02,1300,As Pollo - Italiano,2
+2023-02-02,1310,Papas - Pollo BBQ - Individuales,5
+2023-02-02,1340,Papas - Vegetarianas - Individuales,2
+2023-02-02,1370,Papas - Cheddar - Individuales,5
+2023-02-02,1380,Papas - Cheddar - 3 Personas,2
+2023-02-02,1390,Papas - Cheddar - 5 Personas,1
+2023-02-02,1400,Papas - Bravas - Individuales,2
+2023-02-02,1410,Papas - Bravas - 3 Personas,4
+2023-02-02,1420,Papas - Bravas - 5 Personas,2
+2023-02-02,1430,Papas Fritas - Mediana,8
+2023-02-02,1440,Papas Fritas - Grande,3
+2023-02-02,1450,Salchipapas - Mediana,3
+2023-02-02,1460,Salchipapas - Grande,1
+2023-02-02,1490,Agregado - Chucrut,1
+2023-02-02,1520,Agregado - Tocino,1
+2023-02-02,1530,Agregado - Champiñones,1
+2023-02-02,1540,Agregado - Tomate,2
+2023-02-02,1600,Agregado - Palta,2
+2023-02-02,1630,Pizza - Margarita - Mediana,1
+2023-02-02,1640,Pizza - Margarita - Grande,1
+2023-02-02,1650,Pizza - Pepperoni - Mediana,3
+2023-02-02,1660,Pizza - Pepperoni - Grande,2
+2023-02-02,1670,Pizza - Salame - Mediana,1
+2023-02-02,1680,Pizza - Salame - Grande,3
+2023-02-02,1690,Pizza - Napolitana - Mediana,4
+2023-02-02,1700,Pizza - Napolitana - Grande,10
+2023-02-02,1710,Pizza - Pollo BBQ - Mediana,1
+2023-02-02,1720,Pizza - Pollo BBQ - Grande,2
+2023-02-02,1730,Jugo - Frambuesa,20
+2023-02-02,1740,Jugo - Melón,10
+2023-02-02,1750,Jugo - Piña,29
+2023-02-02,1760,Jugo - Frutilla,31
+2023-02-02,1770,Bebida - Coca Cola Normal 350,13
+2023-02-02,1780,Bebida - Coca Cola Cero 350,33
+2023-02-02,1790,Bebida - Fanta Normal 350,2
+2023-02-02,1810,Agua - Sin Gas,1
+2023-02-02,1860,Té - Hierbas Surtidas,4
+2023-02-02,1870,Agregado - Vienesa Medinger,2
+2023-02-02,2000,Envase - Pizza,6
+2023-02-02,2010,Envase - Jugo,5
+2023-02-02,2020,Envase - Papas - Individuales - Mediana,6
+2023-02-02,2030,Envase - Papas - 3 Personas - Grande,2
+2023-02-02,2040,Envase - Papas - 5 Personas,2
+2023-02-02,2050,Envase - Completo - Normal,17
+2023-02-02,2060,Envase - Completo - A Lo Pobre - Alercino,20
+2023-02-02,2300,Café - En Polvo,4
+2023-02-02,3000,Café - Lungo,2
+2023-02-02,3050,Jugo - Mango,12
+2023-02-03,1010,Completo - Alercino,5
+2023-02-03,1020,Completo - Completo,16
+2023-02-03,1030,Completo - Gringo,5
+2023-02-03,1040,Completo - Casa,5
+2023-02-03,1050,Completo - Chacarero,4
+2023-02-03,1060,Completo - A Lo Pobre,2
+2023-02-03,1080,Completo - Vegetariano,1
+2023-02-03,1090,As Pollo - Napolitano,1
+2023-02-03,1100,As Pollo - Alercino,6
+2023-02-03,1130,As Pollo - Casa,1
+2023-02-03,1140,As Pollo - Chacarero,1
+2023-02-03,1150,As Pollo - A Lo Pobre,4
+2023-02-03,1160,As Pollo - Luco,3
+2023-02-03,1170,As Carne - Italiano,17
+2023-02-03,1180,As Carne - Napolitano,1
+2023-02-03,1190,As Carne - Alercino,1
+2023-02-03,1210,As Carne - Gringo,2
+2023-02-03,1220,As Carne - Casa,2
+2023-02-03,1230,As Carne - Chacarero,8
+2023-02-03,1240,As Carne - A Lo Pobre,2
+2023-02-03,1260,Base - Vienesa,9
+2023-02-03,1280,Base - As Carne,1
+2023-02-03,1290,Completo - Italiano,7
+2023-02-03,1300,As Pollo - Italiano,11
+2023-02-03,1310,Papas - Pollo BBQ - Individuales,3
+2023-02-03,1320,Papas - Pollo BBQ - 3 Personas,1
+2023-02-03,1340,Papas - Vegetarianas - Individuales,1
+2023-02-03,1370,Papas - Cheddar - Individuales,2
+2023-02-03,1380,Papas - Cheddar - 3 Personas,3
+2023-02-03,1390,Papas - Cheddar - 5 Personas,1
+2023-02-03,1400,Papas - Bravas - Individuales,5
+2023-02-03,1410,Papas - Bravas - 3 Personas,9
+2023-02-03,1420,Papas - Bravas - 5 Personas,2
+2023-02-03,1430,Papas Fritas - Mediana,12
+2023-02-03,1440,Papas Fritas - Grande,2
+2023-02-03,1450,Salchipapas - Mediana,10
+2023-02-03,1460,Salchipapas - Grande,3
+2023-02-03,1500,Agregado - Pepinillo,1
+2023-02-03,1520,Agregado - Tocino,1
+2023-02-03,1530,Agregado - Champiñones,1
+2023-02-03,1540,Agregado - Tomate,4
+2023-02-03,1580,Agregado - Huevo,1
+2023-02-03,1600,Agregado - Palta,5
+2023-02-03,1620,Agregado - Cebolla Caramelizada,1
+2023-02-03,1640,Pizza - Margarita - Grande,6
+2023-02-03,1650,Pizza - Pepperoni - Mediana,2
+2023-02-03,1660,Pizza - Pepperoni - Grande,3
+2023-02-03,1670,Pizza - Salame - Mediana,3
+2023-02-03,1680,Pizza - Salame - Grande,3
+2023-02-03,1690,Pizza - Napolitana - Mediana,7
+2023-02-03,1700,Pizza - Napolitana - Grande,11
+2023-02-03,1710,Pizza - Pollo BBQ - Mediana,1
+2023-02-03,1720,Pizza - Pollo BBQ - Grande,7
+2023-02-03,1730,Jugo - Frambuesa,38
+2023-02-03,1740,Jugo - Melón,6
+2023-02-03,1750,Jugo - Piña,12
+2023-02-03,1760,Jugo - Frutilla,17
+2023-02-03,1770,Bebida - Coca Cola Normal 350,32
+2023-02-03,1780,Bebida - Coca Cola Cero 350,14
+2023-02-03,1790,Bebida - Fanta Normal 350,3
+2023-02-03,1800,Bebida - Sprite Normal 350,2
+2023-02-03,1810,Agua - Sin Gas,2
+2023-02-03,1860,Té - Hierbas Surtidas,3
+2023-02-03,1870,Agregado - Vienesa Medinger,6
+2023-02-03,1880,Agua - Con Gas,1
+2023-02-03,2000,Envase - Pizza,17
+2023-02-03,2010,Envase - Jugo,2
+2023-02-03,2020,Envase - Papas - Individuales - Mediana,12
+2023-02-03,2030,Envase - Papas - 3 Personas - Grande,5
+2023-02-03,2040,Envase - Papas - 5 Personas,2
+2023-02-03,2050,Envase - Completo - Normal,14
+2023-02-03,2060,Envase - Completo - A Lo Pobre - Alercino,20
+2023-02-03,2300,Café - En Polvo,1
+2023-02-03,3000,Café - Lungo,2
+2023-02-03,3010,Café - Café con Leche,2
+2023-02-03,3050,Jugo - Mango,17
+2023-02-03,4030,Salsa de AJí,1
+2023-02-04,1000,Completo - Napolitano,1
+2023-02-04,1010,Completo - Alercino,6
+2023-02-04,1020,Completo - Completo,14
+2023-02-04,1030,Completo - Gringo,1
+2023-02-04,1040,Completo - Casa,2
+2023-02-04,1050,Completo - Chacarero,3
+2023-02-04,1060,Completo - A Lo Pobre,7
+2023-02-04,1070,Completo - Luco,1
+2023-02-04,1080,Completo - Vegetariano,2
+2023-02-04,1100,As Pollo - Alercino,1
+2023-02-04,1110,As Pollo - Completo,1
+2023-02-04,1130,As Pollo - Casa,2
+2023-02-04,1140,As Pollo - Chacarero,2
+2023-02-04,1170,As Carne - Italiano,24
+2023-02-04,1180,As Carne - Napolitano,3
+2023-02-04,1190,As Carne - Alercino,4
+2023-02-04,1200,As Carne - Completo,4
+2023-02-04,1210,As Carne - Gringo,2
+2023-02-04,1220,As Carne - Casa,3
+2023-02-04,1230,As Carne - Chacarero,2
+2023-02-04,1240,As Carne - A Lo Pobre,2
+2023-02-04,1250,As Carne - Luco,1
+2023-02-04,1260,Base - Vienesa,24
+2023-02-04,1270,Base - As Pollo,2
+2023-02-04,1280,Base - As Carne,1
+2023-02-04,1290,Completo - Italiano,3
+2023-02-04,1300,As Pollo - Italiano,16
+2023-02-04,1310,Papas - Pollo BBQ - Individuales,6
+2023-02-04,1320,Papas - Pollo BBQ - 3 Personas,3
+2023-02-04,1330,Papas - Pollo BBQ - 5 Personas,2
+2023-02-04,1340,Papas - Vegetarianas - Individuales,3
+2023-02-04,1350,Papas - Vegetarianas - 3 Personas,2
+2023-02-04,1370,Papas - Cheddar - Individuales,2
+2023-02-04,1380,Papas - Cheddar - 3 Personas,7
+2023-02-04,1390,Papas - Cheddar - 5 Personas,1
+2023-02-04,1400,Papas - Bravas - Individuales,9
+2023-02-04,1410,Papas - Bravas - 3 Personas,9
+2023-02-04,1420,Papas - Bravas - 5 Personas,1
+2023-02-04,1430,Papas Fritas - Mediana,14
+2023-02-04,1440,Papas Fritas - Grande,1
+2023-02-04,1450,Salchipapas - Mediana,11
+2023-02-04,1460,Salchipapas - Grande,7
+2023-02-04,1470,Agregado - Queso Cheddar,1
+2023-02-04,1480,Agregado - Carne Churrasco,1
+2023-02-04,1510,Agregado - Salsa Americana,1
+2023-02-04,1520,Agregado - Tocino,1
+2023-02-04,1530,Agregado - Champiñones,2
+2023-02-04,1540,Agregado - Tomate,15
+2023-02-04,1550,Agregado - Choclo,2
+2023-02-04,1580,Agregado - Huevo,1
+2023-02-04,1590,Agregado - Pollo,2
+2023-02-04,1600,Agregado - Palta,20
+2023-02-04,1610,Agregado - Queso Mozzarella,1
+2023-02-04,1630,Pizza - Margarita - Mediana,2
+2023-02-04,1640,Pizza - Margarita - Grande,2
+2023-02-04,1650,Pizza - Pepperoni - Mediana,4
+2023-02-04,1660,Pizza - Pepperoni - Grande,3
+2023-02-04,1670,Pizza - Salame - Mediana,4
+2023-02-04,1680,Pizza - Salame - Grande,7
+2023-02-04,1690,Pizza - Napolitana - Mediana,7
+2023-02-04,1700,Pizza - Napolitana - Grande,11
+2023-02-04,1710,Pizza - Pollo BBQ - Mediana,3
+2023-02-04,1720,Pizza - Pollo BBQ - Grande,4
+2023-02-04,1730,Jugo - Frambuesa,59
+2023-02-04,1740,Jugo - Melón,20
+2023-02-04,1750,Jugo - Piña,15
+2023-02-04,1760,Jugo - Frutilla,7
+2023-02-04,1770,Bebida - Coca Cola Normal 350,37
+2023-02-04,1780,Bebida - Coca Cola Cero 350,12
+2023-02-04,1790,Bebida - Fanta Normal 350,2
+2023-02-04,1800,Bebida - Sprite Normal 350,2
+2023-02-04,1860,Té - Hierbas Surtidas,3
+2023-02-04,1870,Agregado - Vienesa Medinger,3
+2023-02-04,1880,Agua - Con Gas,2
+2023-02-04,2000,Envase - Pizza,27
+2023-02-04,2010,Envase - Jugo,11
+2023-02-04,2020,Envase - Papas - Individuales - Mediana,15
+2023-02-04,2030,Envase - Papas - 3 Personas - Grande,16
+2023-02-04,2040,Envase - Papas - 5 Personas,2
+2023-02-04,2050,Envase - Completo - Normal,12
+2023-02-04,2060,Envase - Completo - A Lo Pobre - Alercino,18
+2023-02-04,2300,Café - En Polvo,1
+2023-02-04,3000,Café - Lungo,2
+2023-02-04,3050,Jugo - Mango,22
+2023-02-05,1000,Completo - Napolitano,1
+2023-02-05,1010,Completo - Alercino,2
+2023-02-05,1020,Completo - Completo,22
+2023-02-05,1030,Completo - Gringo,4
+2023-02-05,1040,Completo - Casa,3
+2023-02-05,1060,Completo - A Lo Pobre,1
+2023-02-05,1070,Completo - Luco,1
+2023-02-05,1080,Completo - Vegetariano,1
+2023-02-05,1090,As Pollo - Napolitano,2
+2023-02-05,1100,As Pollo - Alercino,6
+2023-02-05,1120,As Pollo - Gringo,3
+2023-02-05,1130,As Pollo - Casa,4
+2023-02-05,1140,As Pollo - Chacarero,1
+2023-02-05,1150,As Pollo - A Lo Pobre,6
+2023-02-05,1170,As Carne - Italiano,13
+2023-02-05,1190,As Carne - Alercino,2
+2023-02-05,1200,As Carne - Completo,2
+2023-02-05,1210,As Carne - Gringo,1
+2023-02-05,1230,As Carne - Chacarero,7
+2023-02-05,1240,As Carne - A Lo Pobre,1
+2023-02-05,1250,As Carne - Luco,4
+2023-02-05,1260,Base - Vienesa,7
+2023-02-05,1270,Base - As Pollo,1
+2023-02-05,1290,Completo - Italiano,10
+2023-02-05,1300,As Pollo - Italiano,24
+2023-02-05,1310,Papas - Pollo BBQ - Individuales,2
+2023-02-05,1320,Papas - Pollo BBQ - 3 Personas,3
+2023-02-05,1330,Papas - Pollo BBQ - 5 Personas,1
+2023-02-05,1340,Papas - Vegetarianas - Individuales,1
+2023-02-05,1350,Papas - Vegetarianas - 3 Personas,1
+2023-02-05,1370,Papas - Cheddar - Individuales,7
+2023-02-05,1380,Papas - Cheddar - 3 Personas,2
+2023-02-05,1400,Papas - Bravas - Individuales,8
+2023-02-05,1410,Papas - Bravas - 3 Personas,8
+2023-02-05,1420,Papas - Bravas - 5 Personas,2
+2023-02-05,1430,Papas Fritas - Mediana,5
+2023-02-05,1440,Papas Fritas - Grande,7
+2023-02-05,1450,Salchipapas - Mediana,6
+2023-02-05,1460,Salchipapas - Grande,4
+2023-02-05,1470,Agregado - Queso Cheddar,2
+2023-02-05,1520,Agregado - Tocino,2
+2023-02-05,1540,Agregado - Tomate,5
+2023-02-05,1550,Agregado - Choclo,2
+2023-02-05,1580,Agregado - Huevo,1
+2023-02-05,1600,Agregado - Palta,7
+2023-02-05,1630,Pizza - Margarita - Mediana,2
+2023-02-05,1640,Pizza - Margarita - Grande,2
+2023-02-05,1650,Pizza - Pepperoni - Mediana,3
+2023-02-05,1660,Pizza - Pepperoni - Grande,3
+2023-02-05,1670,Pizza - Salame - Mediana,1
+2023-02-05,1680,Pizza - Salame - Grande,6
+2023-02-05,1690,Pizza - Napolitana - Mediana,6
+2023-02-05,1700,Pizza - Napolitana - Grande,12
+2023-02-05,1710,Pizza - Pollo BBQ - Mediana,1
+2023-02-05,1720,Pizza - Pollo BBQ - Grande,7
+2023-02-05,1730,Jugo - Frambuesa,56
+2023-02-05,1740,Jugo - Melón,10
+2023-02-05,1750,Jugo - Piña,18
+2023-02-05,1770,Bebida - Coca Cola Normal 350,38
+2023-02-05,1780,Bebida - Coca Cola Cero 350,12
+2023-02-05,1790,Bebida - Fanta Normal 350,2
+2023-02-05,1800,Bebida - Sprite Normal 350,1
+2023-02-05,1810,Agua - Sin Gas,2
+2023-02-05,1860,Té - Hierbas Surtidas,6
+2023-02-05,1870,Agregado - Vienesa Medinger,9
+2023-02-05,1880,Agua - Con Gas,2
+2023-02-05,2000,Envase - Pizza,17
+2023-02-05,2010,Envase - Jugo,7
+2023-02-05,2020,Envase - Papas - Individuales - Mediana,7
+2023-02-05,2030,Envase - Papas - 3 Personas - Grande,16
+2023-02-05,2040,Envase - Papas - 5 Personas,2
+2023-02-05,2050,Envase - Completo - Normal,12
+2023-02-05,2060,Envase - Completo - A Lo Pobre - Alercino,21
+2023-02-05,2300,Café - En Polvo,2
+2023-02-05,3000,Café - Lungo,1
+2023-02-05,3050,Jugo - Mango,19
+2023-02-06,1010,Completo - Alercino,5
+2023-02-06,1020,Completo - Completo,13
+2023-02-06,1030,Completo - Gringo,2
+2023-02-06,1040,Completo - Casa,5
+2023-02-06,1050,Completo - Chacarero,7
+2023-02-06,1060,Completo - A Lo Pobre,3
+2023-02-06,1070,Completo - Luco,2
+2023-02-06,1080,Completo - Vegetariano,2
+2023-02-06,1100,As Pollo - Alercino,2
+2023-02-06,1110,As Pollo - Completo,1
+2023-02-06,1120,As Pollo - Gringo,1
+2023-02-06,1130,As Pollo - Casa,2
+2023-02-06,1150,As Pollo - A Lo Pobre,5
+2023-02-06,1170,As Carne - Italiano,12
+2023-02-06,1190,As Carne - Alercino,1
+2023-02-06,1200,As Carne - Completo,1
+2023-02-06,1220,As Carne - Casa,3
+2023-02-06,1230,As Carne - Chacarero,2
+2023-02-06,1240,As Carne - A Lo Pobre,4
+2023-02-06,1250,As Carne - Luco,1
+2023-02-06,1260,Base - Vienesa,1
+2023-02-06,1290,Completo - Italiano,73
+2023-02-06,1300,As Pollo - Italiano,10
+2023-02-06,1310,Papas - Pollo BBQ - Individuales,2
+2023-02-06,1320,Papas - Pollo BBQ - 3 Personas,3
+2023-02-06,1370,Papas - Cheddar - Individuales,3
+2023-02-06,1380,Papas - Cheddar - 3 Personas,1
+2023-02-06,1390,Papas - Cheddar - 5 Personas,1
+2023-02-06,1400,Papas - Bravas - Individuales,7
+2023-02-06,1410,Papas - Bravas - 3 Personas,7
+2023-02-06,1420,Papas - Bravas - 5 Personas,2
+2023-02-06,1430,Papas Fritas - Mediana,7
+2023-02-06,1440,Papas Fritas - Grande,3
+2023-02-06,1450,Salchipapas - Mediana,9
+2023-02-06,1460,Salchipapas - Grande,6
+2023-02-06,1490,Agregado - Chucrut,1
+2023-02-06,1520,Agregado - Tocino,1
+2023-02-06,1530,Agregado - Champiñones,2
+2023-02-06,1550,Agregado - Choclo,2
+2023-02-06,1580,Agregado - Huevo,1
+2023-02-06,1590,Agregado - Pollo,1
+2023-02-06,1600,Agregado - Palta,2
+2023-02-06,1630,Pizza - Margarita - Mediana,1
+2023-02-06,1640,Pizza - Margarita - Grande,1
+2023-02-06,1650,Pizza - Pepperoni - Mediana,1
+2023-02-06,1660,Pizza - Pepperoni - Grande,5
+2023-02-06,1670,Pizza - Salame - Mediana,1
+2023-02-06,1680,Pizza - Salame - Grande,2
+2023-02-06,1690,Pizza - Napolitana - Mediana,7
+2023-02-06,1700,Pizza - Napolitana - Grande,8
+2023-02-06,1710,Pizza - Pollo BBQ - Mediana,2
+2023-02-06,1720,Pizza - Pollo BBQ - Grande,7
+2023-02-06,1730,Jugo - Frambuesa,47
+2023-02-06,1740,Jugo - Melón,13
+2023-02-06,1750,Jugo - Piña,21
+2023-02-06,1770,Bebida - Coca Cola Normal 350,32
+2023-02-06,1780,Bebida - Coca Cola Cero 350,9
+2023-02-06,1790,Bebida - Fanta Normal 350,2
+2023-02-06,1800,Bebida - Sprite Normal 350,2
+2023-02-06,1810,Agua - Sin Gas,2
+2023-02-06,1820,Café - Espresso Intenso,6
+2023-02-06,1860,Té - Hierbas Surtidas,3
+2023-02-06,1880,Agua - Con Gas,3
+2023-02-06,2000,Envase - Pizza,17
+2023-02-06,2010,Envase - Jugo,5
+2023-02-06,2020,Envase - Papas - Individuales - Mediana,10
+2023-02-06,2030,Envase - Papas - 3 Personas - Grande,6
+2023-02-06,2040,Envase - Papas - 5 Personas,1
+2023-02-06,2050,Envase - Completo - Normal,59
+2023-02-06,2060,Envase - Completo - A Lo Pobre - Alercino,2
+2023-02-06,2300,Café - En Polvo,1
+2023-02-06,3000,Café - Lungo,5
+2023-02-06,3010,Café - Café con Leche,3
+2023-02-06,3050,Jugo - Mango,15
+2023-02-07,1010,Completo - Alercino,3
+2023-02-07,1020,Completo - Completo,14
+2023-02-07,1030,Completo - Gringo,2
+2023-02-07,1040,Completo - Casa,5
+2023-02-07,1060,Completo - A Lo Pobre,5
+2023-02-07,1070,Completo - Luco,1
+2023-02-07,1080,Completo - Vegetariano,3
+2023-02-07,1090,As Pollo - Napolitano,1
+2023-02-07,1100,As Pollo - Alercino,2
+2023-02-07,1120,As Pollo - Gringo,1
+2023-02-07,1130,As Pollo - Casa,3
+2023-02-07,1140,As Pollo - Chacarero,1
+2023-02-07,1150,As Pollo - A Lo Pobre,2
+2023-02-07,1170,As Carne - Italiano,6
+2023-02-07,1180,As Carne - Napolitano,2
+2023-02-07,1210,As Carne - Gringo,2
+2023-02-07,1220,As Carne - Casa,2
+2023-02-07,1230,As Carne - Chacarero,3
+2023-02-07,1260,Base - Vienesa,2
+2023-02-07,1290,Completo - Italiano,80
+2023-02-07,1300,As Pollo - Italiano,5
+2023-02-07,1310,Papas - Pollo BBQ - Individuales,2
+2023-02-07,1330,Papas - Pollo BBQ - 5 Personas,1
+2023-02-07,1340,Papas - Vegetarianas - Individuales,2
+2023-02-07,1370,Papas - Cheddar - Individuales,3
+2023-02-07,1380,Papas - Cheddar - 3 Personas,1
+2023-02-07,1390,Papas - Cheddar - 5 Personas,1
+2023-02-07,1400,Papas - Bravas - Individuales,3
+2023-02-07,1410,Papas - Bravas - 3 Personas,2
+2023-02-07,1430,Papas Fritas - Mediana,6
+2023-02-07,1440,Papas Fritas - Grande,3
+2023-02-07,1450,Salchipapas - Mediana,3
+2023-02-07,1460,Salchipapas - Grande,2
+2023-02-07,1490,Agregado - Chucrut,1
+2023-02-07,1520,Agregado - Tocino,1
+2023-02-07,1530,Agregado - Champiñones,1
+2023-02-07,1540,Agregado - Tomate,2
+2023-02-07,1590,Agregado - Pollo,1
+2023-02-07,1600,Agregado - Palta,2
+2023-02-07,1610,Agregado - Queso Mozzarella,2
+2023-02-07,1620,Agregado - Cebolla Caramelizada,1
+2023-02-07,1630,Pizza - Margarita - Mediana,2
+2023-02-07,1640,Pizza - Margarita - Grande,3
+2023-02-07,1650,Pizza - Pepperoni - Mediana,3
+2023-02-07,1660,Pizza - Pepperoni - Grande,2
+2023-02-07,1680,Pizza - Salame - Grande,3
+2023-02-07,1690,Pizza - Napolitana - Mediana,7
+2023-02-07,1700,Pizza - Napolitana - Grande,15
+2023-02-07,1710,Pizza - Pollo BBQ - Mediana,1
+2023-02-07,1720,Pizza - Pollo BBQ - Grande,7
+2023-02-07,1730,Jugo - Frambuesa,42
+2023-02-07,1740,Jugo - Melón,11
+2023-02-07,1750,Jugo - Piña,15
+2023-02-07,1760,Jugo - Frutilla,14
+2023-02-07,1770,Bebida - Coca Cola Normal 350,21
+2023-02-07,1780,Bebida - Coca Cola Cero 350,23
+2023-02-07,1790,Bebida - Fanta Normal 350,3
+2023-02-07,1800,Bebida - Sprite Normal 350,3
+2023-02-07,1810,Agua - Sin Gas,4
+2023-02-07,1860,Té - Hierbas Surtidas,2
+2023-02-07,1880,Agua - Con Gas,2
+2023-02-07,2000,Envase - Pizza,18
+2023-02-07,2010,Envase - Jugo,10
+2023-02-07,2020,Envase - Papas - Individuales - Mediana,6
+2023-02-07,2030,Envase - Papas - 3 Personas - Grande,6
+2023-02-07,2040,Envase - Papas - 5 Personas,2
+2023-02-07,2050,Envase - Completo - Normal,13
+2023-02-07,2060,Envase - Completo - A Lo Pobre - Alercino,9
+2023-02-07,2300,Café - En Polvo,3
+2023-02-07,3000,Café - Lungo,2
+2023-02-07,3050,Jugo - Mango,10
+2023-02-07,4040,Salsa BBQ,1
+2023-02-08,1010,Completo - Alercino,5
+2023-02-08,1020,Completo - Completo,11
+2023-02-08,1040,Completo - Casa,2
+2023-02-08,1050,Completo - Chacarero,2
+2023-02-08,1060,Completo - A Lo Pobre,10
+2023-02-08,1070,Completo - Luco,2
+2023-02-08,1100,As Pollo - Alercino,2
+2023-02-08,1130,As Pollo - Casa,2
+2023-02-08,1170,As Carne - Italiano,3
+2023-02-08,1180,As Carne - Napolitano,1
+2023-02-08,1190,As Carne - Alercino,2
+2023-02-08,1200,As Carne - Completo,2
+2023-02-08,1210,As Carne - Gringo,1
+2023-02-08,1220,As Carne - Casa,2
+2023-02-08,1230,As Carne - Chacarero,1
+2023-02-08,1240,As Carne - A Lo Pobre,3
+2023-02-08,1250,As Carne - Luco,1
+2023-02-08,1260,Base - Vienesa,4
+2023-02-08,1270,Base - As Pollo,1
+2023-02-08,1290,Completo - Italiano,61
+2023-02-08,1300,As Pollo - Italiano,3
+2023-02-08,1310,Papas - Pollo BBQ - Individuales,1
+2023-02-08,1330,Papas - Pollo BBQ - 5 Personas,1
+2023-02-08,1340,Papas - Vegetarianas - Individuales,1
+2023-02-08,1370,Papas - Cheddar - Individuales,4
+2023-02-08,1380,Papas - Cheddar - 3 Personas,2
+2023-02-08,1400,Papas - Bravas - Individuales,2
+2023-02-08,1410,Papas - Bravas - 3 Personas,2
+2023-02-08,1420,Papas - Bravas - 5 Personas,1
+2023-02-08,1430,Papas Fritas - Mediana,11
+2023-02-08,1450,Salchipapas - Mediana,7
+2023-02-08,1460,Salchipapas - Grande,5
+2023-02-08,1470,Agregado - Queso Cheddar,2
+2023-02-08,1480,Agregado - Carne Churrasco,1
+2023-02-08,1490,Agregado - Chucrut,2
+2023-02-08,1510,Agregado - Salsa Americana,1
+2023-02-08,1530,Agregado - Champiñones,1
+2023-02-08,1540,Agregado - Tomate,1
+2023-02-08,1550,Agregado - Choclo,1
+2023-02-08,1570,Agregado - Aceitunas Negras,1
+2023-02-08,1580,Agregado - Huevo,2
+2023-02-08,1590,Agregado - Pollo,1
+2023-02-08,1600,Agregado - Palta,2
+2023-02-08,1620,Agregado - Cebolla Caramelizada,1
+2023-02-08,1630,Pizza - Margarita - Mediana,2
+2023-02-08,1640,Pizza - Margarita - Grande,2
+2023-02-08,1650,Pizza - Pepperoni - Mediana,1
+2023-02-08,1660,Pizza - Pepperoni - Grande,3
+2023-02-08,1670,Pizza - Salame - Mediana,2
+2023-02-08,1680,Pizza - Salame - Grande,2
+2023-02-08,1690,Pizza - Napolitana - Mediana,9
+2023-02-08,1700,Pizza - Napolitana - Grande,11
+2023-02-08,1710,Pizza - Pollo BBQ - Mediana,2
+2023-02-08,1720,Pizza - Pollo BBQ - Grande,3
+2023-02-08,1730,Jugo - Frambuesa,32
+2023-02-08,1740,Jugo - Melón,5
+2023-02-08,1750,Jugo - Piña,11
+2023-02-08,1760,Jugo - Frutilla,13
+2023-02-08,1770,Bebida - Coca Cola Normal 350,7
+2023-02-08,1780,Bebida - Coca Cola Cero 350,34
+2023-02-08,1790,Bebida - Fanta Normal 350,1
+2023-02-08,1800,Bebida - Sprite Normal 350,1
+2023-02-08,1860,Té - Hierbas Surtidas,3
+2023-02-08,1880,Agua - Con Gas,2
+2023-02-08,2000,Envase - Pizza,17
+2023-02-08,2010,Envase - Jugo,3
+2023-02-08,2020,Envase - Papas - Individuales - Mediana,4
+2023-02-08,2030,Envase - Papas - 3 Personas - Grande,5
+2023-02-08,2040,Envase - Papas - 5 Personas,2
+2023-02-08,2050,Envase - Completo - Normal,5
+2023-02-08,2060,Envase - Completo - A Lo Pobre - Alercino,21
+2023-02-08,2300,Café - En Polvo,1
+2023-02-08,3000,Café - Lungo,1
+2023-02-08,3050,Jugo - Mango,14
+2023-02-08,4010,Mostaza Miel,2
+2023-02-08,4020,Salsa de Ajo,6
+2023-02-08,4030,Salsa de AJí,4
+2023-02-08,4040,Salsa BBQ,2

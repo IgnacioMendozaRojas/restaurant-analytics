@@ -1,0 +1,1021 @@
+month,product_id,product,product_type,division,group,qty,gross_sales,discounts,food_cost
+2023-02,1290,Completo - Italiano,Completo,Completería,Compuesto,1040,2619243,21368,778391
+2023-02,1730,Jugo - Frambuesa,Jugo,Líquidos,Líquidos,727,2117489,27397,417344
+2023-02,1770,Bebida - Coca Cola Normal 350,Bebida,Líquidos,Líquidos,541,861466,4390,330108
+2023-02,2050,Envase - Completo - Normal,Envase,Envase,Envase,437,52340,149,52489
+2023-02,2000,Envase - Pizza,Envase,Envase,Envase,395,227702,1444,229146
+2023-02,1760,Jugo - Frutilla,Jugo,Líquidos,Líquidos,320,944300,821,179733
+2023-02,1750,Jugo - Piña,Jugo,Líquidos,Líquidos,308,894573,13820,134257
+2023-02,3050,Jugo - Mango,Jugo,Líquidos,Líquidos,294,858199,8570,168653
+2023-02,2060,Envase - Completo - A Lo Pobre - Alercino,Envase,Envase,Envase,270,45584,273,45858
+2023-02,1780,Bebida - Coca Cola Cero 350,Bebida,Líquidos,Líquidos,263,419182,1794,160497
+2023-02,1020,Completo - Completo,Completo,Completería,Compuesto,260,986473,13718,183627
+2023-02,1700,Pizza - Napolitana - Grande,Pizza,Pizzería,Compuesto,237,2979705,35187,536403
+2023-02,2020,Envase - Papas - Individuales - Mediana,Envase,Envase,Envase,211,35557,282,35839
+2023-02,1740,Jugo - Melón,Jugo,Líquidos,Líquidos,204,593761,8570,102907
+2023-02,1170,As Carne - Italiano,As Carne,Completería,Compuesto,193,1150193,2486,263772
+2023-02,1430,Papas Fritas - Mediana,Papas Fritas,Papas,Compuesto,171,667049,1151,53235
+2023-02,1300,As Pollo - Italiano,As Pollo,Completería,Compuesto,159,688194,3644,143661
+2023-02,1450,Salchipapas - Mediana,Salchipapas,Papas,Compuesto,150,739530,4108,70472
+2023-02,2030,Envase - Papas - 3 Personas - Grande,Envase,Envase,Envase,143,31133,274,31407
+2023-02,1690,Pizza - Napolitana - Mediana,Pizza,Pizzería,Compuesto,123,1203376,16476,223206
+2023-02,1260,Base - Vienesa,Base,Completería,Compuesto,122,258209,1739,60695
+2023-02,1720,Pizza - Pollo BBQ - Grande,Pizza,Pizzería,Compuesto,117,1735638,16550,310622
+2023-02,1410,Papas - Bravas - 3 Personas,Papas,Papas,Compuesto,100,980809,17838,164583
+2023-02,1370,Papas - Cheddar - Individuales,Papas,Papas,Compuesto,99,597218,15562,108543
+2023-02,1600,Agregado - Palta,Agregado,Agregados,Compuesto,98,140810,1204,26968
+2023-02,1660,Pizza - Pepperoni - Grande,Pizza,Pizzería,Compuesto,95,1211236,10516,233180
+2023-02,1860,Té - Hierbas Surtidas,Té,Líquidos,Líquidos,93,119710,1138,6228
+2023-02,1400,Papas - Bravas - Individuales,Papas,Papas,Compuesto,91,512670,16455,75967
+2023-02,1010,Completo - Alercino,Completo,Completería,Compuesto,90,389067,9317,76743
+2023-02,1870,Agregado - Vienesa Medinger,Agregado,Agregados,Compuesto,87,116117,0,25535
+2023-02,2010,Envase - Jugo,Envase,Envase,Envase,85,6740,100,6839
+2023-02,1460,Salchipapas - Grande,Salchipapas,Papas,Compuesto,85,508753,2469,69495
+2023-02,3000,Café - Americano (Lungo),Café,Líquidos,Líquidos,81,200238,3112,39043
+2023-02,1040,Completo - Casa,Completo,Completería,Compuesto,77,335714,5540,83634
+2023-02,1680,Pizza - Salame - Grande,Pizza,Pizzería,Compuesto,76,1029579,26861,205953
+2023-02,1540,Agregado - Tomate,Agregado,Agregados,Compuesto,75,63495,0,6577
+2023-02,2300,Café - Nescafé (En Polvo),Café,Líquidos,Líquidos,72,88436,124,6860
+2023-02,1060,Completo - A Lo Pobre,Completo,Completería,Compuesto,71,275346,5418,54654
+2023-02,1790,Bebida - Fanta Normal 350,Bebida,Líquidos,Líquidos,67,107568,0,41010
+2023-02,1050,Completo - Chacarero,Completo,Completería,Compuesto,63,243003,4835,47523
+2023-02,1800,Bebida - Sprite Normal 350,Bebida,Líquidos,Líquidos,61,95616,1328,36960
+2023-02,1230,As Carne - Chacarero,As Carne,Completería,Compuesto,51,294401,0,64947
+2023-02,1310,Papas - Pollo BBQ - Individuales,Papas,Papas,Compuesto,50,308652,3395,53319
+2023-02,1030,Completo - Gringo,Completo,Completería,Compuesto,50,218132,3727,46770
+2023-02,1650,Pizza - Pepperoni - Mediana,Pizza,Pizzería,Compuesto,49,510565,16278,98099
+2023-02,1440,Papas Fritas - Grande,Papas Fritas,Papas,Compuesto,48,237783,2071,23763
+2023-02,1670,Pizza - Salame - Mediana,Pizza,Pizzería,Compuesto,48,499975,17862,99599
+2023-02,1640,Pizza - Margarita - Grande,Pizza,Pizzería,Compuesto,46,484512,0,87793
+2023-02,1710,Pizza - Pollo BBQ - Mediana,Pizza,Pizzería,Compuesto,45,576298,5391,96469
+2023-02,1380,Papas - Cheddar - 3 Personas,Papas,Papas,Compuesto,45,518116,18645,100289
+2023-02,1100,As Pollo - Alercino,As Pollo,Completería,Compuesto,43,202445,12359,37661
+2023-02,1080,Completo - Vegetariano,Completo,Completería,Compuesto,42,143422,1745,29891
+2023-02,6560,Sandwich - Churrasco - Italiano,Sandwich,Sandwichería,Compuesto,41,304618,0,88018
+2023-02,1630,Pizza - Margarita - Mediana,Pizza,Pizzería,Compuesto,39,341213,7428,61872
+2023-02,5090,Té - Agua de Hierbas,Té,Líquidos,Líquidos,37,49302,0,2447
+2023-02,1220,As Carne - Casa,As Carne,Completería,Compuesto,36,222494,14089,56359
+2023-02,1810,Agua - Sin Gas,Agua,Líquidos,Líquidos,33,31059,481,16600
+2023-02,6540,Sandwich - Churrasco - Chacarero,Sandwich,Sandwichería,Compuesto,32,248925,0,62272
+2023-02,1190,As Carne - Alercino,As Carne,Completería,Compuesto,31,177429,10275,41684
+2023-02,4030,Salsa Pote Negro - Salsa de AJí,Salsa Pote Negro,Salsa Pote Negro,Salsa Pote Negro,30,14940,0,1372
+2023-02,1240,As Carne - A Lo Pobre,As Carne,Completería,Compuesto,30,174217,0,38012
+2023-02,1130,As Pollo - Casa,As Pollo,Completería,Compuesto,30,144428,0,32704
+2023-02,1880,Agua - Con Gas,Agua,Líquidos,Líquidos,29,27235,363,14525
+2023-02,1150,As Pollo - A Lo Pobre,As Pollo,Completería,Compuesto,28,128297,1930,22718
+2023-02,1820,Café - Espresso Intenso,Café,Líquidos,Líquidos,28,46314,4482,13546
+2023-02,1420,Papas - Bravas - 5 Personas,Papas,Papas,Compuesto,28,418660,1768,69292
+2023-02,2040,Envase - Papas - 5 Personas,Envase,Envase,Envase,27,10956,0,10956
+2023-02,4020,Salsa Pote Negro - Salsa de Ajo,Salsa Pote Negro,Salsa Pote Negro,Salsa Pote Negro,27,13695,0,1062
+2023-02,1850,Café - Cappuccino,Café,Líquidos,Líquidos,26,64325,0,24701
+2023-02,1320,Papas - Pollo BBQ - 3 Personas,Papas,Papas,Compuesto,25,279104,9952,51815
+2023-02,1250,As Carne - Luco,As Carne,Completería,Compuesto,25,140610,0,32772
+2023-02,1340,Papas - Vegetarianas - Individuales,Papas,Papas,Compuesto,25,119732,2029,20107
+2023-02,6850,Jugo - Maracuyá,Jugo,Líquidos,Líquidos,25,61921,329,25423
+2023-02,1520,Agregado - Tocino,Agregado,Agregados,Compuesto,22,30689,1805,4056
+2023-02,6490,Sandwich - Pollo - Italiano,Sandwich,Sandwichería,Compuesto,22,150844,0,30556
+2023-02,1200,As Carne - Completo,As Carne,Completería,Compuesto,19,109249,2428,22888
+2023-02,13000,Envase - Chorrillana - Pichanga,Envase,Envase,Envase,17,6636,162,6798
+2023-02,6810,Chorrillana - 3 Personas,Chorrillana,Papas,Compuesto,17,238617,0,59436
+2023-02,1490,Agregado - Chucrut,Agregado,Agregados,Compuesto,17,14110,0,896
+2023-02,1180,As Carne - Napolitano,As Carne,Completería,Compuesto,17,96367,2486,22738
+2023-02,1210,As Carne - Gringo,As Carne,Completería,Compuesto,17,101559,0,24004
+2023-02,1140,As Pollo - Chacarero,As Pollo,Completería,Compuesto,17,72334,1826,12336
+2023-02,6570,Sandwich - Churrasco - Luco,Sandwich,Sandwichería,Compuesto,17,116034,0,32880
+2023-02,6830,Pichanga - 3 Personas,Pichanga,Papas,Compuesto,16,259807,14434,81185
+2023-02,1550,Agregado - Choclo,Agregado,Agregados,Compuesto,15,12346,353,1120
+2023-02,6610,Sandwich - Mechada - Chacarero,Sandwich,Sandwichería,Compuesto,15,114291,0,24384
+2023-02,1160,As Pollo - Luco,As Pollo,Completería,Compuesto,14,56100,0,11920
+2023-02,1000,Completo - Napolitano,Completo,Completería,Compuesto,14,56187,1739,12164
+2023-02,3010,Café - Café con Leche,Café,Líquidos,Líquidos,13,23862,9338,6374
+2023-02,1530,Agregado - Champiñones,Agregado,Agregados,Compuesto,13,19256,0,2138
+2023-02,4040,Salsa Pote Negro - Salsa BBQ,Salsa Pote Negro,Salsa Pote Negro,Salsa Pote Negro,12,6225,0,540
+2023-02,1610,Agregado - Queso Mozzarella,Agregado,Agregados,Compuesto,12,18052,0,3972
+2023-02,6590,Sandwich - Churrasco - La Campesina,Sandwich,Sandwichería,Compuesto,12,106991,3689,30050
+2023-02,1070,Completo - Luco,Completo,Completería,Compuesto,12,40404,2897,10172
+2023-02,6530,Sandwich - Churrasco - A Lo Pobre,Sandwich,Sandwichería,Compuesto,12,98978,0,23663
+2023-02,4050,Salsa Pote Negro - Mayonesa,Salsa Pote Negro,Salsa Pote Negro,Salsa Pote Negro,12,6225,0,237
+2023-02,6860,Jugo - Chirimoya,Jugo,Líquidos,Líquidos,12,31125,0,12475
+2023-02,1120,As Pollo - Gringo,As Pollo,Completería,Compuesto,12,55639,2013,11082
+2023-02,1510,Agregado - Salsa Americana,Agregado,Agregados,Compuesto,12,9877,0,627
+2023-02,1580,Agregado - Huevo,Agregado,Agregados,Compuesto,12,9877,0,848
+2023-02,1830,Café - Chococino,Café,Líquidos,Líquidos,12,27182,1868,11155
+2023-02,1840,Café - Latte Macchiato Vainilla,Café,Líquidos,Líquidos,11,26975,0,10358
+2023-02,1330,Papas - Pollo BBQ - 5 Personas,Papas,Papas,Compuesto,10,166631,0,30065
+2023-02,1590,Agregado - Pollo,Agregado,Agregados,Compuesto,10,16855,77,3217
+2023-02,6600,Sandwich - Mechada - A Lo Pobre,Sandwich,Sandwichería,Compuesto,10,77190,0,15996
+2023-02,1270,Base - As Pollo,Base,Completería,Compuesto,9,27340,0,4813
+2023-02,6460,Sandwich - Pollo - A Lo Pobre,Sandwich,Sandwichería,Compuesto,9,62748,706,10498
+2023-02,6550,Sandwich - Churrasco - Completo,Sandwich,Sandwichería,Compuesto,9,66558,0,16300
+2023-02,6470,Sandwich - Pollo - Chacarero,Sandwich,Sandwichería,Compuesto,9,63819,0,10730
+2023-02,4010,Salsa Pote Negro - Mostaza Miel,Salsa Pote Negro,Salsa Pote Negro,Salsa Pote Negro,8,4150,0,1325
+2023-02,1110,As Pollo - Completo,As Pollo,Completería,Compuesto,7,33988,0,5526
+2023-02,7110,Envase - Sandwich Y Completo - A Lo Pobre - Alercino,Envase,Envase,Envase,7,1270,0,1270
+2023-02,1090,As Pollo - Napolitano,As Pollo,Completería,Compuesto,7,32536,0,5893
+2023-02,1470,Agregado - Queso Cheddar,Agregado,Agregados,Compuesto,7,9026,602,485
+2023-02,6630,Sandwich - Mechada - Italiano,Sandwich,Sandwichería,Compuesto,7,53054,0,12467
+2023-02,1350,Papas - Vegetarianas - 3 Personas,Papas,Papas,Compuesto,7,60258,0,10718
+2023-02,6840,Pichanga - 5 Personas,Pichanga,Papas,Compuesto,7,143092,0,44852
+2023-02,1390,Papas - Cheddar - 5 Personas,Papas,Papas,Compuesto,6,98579,0,20285
+2023-02,6500,Sandwich - Pollo - Luco,Sandwich,Sandwichería,Compuesto,6,34802,0,7125
+2023-02,6820,Chorrillana - 5 Personas,Chorrillana,Papas,Compuesto,6,108008,0,26691
+2023-02,1480,Agregado - Carne Churrasco,Agregado,Agregados,Compuesto,5,12812,3913,3916
+2023-02,6770,Sandwich - Hamburguesa - Italiano,Sandwich,Sandwichería,Compuesto,4,35234,0,8761
+2023-02,6520,Sandwich - Pollo - La Campesina,Sandwich,Sandwichería,Compuesto,4,32328,0,6906
+2023-02,1570,Agregado - Aceitunas Negras,Agregado,Agregados,Compuesto,4,3528,0,187
+2023-02,1280,Base - As Carne,Base,Completería,Compuesto,3,11300,1598,3500
+2023-02,1620,Agregado - Cebolla Caramelizada,Agregado,Agregados,Compuesto,3,4814,0,186
+2023-02,6740,Sandwich - Hamburguesa - A Lo Pobre,Sandwich,Sandwichería,Compuesto,2,21638,0,4594
+2023-02,1500,Agregado - Pepinillo,Agregado,Agregados,Compuesto,2,3610,0,401
+2023-02,6780,Sandwich - Hamburguesa - Luco,Sandwich,Sandwichería,Compuesto,2,19895,0,4806
+2023-02,6510,Sandwich - Pollo - Americano,Sandwich,Sandwichería,Compuesto,2,17306,0,2801
+2023-02,6660,Sandwich - Mechada - La Campesina,Sandwich,Sandwichería,Compuesto,2,22286,0,5256
+2023-02,6800,Sandwich - Hamburguesa - La Campesina,Sandwich,Sandwichería,Compuesto,2,23630,0,5893
+2023-02,6580,Sandwich - Churrasco - Americano,Sandwich,Sandwichería,Compuesto,2,19796,0,4669
+2023-02,1560,Agregado - Ají Verde,Agregado,Agregados,Compuesto,2,1411,0,40
+2023-02,6620,Sandwich - Mechada - Completo,Sandwich,Sandwichería,Compuesto,2,12699,0,2492
+2023-02,6640,Sandwich - Mechada - Luco,Sandwich,Sandwichería,Compuesto,2,12367,0,2805
+2023-02,6750,Sandwich - Hamburguesa - Chacarero,Sandwich,Sandwichería,Compuesto,2,13761,0,3104
+2023-02,6790,Sandwich - Hamburguesa - Americano,Sandwich,Sandwichería,Compuesto,1,6964,0,1512
+2023-02,6650,Sandwich - Mechada - Americano,Sandwich,Sandwichería,Compuesto,1,6432,0,1314
+2023-02,1360,Papas - Vegetarianas - 5 Personas,Papas,Papas,Compuesto,1,10500,0,2038
+2023-02,6240,Completo - Italiano,Completo,Completería,Compuesto,284,701350,8300,196934
+2023-02,7100,Envase - Completo - Normal,Envase,Envase,Envase,147,17579,50,17629
+2023-02,7070,Bebida - Coca Cola Normal 350,Bebida,Líquidos,Líquidos,139,218402,3374,84552
+2023-02,6900,Jugo - Frambuesa,Jugo,Líquidos,Líquidos,114,312371,23073,65270
+2023-02,6560,Sandwich - Churrasco - Italiano,Sandwich,Sandwichería,Compuesto,73,534636,12433,154507
+2023-02,7060,Bebida - Coca Cola Cero 350,Bebida,Líquidos,Líquidos,60,85603,10013,36454
+2023-02,6950,Jugo - Piña,Jugo,Líquidos,Líquidos,54,144462,14691,23522
+2023-02,7040,Bebida - Sprite Normal 350,Bebida,Líquidos,Líquidos,54,86320,0,32910
+2023-02,6910,Jugo - Frutilla,Jugo,Líquidos,Líquidos,52,150869,3386,29335
+2023-02,7050,Bebida - Fanta Normal 350,Bebida,Líquidos,Líquidos,46,73040,1328,28353
+2023-02,15000,Sushi Roll,,,,46,223685,0,0
+2023-02,6940,Jugo - Melón,Jugo,Líquidos,Líquidos,46,124874,9794,23008
+2023-02,6870,Salchipapas - Mediana,Salchipapas,Papas,Compuesto,45,219805,2054,20923
+2023-02,6540,Sandwich - Churrasco - Chacarero,Sandwich,Sandwichería,Compuesto,45,321513,23153,85555
+2023-02,6920,Jugo - Mango,Jugo,Líquidos,Líquidos,41,117316,2661,23345
+2023-02,6530,Sandwich - Churrasco - A Lo Pobre,Sandwich,Sandwichería,Compuesto,40,290639,26089,74351
+2023-02,6850,Papas Fritas - Mediana,Papas Fritas,Papas,Compuesto,34,129501,4918,10413
+2023-02,6830,Pichanga - 3 Personas,Pichanga,Papas,Compuesto,33,563934,13414,157293
+2023-02,7130,Envase - Papas - Individuales - Mediana,Envase,Envase,Envase,32,5503,0,5503
+2023-02,6810,Chorrillana - 3 Personas,Chorrillana,Papas,Compuesto,32,437464,5681,109231
+2023-02,13000,Envase - Chorrillana - Pichanga,Envase,Envase,Envase,32,10047,162,10209
+2023-02,7030,Té - Hierbas Surtidas,Té,Líquidos,Líquidos,31,39291,632,2058
+2023-02,6960,Café - Nescafé (En Polvo),Café,Líquidos,Líquidos,29,34030,0,2760
+2023-02,6980,Café - Americano (Lungo),Café,Líquidos,Líquidos,27,63107,3293,12749
+2023-02,6570,Sandwich - Churrasco - Luco,Sandwich,Sandwichería,Compuesto,24,165348,2901,47433
+2023-02,6220,Completo - Completo,Completo,Completería,Compuesto,23,89474,0,15006
+2023-02,6460,Sandwich - Pollo - A Lo Pobre,Sandwich,Sandwichería,Compuesto,22,140329,9652,24087
+2023-02,6880,Salchipapas - Grande,Salchipapas,Papas,Compuesto,22,129264,0,17491
+2023-02,7010,Café - Cappuccino,Café,Líquidos,Líquidos,21,49800,2075,19920
+2023-02,6490,Sandwich - Pollo - Italiano,Sandwich,Sandwichería,Compuesto,18,118431,9206,24963
+2023-02,7120,Envase - Papas - 3 Personas - Grande,Envase,Envase,Envase,18,4017,0,4017
+2023-02,6860,Papas Fritas - Grande,Papas Fritas,Papas,Compuesto,17,80403,2431,8087
+2023-02,7110,Envase - Sandwich Y Completo - A Lo Pobre - Alercino,Envase,Envase,Envase,16,2681,0,2681
+2023-02,7000,Café - Chococino,Café,Líquidos,Líquidos,16,36312,3112,15139
+2023-02,6840,Pichanga - 5 Personas,Pichanga,Papas,Compuesto,15,313014,8943,91323
+2023-02,6990,Café - Espresso Intenso,Café,Líquidos,Líquidos,13,13653,10251,6374
+2023-02,6190,Completo - A Lo Pobre,Completo,Completería,Compuesto,12,49676,0,9391
+2023-02,6320,As Carne - Italiano,As Carne,Completería,Compuesto,12,72090,2486,14405
+2023-02,6210,Completo - Chacarero,Completo,Completería,Compuesto,12,45899,0,7637
+2023-02,6580,Sandwich - Churrasco - Americano,Sandwich,Sandwichería,Compuesto,12,89080,3299,21490
+2023-02,6200,Completo - Alercino,Completo,Completería,Compuesto,10,39130,5590,8205
+2023-02,7090,Agua - Sin Gas,Agua,Líquidos,Líquidos,10,8279,1183,4980
+2023-02,6590,Sandwich - Churrasco - La Campesina,Sandwich,Sandwichería,Compuesto,9,77476,3689,21604
+2023-02,6070,Agregado - Palta,Agregado,Agregados,Compuesto,9,10887,2351,2498
+2023-02,6290,As Carne - Chacarero,As Carne,Completería,Compuesto,9,52498,0,9167
+2023-02,12010,Promoción - Mixta - 20,Promoción,,,8,16600,0,14450
+2023-02,12800,Promoción 19 Febrero,,,,8,28220,0,9230
+2023-02,7150,Envase - Jugo,Envase,Envase,Envase,8,664,0,664
+2023-02,6400,As Pollo - Italiano,As Pollo,Completería,Compuesto,8,36437,0,6818
+2023-02,6230,Completo - Gringo,Completo,Completería,Compuesto,8,33540,3727,7557
+2023-02,13060,Salsa Pote Negro - Salsa de Ají,Salsa Pote Negro,Salsa Pote Negro,Salsa Pote Negro,7,3528,208,256
+2023-02,6250,Completo - Casa,Completo,Completería,Compuesto,7,33242,0,7736
+2023-02,2000,Envase - Pizza,Envase,Envase,Envase,7,3780,71,3851
+2023-02,13090,Salsa Pote Negro - Mayonesa,Salsa Pote Negro,Salsa Pote Negro,Salsa Pote Negro,7,3320,0,133
+2023-02,6550,Sandwich - Churrasco - Completo,Sandwich,Sandwichería,Compuesto,7,48406,0,11737
+2023-02,6820,Chorrillana - 5 Personas,Chorrillana,Papas,Compuesto,7,123438,0,30266
+2023-02,1700,Pizza - Napolitana - Grande,Pizza,Pizzería,Compuesto,6,74949,0,13106
+2023-02,6520,Sandwich - Pollo - La Campesina,Sandwich,Sandwichería,Compuesto,6,38794,6466,9449
+2023-02,6050,Agregado - Chucrut,Agregado,Agregados,Compuesto,6,4938,0,314
+2023-02,6330,As Carne - Casa,As Carne,Completería,Compuesto,6,39450,0,7661
+2023-02,7080,Agua - Con Gas,Agua,Líquidos,Líquidos,5,4731,0,2490
+2023-02,6500,Sandwich - Pollo - Luco,Sandwich,Sandwichería,Compuesto,5,29830,0,6061
+2023-02,6280,As Carne - Alercino,As Carne,Completería,Compuesto,5,30826,0,5630
+2023-02,6430,Base - Vienesa,Base,Completería,Compuesto,5,10906,0,2422
+2023-02,6270,As Carne - A Lo Pobre,As Carne,Completería,Compuesto,5,29133,0,5396
+2023-02,1380,Papas - Cheddar - 3 Personas,Papas,Papas,Compuesto,4,49758,0,8640
+2023-02,6310,As Carne - Gringo,As Carne,Completería,Compuesto,4,25688,0,5093
+2023-02,6340,As Carne - Luco,As Carne,Completería,Compuesto,4,21215,2357,5064
+2023-02,1660,Pizza - Pepperoni - Grande,Pizza,Pizzería,Compuesto,3,41073,1589,8101
+2023-02,13080,Salsa Pote Negro - Salsa de Ajo,Salsa Pote Negro,Salsa Pote Negro,Salsa Pote Negro,3,1660,0,73
+2023-02,6300,As Carne - Completo,As Carne,Completería,Compuesto,3,19422,0,3114
+2023-02,6140,Agregado - Tomate,Agregado,Agregados,Compuesto,3,2822,0,292
+2023-02,6030,Agregado - Champiñones,Agregado,Agregados,Compuesto,3,3009,1805,535
+2023-02,6470,Sandwich - Pollo - Chacarero,Sandwich,Sandwichería,Compuesto,3,20306,2901,3873
+2023-02,1400,Papas - Bravas - Individuales,Papas,Papas,Compuesto,2,14816,0,1987
+2023-02,1410,Papas - Bravas - 3 Personas,Papas,Papas,Compuesto,2,24875,0,3864
+2023-02,1310,Papas - Pollo BBQ - Individuales,Papas,Papas,Compuesto,2,16060,0,2136
+2023-02,6750,Sandwich - Hamburguesa - Chacarero,Sandwich,Sandwichería,Compuesto,2,20642,0,4614
+2023-02,6970,Café - Latte Macchiato Vainilla,Café,Líquidos,Líquidos,2,6225,0,2390
+2023-02,6610,Sandwich - Mechada - Chacarero,Sandwich,Sandwichería,Compuesto,2,19048,0,4019
+2023-02,6410,As Pollo - Casa,As Pollo,Completería,Compuesto,2,12176,0,2432
+2023-02,6260,Completo - Luco,Completo,Completería,Compuesto,2,5793,2897,2005
+2023-02,7020,Café - Café Con Leche,Café,Líquidos,Líquidos,2,3112,3112,1195
+2023-02,6390,As Pollo - Gringo,As Pollo,Completería,Compuesto,2,10334,2067,2201
+2023-02,6350,As Pollo - A Lo Pobre,As Pollo,Completería,Compuesto,2,9649,1930,1782
+2023-02,1720,Pizza - Pollo BBQ - Grande,Pizza,Pizzería,Compuesto,2,24883,0,4349
+2023-02,1340,Papas - Vegetarianas - Individuales,Papas,Papas,Compuesto,2,8117,0,1314
+2023-02,1670,Pizza - Salame - Mediana,Pizza,Pizzería,Compuesto,2,18011,0,3430
+2023-02,1690,Pizza - Napolitana - Mediana,Pizza,Pizzería,Compuesto,2,16517,0,3011
+2023-02,1650,Pizza - Pepperoni - Mediana,Pizza,Pizzería,Compuesto,2,18011,0,3320
+2023-02,6380,As Pollo - Completo,As Pollo,Completería,Compuesto,2,7553,0,1003
+2023-02,6770,Sandwich - Hamburguesa - Italiano,Sandwich,Sandwichería,Compuesto,2,14093,0,3444
+2023-02,6790,Sandwich - Hamburguesa - Americano,Sandwich,Sandwichería,Compuesto,2,13927,0,3013
+2023-02,6110,Agregado - Queso Mozzarella,Agregado,Agregados,Compuesto,2,1805,602,530
+2023-02,6130,Agregado - Tocino,Agregado,Agregados,Compuesto,2,2407,0,300
+2023-02,6440,Base - As Carne,Base,Completería,Compuesto,2,4963,0,1464
+2023-02,6510,Sandwich - Pollo - Americano,Sandwich,Sandwichería,Compuesto,2,11537,0,1846
+2023-02,6180,Agregado - Vienesa Medinger,Agregado,Agregados,Compuesto,2,1204,1204,486
+2023-02,6090,Agregado - Porotos Verdes,Agregado,Agregados,Compuesto,2,0,1411,246
+2023-02,8070,Completo - Napolitano,Completo,Completería,Compuesto,1,3478,0,720
+2023-02,6360,As Pollo - Alercino,As Pollo,Completería,Compuesto,1,4142,0,671
+2023-02,1640,Pizza - Margarita - Grande,Pizza,Pizzería,Compuesto,1,9006,0,1593
+2023-02,6150,Agregado - Carne Churrasco,Agregado,Agregados,Compuesto,1,2971,0,608
+2023-02,6480,Sandwich - Pollo - Completo,Sandwich,Sandwichería,Compuesto,1,5354,0,845
+2023-02,8080,As Carne - Napolitano,As Carne,Completería,Compuesto,1,4972,0,1085
+2023-02,1370,Papas - Cheddar - Individuales,Papas,Papas,Compuesto,1,5188,0,864
+2023-02,1320,Papas - Pollo BBQ - 3 Personas,Papas,Papas,Compuesto,1,9952,0,1428
+2023-02,6620,Sandwich - Mechada - Completo,Sandwich,Sandwichería,Compuesto,1,6350,0,1223
+2023-02,6600,Sandwich - Mechada - A Lo Pobre,Sandwich,Sandwichería,Compuesto,1,6432,0,1312
+2023-02,6020,Agregado - Cebolla Caramelizada,Agregado,Agregados,Compuesto,1,1204,0,64
+2023-02,6640,Sandwich - Mechada - Luco,Sandwich,Sandwichería,Compuesto,1,0,6184,1389
+2023-02,6630,Sandwich - Mechada - Italiano,Sandwich,Sandwichería,Compuesto,1,6632,0,1506
+2023-02,6780,Sandwich - Hamburguesa - Luco,Sandwich,Sandwichería,Compuesto,1,6632,0,1598
+2023-02,6740,Sandwich - Hamburguesa - A Lo Pobre,Sandwich,Sandwichería,Compuesto,1,7213,0,1521
+2023-02,6800,Sandwich - Hamburguesa - La Campesina,Sandwich,Sandwichería,Compuesto,1,3938,3938,1921
+2023-02,6100,Agregado - Queso Cheddar,Agregado,Agregados,Compuesto,1,1204,0,61
+2023-02,13050,Salsa Pote Negro - Salsa de BBQ,Salsa Pote Negro,Salsa Pote Negro,Salsa Pote Negro,1,415,0,25
+2023-02,6420,As Pollo - Luco,As Pollo,Completería,Compuesto,1,3312,0,651
+2023-02,6060,Agregado - Huevo Frito,Agregado,Agregados,Compuesto,1,353,353,61
+2023-02,6370,As Pollo - Chacarero,As Pollo,Completería,Compuesto,1,3727,0,609
+2023-07,2020,Envase - Papas - Individuales - Mediana,Envase,Envase,Envase,519,87764,423,88188
+2023-07,1730,Jugo - Frambuesa,Jugo,Líquidos,Líquidos,461,1344293,28444,286064
+2023-07,7320,Combo Papas - Agregado,Combo Papas,Papas,Compuesto,417,620205,618,27916
+2023-07,2300,Café - Nescafé,Café,Líquidos,Líquidos,403,544563,0,31885
+2023-07,1290,Completo - Italiano,Completo,Completería,Compuesto,394,1361449,14484,256858
+2023-07,2000,Envase - Pizza,Envase,Envase,Envase,252,146105,241,130061
+2023-07,1760,Jugo - Frutilla,Jugo,Líquidos,Líquidos,203,594853,11130,79159
+2023-07,1860,Té - Hierbas Surtidas,Té,Líquidos,Líquidos,192,249249,0,12009
+2023-07,1750,Jugo - Piña,Jugo,Líquidos,Líquidos,158,462526,7420,57955
+2023-07,1770,Bebida - Coca Cola Normal 350,Bebida,Líquidos,Líquidos,151,270397,0,92147
+2023-07,1780,Bebida - Coca Cola Cero 350,Bebida,Líquidos,Líquidos,126,225826,0,76958
+2023-07,1020,Completo - Completo,Completo,Completería,Compuesto,114,442332,0,77564
+2023-07,2030,Envase - Papas - 3 Personas - Grande,Envase,Envase,Envase,112,24560,91,24651
+2023-07,2050,Envase - Completo - Normal,Envase,Envase,Envase,111,13346,0,13346
+2023-07,12110,Handroll - Pollo - B,Handroll,Sushi,Compuesto,110,601484,4557,69435
+2023-07,5090,Té - Agua de Hierbas,Té,Líquidos,Líquidos,110,147906,0,6760
+2023-07,3050,Jugo - Mango,Jugo,Líquidos,Líquidos,107,319069,0,62529
+2023-07,6860,Jugo - Chirimoya,Jugo,Líquidos,Líquidos,103,304228,2473,66692
+2023-07,1790,Bebida - Fanta Normal 350,Bebida,Líquidos,Líquidos,99,176798,0,60250
+2023-07,1450,Salchipapas - Mediana,Salchipapas,Papas,Compuesto,97,469141,14467,37556
+2023-07,12010,Promoción - Mixta - 20,Promoción,Sushi,Compuesto,91,997917,4557,134436
+2023-07,6850,Jugo - Maracuyá,Jugo,Líquidos,Líquidos,90,267127,2473,55676
+2023-07,9910,Colación - Merluza a lo Pobre,Colación,Sushi,Compuesto,90,625687,0,115905
+2023-07,1740,Jugo - Melón,Jugo,Líquidos,Líquidos,88,258470,3710,25937
+2023-07,04170,Menú - 4,Menú,Menú,Compuesto,87,521157,0,56357
+2023-07,6560,Sandwich - Churrasco - Italiano,Sandwich,Sandwichería,Compuesto,80,662390,14093,137028
+2023-07,9930,Colación - Merluza Ensalada Arroz,Colación,Sushi,Compuesto,76,449188,2482,86255
+2023-07,1430,Papas Fritas - Mediana,Papas Fritas,Papas,Compuesto,76,300609,0,16919
+2023-07,9850,Menú - 2,Menú,Menú,Compuesto,75,441743,4963,48076
+2023-07,1700,Pizza - Napolitana - Grande,Pizza,Pizzería,Compuesto,75,946982,22624,166633
+2023-07,6830,Pichanga - 3 Personas,Pichanga,Papas,Compuesto,69,1250756,23020,268044
+2023-07,6540,Sandwich - Churrasco - Chacarero,Sandwich,Sandwichería,Compuesto,67,543575,13761,108537
+2023-07,9050,Menú - 1,Menú,Menú,Compuesto,64,379700,2482,44670
+2023-07,1850,Café - Cappuccino,Café,Líquidos,Líquidos,63,157700,0,40119
+2023-07,1800,Bebida - Sprite Normal 350,Bebida,Líquidos,Líquidos,60,106228,743,36454
+2023-07,12020,Promoción - Mixta - 30,Promoción,Sushi,Compuesto,60,893961,1243,114663
+2023-07,2010,Envase - Jugo,Envase,Envase,Envase,57,4548,33,4582
+2023-07,9940,Agregado Sushi - Cambio Proteina,Agregado Sushi,Sushi,Compuesto,57,54780,2490,0
+2023-07,999140,Postres - Copa de Helado,Postres,Sushi,Compuesto,56,196976,0,32509
+2023-07,12100,Handroll - Pollo - A,Handroll,Sushi,Compuesto,56,272804,4133,30697
+2023-07,04010,Jugo - Arándano,Jugo,Líquidos,Líquidos,56,163244,2473,25266
+2023-07,1460,Salchipapas - Grande,Salchipapas,Papas,Compuesto,55,327584,0,37426
+2023-07,6490,Sandwich - Pollo - Italiano,Sandwich,Sandwichería,Compuesto,54,385435,18650,62985
+2023-07,9870,Colación - Merluza Arroz Papas Fritas,Colación,Sushi,Compuesto,54,322621,0,50066
+2023-07,1170,As Carne - Italiano,As Carne,Completería,Compuesto,53,317658,0,56562
+2023-07,6840,Pichanga - 5 Personas,Pichanga,Papas,Compuesto,51,1160054,29245,268144
+2023-07,13000,Envase - Chorrillana - Pichanga,Envase,Envase,Envase,51,19746,0,19746
+2023-07,1410,Papas - Bravas - 3 Personas,Papas,Papas,Compuesto,49,488721,0,66624
+2023-07,7160,Envase Sushi - Sushi Caliente 2 Roll,Envase Sushi,Sushi,Envase Sushi,49,9225,79,9304
+2023-07,1690,Pizza - Napolitana - Mediana,Pizza,Pizzería,Compuesto,48,463042,17395,86159
+2023-07,03220,Pizza - Carnívora - Grande,Pizza,Pizzería,Compuesto,48,703730,17407,118245
+2023-07,6810,Chorrillana - 3 Carnes - 3 Personas,Chorrillana,Papas,Compuesto,46,613586,22725,117957
+2023-07,6610,Sandwich - Mechada - Chacarero,Sandwich,Sandwichería,Compuesto,46,364287,6623,73455
+2023-07,12030,Promoción - Mixta - 40,Promoción,Sushi,Compuesto,46,820787,0,119717
+2023-07,7230,Especial - Carnívoro,Especial,Completería,Compuesto,42,188796,9732,30635
+2023-07,1400,Papas - Bravas - Individuales,Papas,Papas,Compuesto,42,228316,19854,29050
+2023-07,1660,Pizza - Pepperoni - Grande,Pizza,Pizzería,Compuesto,42,507427,31243,102298
+2023-07,999150,Postres - Leche Asada,Postres,Sushi,Compuesto,41,141938,0,21311
+2023-07,6630,Sandwich - Mechada - Italiano,Sandwich,Sandwichería,Compuesto,40,307988,9935,67121
+2023-07,6730,Sandwich - Lomito - La Campesina,Sandwich,Sandwichería,Compuesto,39,370205,0,83327
+2023-07,1440,Papas Fritas - Grande,Papas Fritas,Papas,Compuesto,38,190136,0,13668
+2023-07,7180,Envase Sushi - Sushi Caliente 4 Roll,Envase Sushi,Sushi,Envase Sushi,38,17563,0,17563
+2023-07,2040,Envase - Papas - 5 Personas,Envase,Envase,Envase,36,14276,0,14276
+2023-07,12050,Promoción - Panko - 20,Promoción,Sushi,Compuesto,36,356186,0,37582
+2023-07,6570,Sandwich - Churrasco - Luco,Sandwich,Sandwichería,Compuesto,36,264936,19870,59186
+2023-07,999110,Postres - Suspiro Limeño,Postres,Sushi,Compuesto,35,118765,2897,18232
+2023-07,7170,Envase Sushi - Sushi Caliente 3 Roll,Envase Sushi,Sushi,Envase Sushi,35,10458,0,10109
+2023-07,7190,Especial - Chileno,Especial,Completería,Compuesto,33,120977,1531,13617
+2023-07,7330,Combo Papas - Agregado - S,Combo Papas,Papas,Compuesto,32,48231,0,2169
+2023-07,7210,Especial - Mexicano,Especial,Completería,Compuesto,32,105709,19820,18757
+2023-07,1050,Completo - Chacarero,Completo,Completería,Compuesto,31,118922,3303,20942
+2023-07,12160,Handroll - Kanikama - A,Handroll,Sushi,Compuesto,29,101384,0,14554
+2023-07,9890,Colación - Merluza Papas Fritas,Colación,Sushi,Compuesto,28,168756,0,26922
+2023-07,12230,Handroll - Camarón - B,Handroll,Sushi,Compuesto,27,148977,4806,23532
+2023-07,99900,Sandwich El Merluzo,Sandwich El Merluzo,Sushi,Compuesto,27,198934,0,24462
+2023-07,6820,Chorrillana - 3 Carnes - 5 Personas,Chorrillana,Papas,Compuesto,26,455176,23145,91752
+2023-07,12120,Handroll - Pollo - C,Handroll,Sushi,Compuesto,24,119869,0,13744
+2023-07,999130,Postres - Panacota Frutilla,Postres,Sushi,Compuesto,23,81108,0,11364
+2023-07,12040,Promoción - Mixta - 50,Promoción,Sushi,Compuesto,22,495908,0,70779
+2023-07,12060,Promoción - Panko - 30,Promoción,Sushi,Compuesto,22,310835,12433,33945
+2023-07,04180,Menú - 5,Menú,Menú,Compuesto,21,124085,0,30336
+2023-07,1720,Pizza - Pollo BBQ - Grande,Pizza,Pizzería,Compuesto,21,278508,32327,54738
+2023-07,6530,Sandwich - Churrasco - A Lo Pobre,Sandwich,Sandwichería,Compuesto,21,180318,0,36737
+2023-07,1370,Papas - Cheddar - Individuales,Papas,Papas,Compuesto,21,122686,7831,20252
+2023-07,7130,Envase Sushi - Sushi Frio 2 Roll,Envase Sushi,Sushi,Envase Sushi,20,2926,62,2988
+2023-07,1300,As Pollo - Italiano,As Pollo,Completería,Compuesto,20,85627,1822,14283
+2023-07,1200,As Carne - Completo,As Carne,Completería,Compuesto,20,117329,0,18738
+2023-07,1650,Pizza - Pepperoni - Mediana,Pizza,Pizzería,Compuesto,20,214165,4557,40186
+2023-07,1010,Completo - Alercino,Completo,Completería,Compuesto,20,85714,3727,18795
+2023-07,1810,Agua - Sin Gas,Agua,Líquidos,Líquidos,20,25697,0,9960
+2023-07,1040,Completo - Casa,Completo,Completería,Compuesto,19,81987,3727,18692
+2023-07,7200,Especial - Chorripleto,Especial,Completería,Compuesto,18,76555,1780,12955
+2023-07,05110,Pizza - Del Huerto - Grande,Pizza,Pizzería,Compuesto,18,237015,0,44813
+2023-07,6660,Sandwich - Mechada - La Campesina,Sandwich,Sandwichería,Compuesto,18,156521,7453,35683
+2023-07,1060,Completo - A Lo Pobre,Completo,Completería,Compuesto,18,72675,0,16207
+2023-07,999100,Sandwich El Merluzo a lo Pobre,Sandwich El Merluzo a lo Pobre,Sushi,Compuesto,18,145715,0,22088
+2023-07,6600,Sandwich - Mechada - A Lo Pobre,Sandwich,Sandwichería,Compuesto,17,139091,0,30284
+2023-07,7290,Sandwich - Mechada - Super Rodeo,Sandwich,Sandwichería,Compuesto,17,122616,28851,29909
+2023-07,1030,Completo - Gringo,Completo,Completería,Compuesto,17,76397,1863,16639
+2023-07,1610,Agregado - Queso Fundido,Agregado,Agregados,Compuesto,17,24734,0,4929
+2023-07,1880,Agua - Con Gas,Agua,Líquidos,Líquidos,17,21414,0,8300
+2023-07,7140,Envase Sushi - Sushi Frio 3 Roll,Envase Sushi,Sushi,Envase Sushi,17,4150,0,3868
+2023-07,03150,Pizza - Primavera - Grande,Pizza,Pizzería,Compuesto,16,220465,0,36283
+2023-07,1310,Papas - Pollo BBQ - Individuales,Papas,Papas,Compuesto,16,86187,16160,10986
+2023-07,1230,As Carne - Chacarero,As Carne,Completería,Compuesto,16,86503,4806,14841
+2023-07,6470,Sandwich - Pollo - Chacarero,Sandwich,Sandwichería,Compuesto,16,110075,0,16417
+2023-07,1260,Base - Vienesa,Base,Completería,Compuesto,16,34536,0,7568
+2023-07,1680,Pizza - Salame - Grande,Pizza,Pizzería,Compuesto,15,208861,0,39266
+2023-07,1600,Agregado - Palta,Agregado,Agregados,Compuesto,15,22261,0,2682
+2023-07,7280,Sandwich - Churrasco - Super Rodeo,Sandwich,Sandwichería,Compuesto,14,122616,0,24880
+2023-07,10012,Envase Postre,Envase Postre,Sushi,Envase Sushi,14,1411,0,1411
+2023-07,04120,Menú - 7,Menú,Menú,Compuesto,14,84378,0,19986
+2023-07,1820,Café - Espresso Intenso,Café,Líquidos,Líquidos,14,23157,2241,5171
+2023-07,04160,Menú - 3,Menú,Menú,Compuesto,13,79414,0,8118
+2023-07,1580,Agregado - Huevo,Agregado,Agregados,Compuesto,13,11819,0,2547
+2023-07,1340,Papas - Vegetarianas - Individuales,Papas,Papas,Compuesto,13,64939,0,9576
+2023-07,1380,Papas - Cheddar - 3 Personas,Papas,Papas,Compuesto,13,159094,0,25923
+2023-07,6520,Sandwich - Pollo - La Campesina,Sandwich,Sandwichería,Compuesto,13,105974,0,18095
+2023-07,7150,Envase Sushi - Sushi Caliente 1 Roll,Envase Sushi,Sushi,Envase Sushi,13,1328,0,930
+2023-07,7220,Especial - Ranchero,Especial,Completería,Compuesto,12,49551,0,6773
+2023-07,6680,Sandwich - Lomito - Chacarero,Sandwich,Sandwichería,Compuesto,12,103210,0,21800
+2023-07,1640,Pizza - Margarita - Grande,Pizza,Pizzería,Compuesto,12,123942,12759,23186
+2023-07,9860,Colación - Merluza Ensalada,Colación,Sushi,Compuesto,12,74451,0,13147
+2023-07,6590,Sandwich - Churrasco - La Campesina,Sandwich,Sandwichería,Compuesto,12,110274,0,23388
+2023-07,6460,Sandwich - Pollo - A Lo Pobre,Sandwich,Sandwichería,Compuesto,12,81108,0,13999
+2023-07,3000,Café - Americano (Lungo),Café,Líquidos,Líquidos,12,29050,0,4034
+2023-07,03210,Pizza - Carnívora - Mediana,Pizza,Pizzería,Compuesto,12,150828,0,23882
+2023-07,1630,Pizza - Margarita - Mediana,Pizza,Pizzería,Compuesto,12,104348,0,17782
+2023-07,05170,Pizza - Caprichosa - Grande,Pizza,Pizzería,Compuesto,12,179994,0,33105
+2023-07,3010,Café - Café con Leche,Café,Líquidos,Líquidos,12,29050,0,4473
+2023-07,12170,Handroll - Kanikama - B,Handroll,Sushi,Compuesto,12,54498,0,6716
+2023-07,1240,As Carne - A Lo Pobre,As Carne,Completería,Compuesto,11,63553,0,12349
+2023-07,6770,Sandwich - Hamburguesa - Italiano,Sandwich,Sandwichería,Compuesto,11,91607,0,18898
+2023-07,05210,Pizza - Mechada - Grande,Pizza,Pizzería,Compuesto,11,167137,0,28640
+2023-07,7240,Especial - Mañanero,Especial,Completería,Compuesto,11,42728,3561,8141
+2023-07,1220,As Carne - Casa,As Carne,Completería,Compuesto,10,67628,0,12398
+2023-07,1280,Base - As Carne,Base,Completería,Compuesto,10,39641,0,8778
+2023-07,999120,Postres - Panacota Maracuyá,Postres,Sushi,Compuesto,10,34760,0,4482
+2023-07,7270,Sandwich - Pollo - Super Rodeo,Sandwich,Sandwichería,Compuesto,10,69521,0,11793
+2023-07,12140,Handroll - Salmón - B,Handroll,Sushi,Compuesto,10,64102,539,8980
+2023-07,7300,Sandwich - Hamburguesa - Super Rodeo,Sandwich,Sandwichería,Compuesto,10,83564,0,14621
+2023-07,1670,Pizza - Salame - Mediana,Pizza,Pizzería,Compuesto,10,109377,9943,20113
+2023-07,71900,Envase Sushi - Sushi Especial 1 Roll,Envase Sushi,Sushi,Envase Sushi,10,996,0,996
+2023-07,6700,Sandwich - Lomito - Italiano,Sandwich,Sandwichería,Compuesto,9,70467,7047,17084
+2023-07,6740,Sandwich - Hamburguesa - A Lo Pobre,Sandwich,Sandwichería,Compuesto,9,79340,0,15991
+2023-07,9900,Colación - Merluza Pure,Colación,Sushi,Compuesto,9,54597,0,8279
+2023-07,7310,Sandwich - Lomito - Super Rodeo,Sandwich,Sandwichería,Compuesto,8,72127,0,16633
+2023-07,04110,Menú - 8,Menú,Menú,Compuesto,8,49634,0,5121
+2023-07,6640,Sandwich - Mechada - Luco,Sandwich,Sandwichería,Compuesto,8,62167,0,13433
+2023-07,1270,Base - As Pollo,Base,Completería,Compuesto,8,24734,0,3702
+2023-07,1420,Papas - Bravas - 5 Personas,Papas,Papas,Compuesto,8,124334,0,16836
+2023-07,1210,As Carne - Gringo,As Carne,Completería,Compuesto,8,51377,0,10080
+2023-07,1320,Papas - Pollo BBQ - 3 Personas,Papas,Papas,Compuesto,8,99434,0,11530
+2023-07,1490,Agregado - Chucrut,Agregado,Agregados,Compuesto,7,6648,0,436
+2023-07,05190,Pizza - Patagónica - Grande,Pizza,Pizzería,Compuesto,7,115710,0,22436
+2023-07,1150,As Pollo - A Lo Pobre,As Pollo,Completería,Compuesto,7,35034,0,6057
+2023-07,1830,Café - Chococino,Café,Líquidos,Líquidos,7,18675,0,5498
+2023-07,1520,Agregado - Tocino,Agregado,Agregados,Compuesto,7,11130,0,1352
+2023-07,05100,Pizza - Del Huerto - Mediana,Pizza,Pizzería,Compuesto,7,72907,0,12556
+2023-07,6800,Sandwich - Hamburguesa - La Campesina,Sandwich,Sandwichería,Compuesto,7,63014,0,12648
+2023-07,1190,As Carne - Alercino,As Carne,Completería,Compuesto,7,38533,2569,8041
+2023-07,1840,Café - Latte Macchiato Vainilla,Café,Líquidos,Líquidos,7,16600,0,4824
+2023-07,1710,Pizza - Pollo BBQ - Mediana,Pizza,Pizzería,Compuesto,7,86187,0,14027
+2023-07,9960,Agregado Ensalada,Agregado Ensalada,Menú,Compuesto,6,14467,0,1162
+2023-07,05300,Pizza - Arma tu Pizza,Pizza,Pizzería,Compuesto,6,63794,0,10780
+2023-07,11020,Sushi - Coreano Crispy,Sushi,Sushi,Compuesto,6,30154,0,2797
+2023-07,1530,Agregado - Champiñones Salteados,Agregado,Agregados,Compuesto,6,8657,0,970
+2023-07,05200,Pizza - Mechada - Mediana,Pizza,Pizzería,Compuesto,6,78377,0,12362
+2023-07,05130,Pizza - Hawaiana - Grande,Pizza,Pizzería,Compuesto,6,73101,8122,13112
+2023-07,9880,Colación - Merluza Arroz,Colación,Sushi,Compuesto,5,29780,0,5235
+2023-07,10900,Agregado Sushi - Cubierta Panko,Agregado Sushi,Sushi,Compuesto,5,9860,0,599
+2023-07,9991400,Postres - Panacota Arandano,Postres,Sushi,Compuesto,5,17380,0,2341
+2023-07,2060,Envase - Completo - A Lo Pobre - Alercino,Envase,Envase,Envase,5,847,0,847
+2023-07,6780,Sandwich - Hamburguesa - Luco,Sandwich,Sandwichería,Compuesto,5,39740,0,8130
+2023-07,05150,Pizza - Capresse - Grande,Pizza,Pizzería,Compuesto,5,61498,8122,13092
+2023-07,6790,Sandwich - Hamburguesa - Americano,Sandwich,Sandwichería,Compuesto,5,41782,0,7824
+2023-07,12130,Handroll - Salmón - A,Handroll,Sushi,Compuesto,5,31324,0,4017
+2023-07,12220,Handroll - Camarón - A,Handroll,Sushi,Compuesto,5,27340,0,4029
+2023-07,1130,As Pollo - Casa,As Pollo,Completería,Compuesto,5,24352,0,4419
+2023-07,20,Menú - Consomé,Menú,Menú,Compuesto,4,0,7428,664
+2023-07,1540,Agregado - Tomate,Agregado,Agregados,Compuesto,4,3694,0,506
+2023-07,2500,Agregado - Porotos Verdes,Agregado,Agregados,Compuesto,4,3694,0,423
+2023-07,05160,Pizza - Caprichosa - Mediana,Pizza,Pizzería,Compuesto,4,55984,0,9454
+2023-07,1100,As Pollo - Alercino,As Pollo,Completería,Compuesto,4,16534,4133,3537
+2023-07,12200,Handroll - Champiñón - B,Handroll,Sushi,Compuesto,4,22368,0,3092
+2023-07,6550,Sandwich - Churrasco - Completo,Sandwich,Sandwichería,Compuesto,4,34404,0,6369
+2023-07,6500,Sandwich - Pollo - Luco,Sandwich,Sandwichería,Compuesto,4,24240,2693,4533
+2023-07,12210,Handroll - Champiñón - C,Handroll,Sushi,Compuesto,4,19878,0,2793
+2023-07,12190,Handroll - Champiñón - A,Handroll,Sushi,Compuesto,4,19878,0,2772
+2023-07,7110,Envase - Sandwich,Envase,Envase,Envase,4,1038,0,706
+2023-07,1110,As Pollo - Completo,As Pollo,Completería,Compuesto,4,19048,0,2445
+2023-07,12240,Handroll - Camarón - C,Handroll,Sushi,Compuesto,3,18227,0,2702
+2023-07,05230,Pizza - Cordillerana - Grande,Pizza,Pizzería,Compuesto,3,51427,0,7742
+2023-07,4040,Salsa Pote Negro - Salsa BBQ,Salsa Pote Negro,Salsa Pote Negro,Compuesto,3,1660,0,375
+2023-07,11010,Sushi - Choclo Crispy,Sushi,Sushi,Compuesto,3,12923,4308,2033
+2023-07,5340,Agregado Pizza - Pollo,Agregado Pizza,Pizzería,Compuesto,3,12583,0,923
+2023-07,6620,Sandwich - Mechada - Completo,Sandwich,Sandwichería,Compuesto,3,25531,0,4973
+2023-07,5160,Agregado Pizza - Tomate Rodajas,Agregado Pizza,Pizzería,Compuesto,3,4947,0,482
+2023-07,03200,Pizza - Primavera - Mediana,Pizza,Pizzería,Compuesto,3,39774,0,6320
+2023-07,5210,Agregado Pizza - Tocino,Agregado Pizza,Pizzería,Compuesto,3,12583,0,1899
+2023-07,5370,Agregado Pizza - Carne Vacuno,Agregado Pizza,Pizzería,Compuesto,3,12583,0,2420
+2023-07,4030,Salsa Pote Negro - Salsa de AJí,Salsa Pote Negro,Salsa Pote Negro,Compuesto,3,1660,0,269
+2023-07,1140,As Pollo - Chacarero,As Pollo,Completería,Compuesto,2,11180,0,1494
+2023-07,30,Menú - Consomé Cortesía,Menú,Menú,Compuesto,2,0,0,398
+2023-07,5360,Agregado Pizza - Pepperoni,Agregado Pizza,Pizzería,Compuesto,2,9437,0,1646
+2023-07,1350,Papas - Vegetarianas - 3 Personas,Papas,Papas,Compuesto,2,23630,0,3516
+2023-07,5190,Agregado Pizza - Pimentón Rojo,Agregado Pizza,Pizzería,Compuesto,2,3710,0,209
+2023-07,5130,Agregado Pizza - Choclo,Agregado Pizza,Pizzería,Compuesto,2,3710,0,329
+2023-07,5150,Agregado Pizza - Jamón,Agregado Pizza,Pizzería,Compuesto,2,9437,0,994
+2023-07,5140,Agregado Pizza - Queso Mozzarella,Agregado Pizza,Pizzería,Compuesto,2,9910,0,1778
+2023-07,1620,Agregado - Cebolla Caramelizada,Agregado,Agregados,Compuesto,2,3610,0,239
+2023-07,6750,Sandwich - Hamburguesa - Chacarero,Sandwich,Sandwichería,Compuesto,2,13761,6881,3967
+2023-07,6690,Sandwich - Lomito - Completo,Sandwich,Sandwichería,Compuesto,2,20642,0,4209
+2023-07,5100,Agregado Pizza - Aceitunas Negras,Agregado Pizza,Pizzería,Compuesto,2,3710,0,279
+2023-07,1390,Papas - Cheddar - 5 Personas,Papas,Papas,Compuesto,2,42280,0,7293
+2023-07,6710,Sandwich - Lomito - Luco,Sandwich,Sandwichería,Compuesto,2,19870,0,4365
+2023-07,6670,Sandwich - Lomito - A Lo Pobre,Sandwich,Sandwichería,Compuesto,2,21638,0,4621
+2023-07,05180,Pizza - Patagónica - Mediana,Pizza,Pizzería,Compuesto,2,33590,0,6079
+2023-07,7450,Agregado - Papas Hilo,Agregado,Agregados,Compuesto,2,3212,0,45
+2023-07,1330,Papas - Pollo BBQ - 5 Personas,Papas,Papas,Compuesto,2,42280,0,5157
+2023-07,1870,Agregado - Vienesa Mödinguer,Agregado,Agregados,Compuesto,2,3610,0,787
+2023-07,6720,Sandwich - Lomito - Americano,Sandwich,Sandwichería,Compuesto,2,13927,0,2903
+2023-07,03180,Chorrillana - 2 Carnes - 3 Personas,Chorrillana,Papas,Compuesto,2,22725,0,4104
+2023-07,04380,Agregado Sushi - Cubierta de Palta,Agregado Sushi,Sushi,Compuesto,2,3287,0,271
+2023-07,6510,Sandwich - Pollo - Americano,Sandwich,Sandwichería,Compuesto,2,11587,0,1672
+2023-07,6760,Sandwich - Hamburguesa - Completo,Sandwich,Sandwichería,Compuesto,2,13761,0,2502
+2023-07,1550,Agregado - Choclo,Agregado,Agregados,Compuesto,2,1477,0,113
+2023-07,6480,Sandwich - Pollo - Completo,Sandwich,Sandwichería,Compuesto,2,11105,0,1598
+2023-07,4020,Salsa Pote Negro - Salsa de Ajo,Salsa Pote Negro,Salsa Pote Negro,Compuesto,2,830,0,120
+2023-07,5220,Agregado Pizza - Cebolla Morada,Agregado Pizza,Pizzería,Compuesto,2,2473,0,133
+2023-07,6580,Sandwich - Churrasco - Americano,Sandwich,Sandwichería,Compuesto,2,13927,0,2600
+2023-07,10,Postre - Piña con Helado,Postre,Sushi,Compuesto,2,6607,0,1660
+2023-07,1120,As Pollo - Gringo,As Pollo,Completería,Compuesto,2,8267,0,1442
+2023-07,1560,Agregado - Ají Verde,Agregado,Agregados,Compuesto,2,1477,0,51
+2023-07,04150,Menú - 6,Menú,Menú,Compuesto,2,9927,0,2261
+2023-07,1570,Agregado - Aceitunas Negras,Agregado,Agregados,Compuesto,2,1477,0,75
+2023-07,05140,Pizza - Capresse - Mediana,Pizza,Pizzería,Compuesto,1,9943,0,1708
+2023-07,1360,Papas - Vegetarianas - 5 Personas,Papas,Papas,Compuesto,1,11363,0,1765
+2023-07,5120,Agregado Pizza - Champiñones,Agregado Pizza,Pizzería,Compuesto,1,1237,0,178
+2023-07,5350,Agregado Pizza - Salame,Agregado Pizza,Pizzería,Compuesto,1,3146,0,442
+2023-07,1510,Agregado - Salsa Americana,Agregado,Agregados,Compuesto,1,739,0,40
+2023-07,5240,Agregado Pizza - Mechada,Agregado Pizza,Pizzería,Compuesto,1,3146,0,452
+2023-07,12150,Handroll - Salmón - C,Handroll,Sushi,Compuesto,1,5138,0,664
+2023-07,5170,Agregado Pizza - Pimentón Verde,Agregado Pizza,Pizzería,Compuesto,1,1237,0,50
+2023-07,1500,Agregado - Pepinillo,Agregado,Agregados,Compuesto,1,1237,0,134
+2023-07,05120,Pizza - Hawaiana - Mediana,Pizza,Pizzería,Compuesto,1,9943,0,1504
+2023-07,5260,Agregado Pizza - Tomate Cherry,Agregado Pizza,Pizzería,Compuesto,1,2067,0,458
+2023-07,5230,Agregado Pizza - Piña,Agregado Pizza,Pizzería,Compuesto,1,2067,0,193
+2023-07,13080,Agregado Sushi - Cubierta de Queso Crema,Agregado Sushi,Sushi,Compuesto,1,1643,0,129
+2023-07,6650,Sandwich - Mechada - Americano,Sandwich,Sandwichería,Compuesto,1,6623,0,1264
+2023-07,04280,Agregado - Hamburguesa,Agregado,Agregados,Compuesto,1,3303,0,875
+2023-07,1470,Agregado - Queso Cheddar,Agregado,Agregados,Compuesto,1,1237,0,61
+2023-07,4050,Salsa Pote Negro - Mayonesa,Salsa Pote Negro,Salsa Pote Negro,Compuesto,1,415,0,72
+2023-07,5200,Agregado Pizza - Rúcula,Agregado Pizza,Pizzería,Compuesto,1,1237,0,281
+2023-08,2020,Envase - Papas - Individuales - Mediana,Envase,Envase,Envase,518,87976,71,88046
+2023-08,1730,Jugo - Frambuesa,Jugo,Líquidos,Líquidos,436,1258961,39574,270601
+2023-08,2300,Café - Nescafé,Café,Líquidos,Líquidos,328,442037,560,28195
+2023-08,1290,Completo - Italiano,Completo,Completería,Compuesto,325,1118126,17380,211281
+2023-08,7330,Combo Papas - Agregado - S,Combo Papas,Papas,Compuesto,242,358643,1237,16183
+2023-08,30,Menú - Consomé Cortesía,Menú,Menú,Compuesto,239,0,0,38246
+2023-08,2000,Envase - Pizza,Envase,Envase,Envase,222,128534,0,108589
+2023-08,7320,Combo Papas - Agregado - C,Combo Papas,Papas,Compuesto,202,299900,618,13513
+2023-08,1770,Bebida - Coca Cola Normal 350,Bebida,Líquidos,Líquidos,193,346168,0,117968
+2023-08,1760,Jugo - Frutilla,Jugo,Líquidos,Líquidos,186,540438,13604,67675
+2023-08,1860,Té - Hierbas Surtidas,Té,Líquidos,Líquidos,151,193680,2698,9064
+2023-08,1020,Completo - Completo,Completo,Completería,Compuesto,137,532736,0,94554
+2023-08,1750,Jugo - Piña,Jugo,Líquidos,Líquidos,134,388324,9894,45568
+2023-08,3050,Jugo - Mango,Jugo,Líquidos,Líquidos,126,369773,6184,73677
+2023-08,5090,Té - Agua de Hierbas,Té,Líquidos,Líquidos,119,160232,0,7121
+2023-08,12110,Handroll - Pollo - B,Handroll,Sushi,Compuesto,119,647051,4557,74724
+2023-08,9850,Menú - 2,Menú,Menú,Compuesto,100,593126,2482,63192
+2023-08,04170,Menú - 4,Menú,Menú,Compuesto,96,575754,0,60878
+2023-08,1740,Jugo - Melón,Jugo,Líquidos,Líquidos,93,268364,8657,25936
+2023-08,9910,Colación - Merluza a lo Pobre,Colación,Sushi,Compuesto,91,637274,0,120881
+2023-08,6860,Jugo - Chirimoya,Jugo,Líquidos,Líquidos,91,272074,0,59162
+2023-08,2030,Envase - Papas - 3 Personas - Grande,Envase,Envase,Envase,90,19903,0,19903
+2023-08,6850,Jugo - Maracuyá,Jugo,Líquidos,Líquidos,88,255997,6184,54108
+2023-08,2050,Envase - Completo - Normal,Envase,Envase,Envase,87,10458,0,10458
+2023-08,9050,Menú - 1,Menú,Menú,Compuesto,82,491377,0,56959
+2023-08,6560,Sandwich - Churrasco - Italiano,Sandwich,Sandwichería,Compuesto,81,665913,17617,138281
+2023-08,9930,Colación - Merluza Ensalada Arroz,Colación,Sushi,Compuesto,80,476486,0,93883
+2023-08,12010,Promoción - Mixta - 20,Promoción,Sushi,Compuesto,74,811093,0,106850
+2023-08,2010,Envase - Jugo,Envase,Envase,Envase,69,5511,0,5511
+2023-08,1780,Bebida - Coca Cola Cero 350,Bebida,Líquidos,Líquidos,68,121827,0,41517
+2023-08,1700,Pizza - Napolitana - Grande,Pizza,Pizzería,Compuesto,67,827397,45248,147906
+2023-08,04010,Jugo - Arándano,Jugo,Líquidos,Líquidos,67,186742,13604,30455
+2023-08,1450,Salchipapas - Mediana,Salchipapas,Papas,Compuesto,63,307938,6200,24412
+2023-08,1430,Papas Fritas - Mediana,Papas Fritas,Papas,Compuesto,63,251058,0,14130
+2023-08,1410,Papas - Bravas - 3 Personas,Papas,Papas,Compuesto,61,596405,16567,83706
+2023-08,999140,Postres - Copa de Helado,Postres,Sushi,Compuesto,61,211459,0,34900
+2023-08,1400,Papas - Bravas - Individuales,Papas,Papas,Compuesto,59,332548,19854,41266
+2023-08,1800,Bebida - Sprite Normal 350,Bebida,Líquidos,Líquidos,59,105485,0,35947
+2023-08,1460,Salchipapas - Grande,Salchipapas,Papas,Compuesto,57,342475,0,39173
+2023-08,12100,Handroll - Pollo - A,Handroll,Sushi,Compuesto,56,281071,0,31203
+2023-08,1790,Bebida - Fanta Normal 350,Bebida,Líquidos,Líquidos,56,101028,0,34428
+2023-08,6830,Pichanga - 3 Personas,Pichanga,Papas,Compuesto,51,920802,30693,206443
+2023-08,9870,Colación - Merluza Arroz Papas Fritas,Colación,Sushi,Compuesto,51,302767,0,48528
+2023-08,1170,As Carne - Italiano,As Carne,Completería,Compuesto,50,295322,2482,52579
+2023-08,6810,Chorrillana - 3 Carnes - 3 Personas,Chorrillana,Papas,Compuesto,50,653355,28407,132803
+2023-08,1850,Café - Cappuccino,Café,Líquidos,Líquidos,48,118275,2075,30617
+2023-08,13000,Envase - Chorrillana - Pichanga,Envase,Envase,Envase,48,18775,0,18775
+2023-08,999150,Postres - Leche Asada,Postres,Sushi,Compuesto,47,165112,0,24790
+2023-08,03220,Pizza - Carnívora - Grande,Pizza,Pizzería,Compuesto,46,668917,14920,110702
+2023-08,6490,Sandwich - Pollo - Italiano,Sandwich,Sandwichería,Compuesto,43,320160,3108,50336
+2023-08,6540,Sandwich - Churrasco - Chacarero,Sandwich,Sandwichería,Compuesto,42,330274,13761,66690
+2023-08,6630,Sandwich - Mechada - Italiano,Sandwich,Sandwichería,Compuesto,40,317923,0,66588
+2023-08,1690,Pizza - Napolitana - Mediana,Pizza,Pizzería,Compuesto,39,383521,5798,68736
+2023-08,12020,Promoción - Mixta - 30,Promoción,Sushi,Compuesto,38,571936,0,72555
+2023-08,999110,Postres - Suspiro Limeño,Postres,Sushi,Compuesto,37,120213,10138,19534
+2023-08,6570,Sandwich - Churrasco - Luco,Sandwich,Sandwichería,Compuesto,37,271559,26494,61777
+2023-08,9940,Agregado Sushi - Cambio Proteina,Agregado Sushi,Sushi,Compuesto,37,36520,0,0
+2023-08,1440,Papas Fritas - Grande,Papas Fritas,Papas,Compuesto,36,177736,0,12777
+2023-08,1010,Completo - Alercino,Completo,Completería,Compuesto,34,147205,5590,33140
+2023-08,7160,Envase Sushi - Sushi Caliente 2 Roll,Envase Sushi,Sushi,Envase Sushi,34,6466,0,6466
+2023-08,1660,Pizza - Pepperoni - Grande,Pizza,Pizzería,Compuesto,34,407235,34475,83544
+2023-08,7170,Envase Sushi - Sushi Caliente 3 Roll,Envase Sushi,Sushi,Envase Sushi,33,9960,0,9628
+2023-08,7180,Envase Sushi - Sushi Caliente 4 Roll,Envase Sushi,Sushi,Envase Sushi,32,14508,0,14508
+2023-08,12160,Handroll - Kanikama - A,Handroll,Sushi,Compuesto,32,110075,0,15777
+2023-08,12030,Promoción - Mixta - 40,Promoción,Sushi,Compuesto,30,537242,0,77912
+2023-08,6840,Pichanga - 5 Personas,Pichanga,Papas,Compuesto,29,672636,9748,157733
+2023-08,2040,Envase - Papas - 5 Personas,Envase,Envase,Envase,28,11288,0,11288
+2023-08,12060,Promoción - Panko - 30,Promoción,Sushi,Compuesto,28,422736,0,44372
+2023-08,12040,Promoción - Mixta - 50,Promoción,Sushi,Compuesto,28,648496,0,91970
+2023-08,7230,Especial - Carnívoro,Especial,Completería,Compuesto,27,118727,9732,19669
+2023-08,6730,Sandwich - Lomito - La Campesina,Sandwich,Sandwichería,Compuesto,27,248116,3938,55486
+2023-08,04180,Menú - 5,Menú,Menú,Compuesto,27,158829,0,38831
+2023-08,6610,Sandwich - Mechada - Chacarero,Sandwich,Sandwichería,Compuesto,26,205325,0,40113
+2023-08,6700,Sandwich - Lomito - Italiano,Sandwich,Sandwichería,Compuesto,26,218448,0,47719
+2023-08,7190,Especial - Chileno,Especial,Completería,Compuesto,25,91881,0,12540
+2023-08,1050,Completo - Chacarero,Completo,Completería,Compuesto,25,97450,1652,17231
+2023-08,7290,Sandwich - Mechada - Super Rodeo,Sandwich,Sandwichería,Compuesto,24,173105,36064,41593
+2023-08,999100,Sandwich El Merluzo a lo Pobre,Sandwich El Merluzo a lo Pobre,Sushi,Compuesto,23,185455,0,28735
+2023-08,9890,Colación - Merluza Papas Fritas,Colación,Sushi,Compuesto,23,136494,2482,23018
+2023-08,1030,Completo - Gringo,Completo,Completería,Compuesto,21,87577,5590,19991
+2023-08,12050,Promoción - Panko - 20,Promoción,Sushi,Compuesto,21,207085,0,21835
+2023-08,7200,Especial - Chorripleto,Especial,Completería,Compuesto,21,87237,1780,15364
+2023-08,1310,Papas - Pollo BBQ - Individuales,Papas,Papas,Compuesto,21,121201,13467,14357
+2023-08,7210,Especial - Mexicano,Especial,Completería,Compuesto,21,57810,24776,12667
+2023-08,1600,Agregado - Palta,Agregado,Agregados,Compuesto,21,30299,618,3970
+2023-08,04120,Menú - 7,Menú,Menú,Compuesto,20,119122,0,28047
+2023-08,999120,Postres - Panacota Maracuyá,Postres,Sushi,Compuesto,20,69521,0,8964
+2023-08,99900,Sandwich El Merluzo,Sandwich El Merluzo,Sushi,Compuesto,19,136767,6217,18217
+2023-08,6820,Chorrillana - 3 Carnes - 5 Personas,Chorrillana,Papas,Compuesto,19,354883,0,71579
+2023-08,1300,As Pollo - Italiano,As Pollo,Completería,Compuesto,19,78340,5466,13651
+2023-08,6530,Sandwich - Churrasco - A Lo Pobre,Sandwich,Sandwichería,Compuesto,18,158679,0,32083
+2023-08,04160,Menú - 3,Menú,Menú,Compuesto,18,109195,0,10614
+2023-08,999130,Postres - Panacota Frutilla,Postres,Sushi,Compuesto,18,63727,0,8929
+2023-08,1650,Pizza - Pepperoni - Mediana,Pizza,Pizzería,Compuesto,18,195938,4557,36666
+2023-08,12120,Handroll - Pollo - C,Handroll,Sushi,Compuesto,18,90935,0,10423
+2023-08,12230,Handroll - Camarón - B,Handroll,Sushi,Compuesto,17,91308,4806,14680
+2023-08,7130,Envase Sushi - Sushi Frio 2 Roll,Envase Sushi,Sushi,Envase Sushi,17,2490,0,2490
+2023-08,1040,Completo - Casa,Completo,Completería,Compuesto,17,68944,5590,16384
+2023-08,1720,Pizza - Pollo BBQ - Grande,Pizza,Pizzería,Compuesto,16,223801,12433,40968
+2023-08,6600,Sandwich - Mechada - A Lo Pobre,Sandwich,Sandwichería,Compuesto,16,112598,13247,26951
+2023-08,1880,Agua - Con Gas,Agua,Líquidos,Líquidos,16,20343,0,7885
+2023-08,10012,Envase Postre,Envase Postre,Sushi,Envase Sushi,16,1494,83,1577
+2023-08,1810,Agua - Sin Gas,Agua,Líquidos,Líquidos,16,19808,535,7885
+2023-08,9900,Colación - Merluza Pure,Colación,Sushi,Compuesto,16,94305,0,14783
+2023-08,1370,Papas - Cheddar - Individuales,Papas,Papas,Compuesto,16,91362,7831,15392
+2023-08,1260,Base - Vienesa,Base,Completería,Compuesto,15,30901,1818,7244
+2023-08,1240,As Carne - A Lo Pobre,As Carne,Completería,Compuesto,14,83108,0,16070
+2023-08,7140,Envase Sushi - Sushi Frio 3 Roll,Envase Sushi,Sushi,Envase Sushi,14,3528,0,3288
+2023-08,1380,Papas - Cheddar - 3 Personas,Papas,Papas,Compuesto,14,169038,0,27543
+2023-08,1680,Pizza - Salame - Grande,Pizza,Pizzería,Compuesto,14,191456,5802,36517
+2023-08,71900,Envase Sushi - Sushi Especial 1 Roll,Envase Sushi,Sushi,Envase Sushi,13,1328,0,1328
+2023-08,1670,Pizza - Salame - Mediana,Pizza,Pizzería,Compuesto,13,159094,0,26281
+2023-08,04110,Menú - 8,Menú,Menú,Compuesto,13,79414,0,7862
+2023-08,12140,Handroll - Salmón - B,Handroll,Sushi,Compuesto,12,75414,5387,10841
+2023-08,6520,Sandwich - Pollo - La Campesina,Sandwich,Sandwichería,Compuesto,12,99351,0,16810
+2023-08,9860,Colación - Merluza Ensalada,Colación,Sushi,Compuesto,12,74451,0,13546
+2023-08,03210,Pizza - Carnívora - Mediana,Pizza,Pizzería,Compuesto,12,161601,0,25184
+2023-08,3000,Café - Americano (Lungo),Café,Líquidos,Líquidos,12,31125,0,4856
+2023-08,05210,Pizza - Mechada - Grande,Pizza,Pizzería,Compuesto,12,192850,0,32196
+2023-08,6640,Sandwich - Mechada - Luco,Sandwich,Sandwichería,Compuesto,12,93250,0,19995
+2023-08,1630,Pizza - Margarita - Mediana,Pizza,Pizzería,Compuesto,12,111801,0,18625
+2023-08,7300,Sandwich - Hamburguesa - Super Rodeo,Sandwich,Sandwichería,Compuesto,12,97492,6964,18650
+2023-08,7280,Sandwich - Churrasco - Super Rodeo,Sandwich,Sandwichería,Compuesto,12,100978,0,20637
+2023-08,6590,Sandwich - Churrasco - La Campesina,Sandwich,Sandwichería,Compuesto,12,98459,11815,23197
+2023-08,1060,Completo - A Lo Pobre,Completo,Completería,Compuesto,12,46248,0,10221
+2023-08,2060,Envase - Completo - A Lo Pobre - Alercino,Envase,Envase,Envase,12,1975,0,1975
+2023-08,6660,Sandwich - Mechada - La Campesina,Sandwich,Sandwichería,Compuesto,12,89441,14907,22387
+2023-08,03150,Pizza - Primavera - Grande,Pizza,Pizzería,Compuesto,12,162448,0,26191
+2023-08,05110,Pizza - Del Huerto - Grande,Pizza,Pizzería,Compuesto,12,135745,15083,28678
+2023-08,6500,Sandwich - Pollo - Luco,Sandwich,Sandwichería,Compuesto,11,67334,2693,11804
+2023-08,1640,Pizza - Margarita - Grande,Pizza,Pizzería,Compuesto,11,118474,0,19573
+2023-08,7270,Sandwich - Pollo - Super Rodeo,Sandwich,Sandwichería,Compuesto,11,75314,0,13077
+2023-08,1230,As Carne - Chacarero,As Carne,Completería,Compuesto,11,62474,0,10188
+2023-08,1420,Papas - Bravas - 5 Personas,Papas,Papas,Compuesto,10,142984,6217,20259
+2023-08,6770,Sandwich - Hamburguesa - Italiano,Sandwich,Sandwichería,Compuesto,10,84560,0,16832
+2023-08,9960,Agregado Ensalada,Agregado Ensalada,Menú,Compuesto,10,24800,0,1992
+2023-08,1200,As Carne - Completo,As Carne,Completería,Compuesto,10,58664,0,9435
+2023-08,1820,Café - Espresso Intenso,Café,Líquidos,Líquidos,9,14940,1494,3561
+2023-08,12220,Handroll - Camarón - A,Handroll,Sushi,Compuesto,9,50124,0,7374
+2023-08,7150,Envase Sushi - Sushi Caliente 1 Roll,Envase Sushi,Sushi,Envase Sushi,9,913,0,639
+2023-08,05170,Pizza - Caprichosa - Grande,Pizza,Pizzería,Compuesto,8,128567,0,23871
+2023-08,1580,Agregado - Huevo,Agregado,Agregados,Compuesto,8,6648,739,1527
+2023-08,3010,Café - Café con Leche,Café,Líquidos,Líquidos,8,20750,0,3237
+2023-08,7220,Especial - Ranchero,Especial,Completería,Compuesto,8,33034,0,4426
+2023-08,6580,Sandwich - Churrasco - Americano,Sandwich,Sandwichería,Compuesto,8,69637,0,13039
+2023-08,6460,Sandwich - Pollo - A Lo Pobre,Sandwich,Sandwichería,Compuesto,8,57934,0,9879
+2023-08,1320,Papas - Pollo BBQ - 3 Personas,Papas,Papas,Compuesto,8,94462,4972,11475
+2023-08,5140,Agregado Pizza - Queso Mozzarella,Agregado Pizza,Pizzería,Compuesto,7,21472,8258,5334
+2023-08,6680,Sandwich - Lomito - Chacarero,Sandwich,Sandwichería,Compuesto,7,55046,6881,12931
+2023-08,1610,Agregado - Queso Fundido,Agregado,Agregados,Compuesto,7,11130,0,2129
+2023-08,1120,As Pollo - Gringo,As Pollo,Completería,Compuesto,7,37201,0,6452
+2023-08,1340,Papas - Vegetarianas - Individuales,Papas,Papas,Compuesto,7,32470,4059,5393
+2023-08,11020,Sushi - Coreano Crispy,Sushi,Sushi,Compuesto,7,32308,2154,3106
+2023-08,1150,As Pollo - A Lo Pobre,As Pollo,Completería,Compuesto,7,31142,0,5297
+2023-08,7240,Especial - Mañanero,Especial,Completería,Compuesto,7,28486,0,5033
+2023-08,12170,Handroll - Kanikama - B,Handroll,Sushi,Compuesto,7,31142,0,3830
+2023-08,6470,Sandwich - Pollo - Chacarero,Sandwich,Sandwichería,Compuesto,7,34760,11587,6934
+2023-08,1130,As Pollo - Casa,As Pollo,Completería,Compuesto,7,32470,0,5966
+2023-08,1830,Café - Chococino,Café,Líquidos,Líquidos,7,16600,0,4887
+2023-08,6740,Sandwich - Hamburguesa - A Lo Pobre,Sandwich,Sandwichería,Compuesto,7,57702,0,11574
+2023-08,1840,Café - Latte Macchiato Vainilla,Café,Líquidos,Líquidos,7,15562,1038,5179
+2023-08,12200,Handroll - Champiñón - B,Handroll,Sushi,Compuesto,6,31316,0,4317
+2023-08,1710,Pizza - Pollo BBQ - Mediana,Pizza,Pizzería,Compuesto,6,67872,7541,12194
+2023-08,1140,As Pollo - Chacarero,As Pollo,Completería,Compuesto,6,24224,1863,3492
+2023-08,6800,Sandwich - Hamburguesa - La Campesina,Sandwich,Sandwichería,Compuesto,6,55137,0,11340
+2023-08,9880,Colación - Merluza Arroz,Colación,Sushi,Compuesto,6,34744,0,6256
+2023-08,7310,Sandwich - Lomito - Super Rodeo,Sandwich,Sandwichería,Compuesto,6,50489,0,11643
+2023-08,1540,Agregado - Tomate,Agregado,Agregados,Compuesto,6,5171,0,779
+2023-08,1210,As Carne - Gringo,As Carne,Completería,Compuesto,6,35964,0,7006
+2023-08,1100,As Pollo - Alercino,As Pollo,Completería,Compuesto,6,28934,0,5116
+2023-08,4050,Salsa Pote Negro - Mayonesa,Salsa Pote Negro,Salsa Pote Negro,Compuesto,5,2490,0,433
+2023-08,12190,Handroll - Champiñón - A,Handroll,Sushi,Compuesto,5,23854,0,3314
+2023-08,05130,Pizza - Hawaiana - Grande,Pizza,Pizzería,Compuesto,5,69620,0,11135
+2023-08,5150,Agregado Pizza - Jamón,Agregado Pizza,Pizzería,Compuesto,5,11010,7864,1987
+2023-08,05150,Pizza - Capresse - Grande,Pizza,Pizzería,Compuesto,5,69620,0,13461
+2023-08,12130,Handroll - Salmón - A,Handroll,Sushi,Compuesto,5,20883,10441,3949
+2023-08,1350,Papas - Vegetarianas - 3 Personas,Papas,Papas,Compuesto,5,47260,0,7047
+2023-08,05190,Pizza - Patagónica - Grande,Pizza,Pizzería,Compuesto,5,77140,0,14636
+2023-08,04150,Menú - 6,Menú,Menú,Compuesto,5,29780,0,6756
+2023-08,6670,Sandwich - Lomito - A Lo Pobre,Sandwich,Sandwichería,Compuesto,5,43276,0,9243
+2023-08,6750,Sandwich - Hamburguesa - Chacarero,Sandwich,Sandwichería,Compuesto,4,34404,0,6611
+2023-08,05200,Pizza - Mechada - Mediana,Pizza,Pizzería,Compuesto,4,55984,0,8744
+2023-08,6480,Sandwich - Pollo - Completo,Sandwich,Sandwichería,Compuesto,4,22211,5553,4024
+2023-08,05230,Pizza - Cordillerana - Grande,Pizza,Pizzería,Compuesto,4,57855,6428,9354
+2023-08,6790,Sandwich - Hamburguesa - Americano,Sandwich,Sandwichería,Compuesto,4,34818,0,6545
+2023-08,1220,As Carne - Casa,As Carne,Completería,Compuesto,4,28178,0,5142
+2023-08,6710,Sandwich - Lomito - Luco,Sandwich,Sandwichería,Compuesto,4,33117,0,7275
+2023-08,03200,Pizza - Primavera - Mediana,Pizza,Pizzería,Compuesto,4,49717,0,7707
+2023-08,1110,As Pollo - Completo,As Pollo,Completería,Compuesto,3,15239,0,1987
+2023-08,1530,Agregado - Champiñones Salteados,Agregado,Agregados,Compuesto,3,4947,0,558
+2023-08,5210,Agregado Pizza - Tocino,Agregado Pizza,Pizzería,Compuesto,3,12583,0,1899
+2023-08,05160,Pizza - Caprichosa - Mediana,Pizza,Pizzería,Compuesto,3,44787,0,7609
+2023-08,1870,Agregado - Vienesa Mödinguer,Agregado,Agregados,Compuesto,3,4814,0,1049
+2023-08,10900,Agregado Sushi - Cubierta Panko,Agregado Sushi,Sushi,Compuesto,3,6574,0,388
+2023-08,1490,Agregado - Chucrut,Agregado,Agregados,Compuesto,3,2955,0,222
+2023-08,05100,Pizza - Del Huerto - Mediana,Pizza,Pizzería,Compuesto,2,27340,0,4694
+2023-08,5130,Agregado Pizza - Choclo,Agregado Pizza,Pizzería,Compuesto,2,3710,0,339
+2023-08,5170,Agregado Pizza - Pimentón Verde,Agregado Pizza,Pizzería,Compuesto,2,3710,0,149
+2023-08,05180,Pizza - Patagónica - Mediana,Pizza,Pizzería,Compuesto,2,33590,0,5978
+2023-08,2500,Agregado - Porotos Verdes,Agregado,Agregados,Compuesto,2,2216,0,254
+2023-08,5300,Agregado Pizza - Camarón,Agregado Pizza,Pizzería,Compuesto,2,9437,0,1340
+2023-08,12240,Handroll - Camarón - C,Handroll,Sushi,Compuesto,2,13670,0,2027
+2023-08,1510,Agregado - Salsa Americana,Agregado,Agregados,Compuesto,2,2216,0,120
+2023-08,6510,Sandwich - Pollo - Americano,Sandwich,Sandwichería,Compuesto,2,17380,0,2518
+2023-08,1190,As Carne - Alercino,As Carne,Completería,Compuesto,2,15413,0,3059
+2023-08,04380,Agregado Sushi - Cubierta de Palta,Agregado Sushi,Sushi,Compuesto,2,4930,0,432
+2023-08,11010,Sushi - Choclo Crispy,Sushi,Sushi,Compuesto,2,12923,0,1539
+2023-08,1330,Papas - Pollo BBQ - 5 Personas,Papas,Papas,Compuesto,2,42280,0,5175
+2023-08,1520,Agregado - Tocino,Agregado,Agregados,Compuesto,2,3710,0,451
+2023-08,6550,Sandwich - Churrasco - Completo,Sandwich,Sandwichería,Compuesto,2,20642,0,3822
+2023-08,1390,Papas - Cheddar - 5 Personas,Papas,Papas,Compuesto,2,42280,0,7293
+2023-08,9991400,Postres - Panacota Arandano,Postres,Sushi,Compuesto,2,5793,0,780
+2023-08,12210,Handroll - Champiñón - C,Handroll,Sushi,Compuesto,2,7951,0,1114
+2023-08,4030,Salsa Pote Negro - Salsa de AJí,Salsa Pote Negro,Salsa Pote Negro,Compuesto,2,830,0,134
+2023-08,6780,Sandwich - Hamburguesa - Luco,Sandwich,Sandwichería,Compuesto,2,13247,0,2722
+2023-08,1270,Base - As Pollo,Base,Completería,Compuesto,2,4947,0,727
+2023-08,5190,Agregado Pizza - Pimentón Rojo,Agregado Pizza,Pizzería,Compuesto,2,2473,0,139
+2023-08,5100,Agregado Pizza - Aceitunas Negras,Agregado Pizza,Pizzería,Compuesto,2,2473,0,186
+2023-08,5160,Agregado Pizza - Tomate Rodajas,Agregado Pizza,Pizzería,Compuesto,2,2473,0,251
+2023-08,6690,Sandwich - Lomito - Completo,Sandwich,Sandwichería,Compuesto,2,13761,0,2754
+2023-08,6720,Sandwich - Lomito - Americano,Sandwich,Sandwichería,Compuesto,2,13927,0,2814
+2023-08,12150,Handroll - Salmón - C,Handroll,Sushi,Compuesto,2,10275,0,1326
+2023-08,6650,Sandwich - Mechada - Americano,Sandwich,Sandwichería,Compuesto,2,6623,6623,2528
+2023-08,5370,Agregado Pizza - Carne Vacuno,Agregado Pizza,Pizzería,Compuesto,2,6291,0,1210
+2023-08,5340,Agregado Pizza - Pollo,Agregado Pizza,Pizzería,Compuesto,2,6291,0,461
+2023-08,6620,Sandwich - Mechada - Completo,Sandwich,Sandwichería,Compuesto,2,12765,0,2468
+2023-08,7450,Agregado - Papas Hilo,Agregado,Agregados,Compuesto,2,2141,0,30
+2023-08,1470,Agregado - Queso Cheddar,Agregado,Agregados,Compuesto,2,2473,0,121
+2023-08,1570,Agregado - Aceitunas Negras,Agregado,Agregados,Compuesto,1,739,0,37
+2023-08,1280,Base - As Carne,Base,Completería,Compuesto,1,3303,0,741
+2023-08,030303,Cumpleaños Hans,Cumpleaños Hans,Sushi,Compuesto,1,57270,0,15305
+2023-08,1480,Agregado - Carne Churrasco,Agregado,Agregados,Compuesto,1,3146,0,592
+2023-08,6760,Sandwich - Hamburguesa - Completo,Sandwich,Sandwichería,Compuesto,1,6881,0,1262
+2023-08,1560,Agregado - Ají Verde,Agregado,Agregados,Compuesto,1,739,0,26
+2023-08,5120,Agregado Pizza - Champiñones,Agregado Pizza,Pizzería,Compuesto,1,1237,0,186
+2023-08,05140,Pizza - Capresse - Mediana,Pizza,Pizzería,Compuesto,1,9943,0,1794
+2023-08,12180,Handroll - Kanikama - C,Handroll,Sushi,Compuesto,1,3727,0,418
+2023-08,4020,Salsa Pote Negro - Salsa de Ajo,Salsa Pote Negro,Salsa Pote Negro,Compuesto,1,415,0,60
+2023-08,05300,Pizza - Arma tu Pizza,Pizza,Pizzería,Compuesto,1,9113,0,1506
+2023-08,7460,Agregado - Cebolla Crunch,Agregado,Agregados,Compuesto,1,1071,0,32
+2023-08,05220,Pizza - Cordillerana - Mediana,Pizza,Pizzería,Compuesto,1,11197,0,1512
+2023-08,1590,Agregado - Pollo,Agregado,Agregados,Compuesto,1,1411,0,231
+2023-08,1550,Agregado - Choclo,Agregado,Agregados,Compuesto,1,739,0,56
+2023-08,04280,Agregado - Hamburguesa,Agregado,Agregados,Compuesto,1,3303,0,875
+2023-08,1500,Agregado - Pepinillo,Agregado,Agregados,Compuesto,1,1237,0,134
+2023-09,2020,Envase - Papas - Individuales - Mediana,Envase,Envase,Envase,583,98982,212,99193
+2023-09,1730,Jugo - Frambuesa,Jugo,Líquidos,Líquidos,565,1680953,71160,351008
+2023-09,1290,Completo - Italiano,Completo,Completería,Compuesto,346,1187647,20277,243199
+2023-09,2300,Café - Nescafé,Café,Líquidos,Líquidos,306,423424,0,26339
+2023-09,7320,Combo Papas - Agregado - C,Combo Papas,Papas,Compuesto,297,440265,2473,19908
+2023-09,7330,Combo Papas - Agregado - S,Combo Papas,Papas,Compuesto,286,425425,0,19130
+2023-09,2000,Envase - Pizza,Envase,Envase,Envase,225,130219,241,110216
+2023-09,1760,Jugo - Frutilla,Jugo,Líquidos,Líquidos,203,604464,23954,74136
+2023-09,1750,Jugo - Piña,Jugo,Líquidos,Líquidos,180,559785,7420,63509
+2023-09,1860,Té - Hierbas Surtidas,Té,Líquidos,Líquidos,179,237588,1079,10757
+2023-09,444120,Menú - Consomé Cortesía,Menú,Menú,Compuesto,147,0,0,23506
+2023-09,3050,Jugo - Mango,Jugo,Líquidos,Líquidos,139,425890,7420,73069
+2023-09,1020,Completo - Completo,Completo,Completería,Compuesto,134,519821,3229,96593
+2023-09,1770,Bebida - Coca Cola Normal 350,Bebida,Líquidos,Líquidos,130,233255,0,83050
+2023-09,2010,Envase - Jugo,Envase,Envase,Envase,121,9694,0,9694
+2023-09,1780,Bebida - Coca Cola Cero 350,Bebida,Líquidos,Líquidos,113,200570,1486,68857
+2023-09,5090,Té - Agua de Hierbas,Té,Líquidos,Líquidos,112,153612,560,6723
+2023-09,1740,Jugo - Melón,Jugo,Líquidos,Líquidos,111,339009,6395,31110
+2023-09,6850,Jugo - Maracuyá,Jugo,Líquidos,Líquidos,110,328269,13815,68034
+2023-09,1790,Bebida - Fanta Normal 350,Bebida,Líquidos,Líquidos,105,188684,0,64300
+2023-09,1800,Bebida - Sprite Normal 350,Bebida,Líquidos,Líquidos,104,185712,0,63288
+2023-09,1450,Salchipapas - Mediana,Salchipapas,Papas,Compuesto,101,485674,18600,39188
+2023-09,999140,Postres - Copa de Helado,Postres,Sushi,Compuesto,100,349052,1448,53482
+2023-09,2050,Envase - Completo - Normal,Envase,Envase,Envase,100,11952,0,11952
+2023-09,12110,Handroll - Pollo - B,Handroll,Sushi,Compuesto,97,528577,4557,60801
+2023-09,6860,Jugo - Chirimoya,Jugo,Líquidos,Líquidos,96,291836,10317,56068
+2023-09,444040,Menú - 4,Menú,Menú,Compuesto,96,575754,0,64286
+2023-09,9910,Colación - Merluza a lo Pobre,Colación,Sushi,Compuesto,94,667353,0,121715
+2023-09,12010,Promoción - Mixta - 20,Promoción,Sushi,Compuesto,90,993361,0,129467
+2023-09,04010,Jugo - Arándano,Jugo,Líquidos,Líquidos,84,254146,3710,38035
+2023-09,444010,Menú - 1,Menú,Menú,Compuesto,82,491377,0,61028
+2023-09,6560,Sandwich - Churrasco - Italiano,Sandwich,Sandwichería,Compuesto,82,683530,14093,145697
+2023-09,1430,Papas Fritas - Mediana,Papas Fritas,Papas,Compuesto,81,320430,0,18034
+2023-09,1850,Café - Cappuccino,Café,Líquidos,Líquidos,75,182019,6308,49873
+2023-09,444020,Menú - 2,Menú,Menú,Compuesto,75,439261,7445,62887
+2023-09,2030,Envase - Papas - 3 Personas - Grande,Envase,Envase,Envase,73,15978,91,16069
+2023-09,1700,Pizza - Napolitana - Grande,Pizza,Pizzería,Compuesto,72,937286,0,156308
+2023-09,6830,Pichanga - 3 Personas,Pichanga,Papas,Compuesto,69,1258429,15347,292548
+2023-09,13000,Envase - Chorrillana - Pichanga,Envase,Envase,Envase,67,25896,324,26220
+2023-09,6810,Chorrillana - 3 Carnes - 3 Personas,Chorrillana,Papas,Compuesto,66,880609,28407,197510
+2023-09,1460,Salchipapas - Grande,Salchipapas,Papas,Compuesto,66,389627,2482,44850
+2023-09,999110,Postres - Suspiro Limeño,Postres,Sushi,Compuesto,64,214356,8690,33425
+2023-09,1400,Papas - Bravas - Individuales,Papas,Papas,Compuesto,62,349920,22335,61296
+2023-09,1410,Papas - Bravas - 3 Personas,Papas,Papas,Compuesto,61,563271,41417,112747
+2023-09,12020,Promoción - Mixta - 30,Promoción,Sushi,Compuesto,56,845471,0,105784
+2023-09,6540,Sandwich - Churrasco - Chacarero,Sandwich,Sandwichería,Compuesto,56,461007,6881,88741
+2023-09,9930,Colación - Merluza Ensalada Arroz,Colación,Sushi,Compuesto,53,334258,0,63850
+2023-09,12100,Handroll - Pollo - A,Handroll,Sushi,Compuesto,53,258338,6200,29173
+2023-09,1170,As Carne - Italiano,As Carne,Completería,Compuesto,52,305249,7445,57129
+2023-09,999150,Postres - Leche Asada,Postres,Sushi,Compuesto,51,172354,7242,26965
+2023-09,12160,Handroll - Kanikama - A,Handroll,Sushi,Compuesto,46,159318,2897,22891
+2023-09,1690,Pizza - Napolitana - Mediana,Pizza,Pizzería,Compuesto,46,429080,26507,79142
+2023-09,4390,Agregado Pizza - Masa Gruesa,Agregado Pizza,Pizzería,Compuesto,45,7524,203,3675
+2023-09,1440,Papas Fritas - Grande,Papas Fritas,Papas,Compuesto,40,198403,0,14263
+2023-09,1660,Pizza - Pepperoni - Grande,Pizza,Pizzería,Compuesto,40,500963,16160,95574
+2023-09,6490,Sandwich - Pollo - Italiano,Sandwich,Sandwichería,Compuesto,40,289077,9325,55491
+2023-09,6610,Sandwich - Mechada - Chacarero,Sandwich,Sandwichería,Compuesto,39,304676,6623,61463
+2023-09,12030,Promoción - Mixta - 40,Promoción,Sushi,Compuesto,39,701400,0,100546
+2023-09,7190,Especial - Chileno,Especial,Completería,Compuesto,38,139353,1531,22210
+2023-09,9940,Agregado Sushi - Cambio Proteina,Agregado Sushi,Sushi,Compuesto,38,38180,0,0
+2023-09,6840,Pichanga - 5 Personas,Pichanga,Papas,Compuesto,37,848106,29245,217923
+2023-09,9870,Colación - Merluza Arroz Papas Fritas,Colación,Sushi,Compuesto,36,226706,0,35262
+2023-09,12050,Promoción - Panko - 20,Promoción,Sushi,Compuesto,36,356186,0,37175
+2023-09,6730,Sandwich - Lomito - La Campesina,Sandwich,Sandwichería,Compuesto,35,319006,11815,75225
+2023-09,03220,Pizza - Carnívora - Grande,Pizza,Pizzería,Compuesto,35,522203,0,85460
+2023-09,7130,Envase Sushi - Sushi Frio 2 Roll,Envase Sushi,Sushi,Envase Sushi,34,5104,0,5104
+2023-09,444050,Menú - 5,Menú,Menú,Compuesto,34,203499,0,48404
+2023-09,6570,Sandwich - Churrasco - Luco,Sandwich,Sandwichería,Compuesto,32,241754,16558,52373
+2023-09,7230,Especial - Carnívoro,Especial,Completería,Compuesto,32,144030,7785,24445
+2023-09,6630,Sandwich - Mechada - Italiano,Sandwich,Sandwichería,Compuesto,32,245066,13247,57458
+2023-09,1050,Completo - Chacarero,Completo,Completería,Compuesto,31,118922,3303,21463
+2023-09,6530,Sandwich - Churrasco - A Lo Pobre,Sandwich,Sandwichería,Compuesto,31,248838,18032,51560
+2023-09,1040,Completo - Casa,Completo,Completería,Compuesto,30,132298,1863,29955
+2023-09,999130,Postres - Panacota Frutilla,Postres,Sushi,Compuesto,30,99936,4345,14611
+2023-09,1650,Pizza - Pepperoni - Mediana,Pizza,Pizzería,Compuesto,29,298920,20049,56926
+2023-09,1880,Agua - Con Gas,Agua,Líquidos,Líquidos,27,39068,0,13695
+2023-09,7180,Envase Sushi - Sushi Caliente 4 Roll,Envase Sushi,Sushi,Envase Sushi,27,12218,0,12218
+2023-09,6460,Sandwich - Pollo - A Lo Pobre,Sandwich,Sandwichería,Compuesto,27,159318,26070,34815
+2023-09,444260,Menú - 16,Menú,Menú,Compuesto,26,179595,0,34399
+2023-09,444080,Menú - 8,Menú,Menú,Compuesto,26,134775,0,13151
+2023-09,1370,Papas - Cheddar - Individuales,Papas,Papas,Compuesto,25,133128,23493,27315
+2023-09,12040,Promoción - Mixta - 50,Promoción,Sushi,Compuesto,24,553129,0,77567
+2023-09,7210,Especial - Mexicano,Especial,Completería,Compuesto,24,72675,23124,18219
+2023-09,9890,Colación - Merluza Papas Fritas,Colación,Sushi,Compuesto,24,151409,0,24407
+2023-09,7270,Sandwich - Pollo - Super Rodeo,Sandwich,Sandwichería,Compuesto,23,147732,14484,30515
+2023-09,6600,Sandwich - Mechada - A Lo Pobre,Sandwich,Sandwichería,Compuesto,23,178832,6623,39048
+2023-09,6700,Sandwich - Lomito - Italiano,Sandwich,Sandwichería,Compuesto,22,179691,10570,43178
+2023-09,1060,Completo - A Lo Pobre,Completo,Completería,Compuesto,22,85888,0,18352
+2023-09,1300,As Pollo - Italiano,As Pollo,Completería,Compuesto,22,94736,0,18007
+2023-09,2040,Envase - Papas - 5 Personas,Envase,Envase,Envase,22,8632,0,8632
+2023-09,7300,Sandwich - Hamburguesa - Super Rodeo,Sandwich,Sandwichería,Compuesto,22,156683,24373,36127
+2023-09,1310,Papas - Pollo BBQ - Individuales,Papas,Papas,Compuesto,21,107734,26934,18803
+2023-09,1200,As Carne - Completo,As Carne,Completería,Compuesto,21,122218,0,19703
+2023-09,7160,Envase Sushi - Sushi Caliente 2 Roll,Envase Sushi,Sushi,Envase Sushi,21,3942,0,3942
+2023-09,7140,Envase Sushi - Sushi Frio 3 Roll,Envase Sushi,Sushi,Envase Sushi,21,5188,0,4835
+2023-09,1010,Completo - Alercino,Completo,Completería,Compuesto,20,81987,7453,18457
+2023-09,444070,Menú - 5,Menú,Menú,Compuesto,20,119122,0,26990
+2023-09,3000,Café - Americano (Lungo),Café,Líquidos,Líquidos,20,50630,0,7769
+2023-09,999100,Sandwich El Merluzo a lo Pobre,Sandwich El Merluzo a lo Pobre,Sushi,Compuesto,20,155650,3312,24900
+2023-09,1030,Completo - Gringo,Completo,Completería,Compuesto,19,85714,0,18563
+2023-09,1720,Pizza - Pollo BBQ - Grande,Pizza,Pizzería,Compuesto,19,285968,0,51358
+2023-09,03150,Pizza - Primavera - Grande,Pizza,Pizzería,Compuesto,18,243671,11603,39695
+2023-09,10012,Envase Postre,Envase Postre,Sushi,Envase Sushi,18,1826,0,1826
+2023-09,9860,Colación - Merluza Ensalada,Colación,Sushi,Compuesto,18,114175,0,20378
+2023-09,7170,Envase Sushi - Sushi Caliente 3 Roll,Envase Sushi,Sushi,Envase Sushi,17,5229,0,5055
+2023-09,999120,Postres - Panacota Maracuyá,Postres,Sushi,Compuesto,17,59382,1448,7844
+2023-09,6680,Sandwich - Lomito - Chacarero,Sandwich,Sandwichería,Compuesto,17,144495,0,30138
+2023-09,9900,Colación - Merluza Pure,Colación,Sushi,Compuesto,17,105061,0,16724
+2023-09,1680,Pizza - Salame - Grande,Pizza,Pizzería,Compuesto,17,237870,5802,45161
+2023-09,12140,Handroll - Salmón - B,Handroll,Sushi,Compuesto,17,96961,10773,14332
+2023-09,1810,Agua - Sin Gas,Agua,Líquidos,Líquidos,17,23991,743,8300
+2023-09,444030,Menú - 3,Menú,Menú,Compuesto,17,99268,0,10146
+2023-09,444290,Menú - 19,Menú,Menú,Compuesto,17,115868,0,19882
+2023-09,7200,Especial - Chorripleto,Especial,Completería,Compuesto,17,71214,0,13414
+2023-09,12230,Handroll - Camarón - B,Handroll,Sushi,Compuesto,17,93711,2403,14703
+2023-09,1260,Base - Vienesa,Base,Completería,Compuesto,16,33627,909,7956
+2023-09,7290,Sandwich - Mechada - Super Rodeo,Sandwich,Sandwichería,Compuesto,16,111797,25244,26549
+2023-09,7150,Envase Sushi - Sushi Caliente 1 Roll,Envase Sushi,Sushi,Envase Sushi,16,1577,0,1104
+2023-09,6470,Sandwich - Pollo - Chacarero,Sandwich,Sandwichería,Compuesto,16,107178,2897,18807
+2023-09,1420,Papas - Bravas - 5 Personas,Papas,Papas,Compuesto,15,217584,6217,37530
+2023-09,1600,Agregado - Palta,Agregado,Agregados,Compuesto,15,19787,2473,3630
+2023-09,05210,Pizza - Mechada - Grande,Pizza,Pizzería,Compuesto,15,224992,6428,38074
+2023-09,6520,Sandwich - Pollo - La Campesina,Sandwich,Sandwichería,Compuesto,14,105974,6623,22700
+2023-09,6660,Sandwich - Mechada - La Campesina,Sandwich,Sandwichería,Compuesto,14,126708,0,28933
+2023-09,1670,Pizza - Salame - Mediana,Pizza,Pizzería,Compuesto,14,149151,19887,27783
+2023-09,03210,Pizza - Carnívora - Mediana,Pizza,Pizzería,Compuesto,14,183148,0,29427
+2023-09,6800,Sandwich - Hamburguesa - La Campesina,Sandwich,Sandwichería,Compuesto,13,118150,7877,26609
+2023-09,6770,Sandwich - Hamburguesa - Italiano,Sandwich,Sandwichería,Compuesto,13,112747,0,23829
+2023-09,6820,Chorrillana - 3 Carnes - 5 Personas,Chorrillana,Papas,Compuesto,13,239160,7715,52199
+2023-09,1380,Papas - Cheddar - 3 Personas,Papas,Papas,Compuesto,13,159094,0,28545
+2023-09,1580,Agregado - Huevo,Agregado,Agregados,Compuesto,12,11080,0,1748
+2023-09,05170,Pizza - Caprichosa - Grande,Pizza,Pizzería,Compuesto,12,192850,0,35161
+2023-09,1320,Papas - Pollo BBQ - 3 Personas,Papas,Papas,Compuesto,12,139208,9943,22434
+2023-09,12120,Handroll - Pollo - C,Handroll,Sushi,Compuesto,12,62001,0,7071
+2023-09,1710,Pizza - Pollo BBQ - Mediana,Pizza,Pizzería,Compuesto,12,140054,10773,25043
+2023-09,99900,Sandwich El Merluzo,Sandwich El Merluzo,Sushi,Compuesto,12,87034,0,11243
+2023-09,3010,Café - Café con Leche,Café,Líquidos,Líquidos,12,29299,0,4532
+2023-09,12060,Promoción - Panko - 30,Promoción,Sushi,Compuesto,12,167851,6217,18195
+2023-09,6500,Sandwich - Pollo - Luco,Sandwich,Sandwichería,Compuesto,12,70027,5387,14137
+2023-09,7240,Especial - Mañanero,Especial,Completería,Compuesto,11,42728,3561,7618
+2023-09,999650,Postres - Mouse de Chocolate,Postres,Sushi,Compuesto,11,37657,0,5471
+2023-09,05110,Pizza - Del Huerto - Grande,Pizza,Pizzería,Compuesto,11,132513,7541,25995
+2023-09,05100,Pizza - Del Huerto - Mediana,Pizza,Pizzería,Compuesto,11,118474,0,19814
+2023-09,1130,As Pollo - Casa,As Pollo,Completería,Compuesto,11,52763,0,10513
+2023-09,6590,Sandwich - Churrasco - La Campesina,Sandwich,Sandwichería,Compuesto,10,74829,19692,20376
+2023-09,1830,Café - Chococino,Café,Líquidos,Líquidos,9,22825,0,6720
+2023-09,1230,As Carne - Chacarero,As Carne,Completería,Compuesto,9,52863,0,8504
+2023-09,11010,Sushi - Choclo Crispy,Sushi,Sushi,Compuesto,9,47385,0,5675
+2023-09,71900,Envase Sushi - Sushi Especial 1 Roll,Envase Sushi,Sushi,Envase Sushi,9,913,0,913
+2023-09,6640,Sandwich - Mechada - Luco,Sandwich,Sandwichería,Compuesto,9,62167,6217,14801
+2023-09,7280,Sandwich - Churrasco - Super Rodeo,Sandwich,Sandwichería,Compuesto,9,79340,0,15288
+2023-09,12220,Handroll - Camarón - A,Handroll,Sushi,Compuesto,9,45567,4557,7386
+2023-09,5140,Agregado Pizza - Queso Mozzarella,Agregado Pizza,Pizzería,Compuesto,9,36337,0,6208
+2023-09,999670,Postres - Pera al Vino con Helado,Postres,Sushi,Compuesto,8,26070,2897,12890
+2023-09,444270,Menú - 17,Menú,Menú,Compuesto,8,57934,0,22767
+2023-09,1610,Agregado - Queso Fundido,Agregado,Agregados,Compuesto,8,10512,1855,2258
+2023-09,1640,Pizza - Margarita - Grande,Pizza,Pizzería,Compuesto,8,86577,4557,14610
+2023-09,1540,Agregado - Tomate,Agregado,Agregados,Compuesto,7,5171,1477,842
+2023-09,10900,Agregado Sushi - Cubierta Panko,Agregado Sushi,Sushi,Compuesto,7,14791,0,745
+2023-09,1820,Café - Espresso Intenso,Café,Líquidos,Líquidos,7,9836,3860,2913
+2023-09,5130,Agregado Pizza - Choclo,Agregado Pizza,Pizzería,Compuesto,7,9028,2102,1016
+2023-09,1210,As Carne - Gringo,As Carne,Completería,Compuesto,7,43670,2569,8952
+2023-09,6670,Sandwich - Lomito - A Lo Pobre,Sandwich,Sandwichería,Compuesto,7,64914,0,13492
+2023-09,9960,Agregado Ensalada,Agregado Ensalada,Menú,Compuesto,7,18600,0,1494
+2023-09,444280,Menú - 18,Menú,Menú,Compuesto,7,52141,0,10154
+2023-09,1240,As Carne - A Lo Pobre,As Carne,Completería,Compuesto,7,39110,0,7130
+2023-09,1220,As Carne - Casa,As Carne,Completería,Compuesto,7,45086,0,8171
+2023-09,444230,Menú - 13,Menú,Menú,Compuesto,7,46347,0,7022
+2023-09,6740,Sandwich - Hamburguesa - A Lo Pobre,Sandwich,Sandwichería,Compuesto,7,57702,0,11242
+2023-09,7220,Especial - Ranchero,Especial,Completería,Compuesto,7,26427,0,4096
+2023-09,1140,As Pollo - Chacarero,As Pollo,Completería,Compuesto,6,24224,1863,3879
+2023-09,1100,As Pollo - Alercino,As Pollo,Completería,Compuesto,6,28934,0,5110
+2023-09,12170,Handroll - Kanikama - B,Handroll,Sushi,Compuesto,6,27249,0,3306
+2023-09,05150,Pizza - Capresse - Grande,Pizza,Pizzería,Compuesto,6,75422,5802,15406
+2023-09,7310,Sandwich - Lomito - Super Rodeo,Sandwich,Sandwichería,Compuesto,6,50489,0,11323
+2023-09,1190,As Carne - Alercino,As Carne,Completería,Compuesto,5,30826,0,5818
+2023-09,05130,Pizza - Hawaiana - Grande,Pizza,Pizzería,Compuesto,5,69620,0,10966
+2023-09,6750,Sandwich - Hamburguesa - Chacarero,Sandwich,Sandwichería,Compuesto,5,34404,6881,7939
+2023-09,12200,Handroll - Champiñón - B,Handroll,Sushi,Compuesto,5,26842,0,3665
+2023-09,1630,Pizza - Margarita - Mediana,Pizza,Pizzería,Compuesto,5,44720,0,7201
+2023-09,03200,Pizza - Primavera - Mediana,Pizza,Pizzería,Compuesto,5,59660,0,8887
+2023-09,12130,Handroll - Salmón - A,Handroll,Sushi,Compuesto,5,26104,5221,3914
+2023-09,9880,Colación - Merluza Arroz,Colación,Sushi,Compuesto,5,27299,2482,5533
+2023-09,05190,Pizza - Patagónica - Grande,Pizza,Pizzería,Compuesto,5,77140,0,14332
+2023-09,1340,Papas - Vegetarianas - Individuales,Papas,Papas,Compuesto,5,24352,0,3505
+2023-09,444210,Menú - 11,Menú,Menú,Compuesto,5,34760,0,5852
+2023-09,1840,Café - Latte Macchiato Vainilla,Café,Líquidos,Líquidos,5,12450,0,3884
+2023-09,6690,Sandwich - Lomito - Completo,Sandwich,Sandwichería,Compuesto,5,37844,3440,8405
+2023-09,4050,Salsa Pote Negro - Mayonesa,Salsa Pote Negro,Salsa Pote Negro,Compuesto,4,2075,0,366
+2023-09,444220,Menú - 12,Menú,Menú,Compuesto,4,28967,0,6013
+2023-09,04380,Agregado Sushi - Cubierta de Palta,Agregado Sushi,Sushi,Compuesto,4,7395,822,805
+2023-09,999660,Postres - Celestino con Helado,Postres,Sushi,Compuesto,4,14484,0,1897
+2023-09,6480,Sandwich - Pollo - Completo,Sandwich,Sandwichería,Compuesto,4,27764,0,4601
+2023-09,6580,Sandwich - Churrasco - Americano,Sandwich,Sandwichería,Compuesto,4,31337,3482,6316
+2023-09,05120,Pizza - Hawaiana - Mediana,Pizza,Pizzería,Compuesto,4,49717,0,7312
+2023-09,444240,Menú - 14,Menú,Menú,Compuesto,4,28967,0,4420
+2023-09,444250,Menú - 15,Menú,Menú,Compuesto,4,26070,2897,6779
+2023-09,1270,Base - As Pollo,Base,Completería,Compuesto,4,11130,1237,2353
+2023-09,6780,Sandwich - Hamburguesa - Luco,Sandwich,Sandwichería,Compuesto,3,26494,0,5445
+2023-09,12190,Handroll - Champiñón - A,Handroll,Sushi,Compuesto,3,15903,0,2188
+2023-09,1280,Base - As Carne,Base,Completería,Compuesto,3,13214,0,2882
+2023-09,13080,Agregado Sushi - Cubierta de Queso Crema,Agregado Sushi,Sushi,Compuesto,3,6574,0,495
+2023-09,1550,Agregado - Choclo,Agregado,Agregados,Compuesto,3,2955,0,226
+2023-09,4030,Salsa Pote Negro - Salsa de AJí,Salsa Pote Negro,Salsa Pote Negro,Compuesto,3,1660,0,276
+2023-09,6650,Sandwich - Mechada - Americano,Sandwich,Sandwichería,Compuesto,3,26494,0,5080
+2023-09,5100,Agregado Pizza - Aceitunas Negras,Agregado Pizza,Pizzería,Compuesto,3,4947,0,372
+2023-09,05160,Pizza - Caprichosa - Mediana,Pizza,Pizzería,Compuesto,3,44787,0,7444
+2023-09,05140,Pizza - Capresse - Mediana,Pizza,Pizzería,Compuesto,3,39774,0,7009
+2023-09,5340,Agregado Pizza - Pollo,Agregado Pizza,Pizzería,Compuesto,3,10381,2202,1117
+2023-09,1390,Papas - Cheddar - 5 Personas,Papas,Papas,Compuesto,3,49327,7047,10315
+2023-09,1110,As Pollo - Completo,As Pollo,Completería,Compuesto,3,15239,0,2262
+2023-09,6620,Sandwich - Mechada - Completo,Sandwich,Sandwichería,Compuesto,3,25531,0,5116
+2023-09,6790,Sandwich - Hamburguesa - Americano,Sandwich,Sandwichería,Compuesto,2,13927,6964,3918
+2023-09,1150,As Pollo - A Lo Pobre,As Pollo,Completería,Compuesto,2,11678,0,2067
+2023-09,6510,Sandwich - Pollo - Americano,Sandwich,Sandwichería,Compuesto,2,17380,0,2815
+2023-09,05230,Pizza - Cordillerana - Grande,Pizza,Pizzería,Compuesto,2,38570,0,5781
+2023-09,1120,As Pollo - Gringo,As Pollo,Completería,Compuesto,2,12400,0,2318
+2023-09,444060,Menú - 6,Menú,Menú,Compuesto,2,14890,0,3212
+2023-09,6550,Sandwich - Churrasco - Completo,Sandwich,Sandwichería,Compuesto,2,20642,0,3820
+2023-09,5170,Agregado Pizza - Pimentón Verde,Agregado Pizza,Pizzería,Compuesto,2,3710,0,149
+2023-09,7440,Agregado - Aros de Cebolla,Agregado,Agregados,Compuesto,2,3212,0,261
+2023-09,1520,Agregado - Tocino,Agregado,Agregados,Compuesto,2,3710,0,451
+2023-09,5210,Agregado Pizza - Tocino,Agregado Pizza,Pizzería,Compuesto,2,9437,0,1424
+2023-09,1510,Agregado - Salsa Americana,Agregado,Agregados,Compuesto,2,2216,0,187
+2023-09,1350,Papas - Vegetarianas - 3 Personas,Papas,Papas,Compuesto,2,23630,0,3423
+2023-09,11020,Sushi - Coreano Crispy,Sushi,Sushi,Compuesto,2,12923,0,1175
+2023-09,1330,Papas - Pollo BBQ - 5 Personas,Papas,Papas,Compuesto,2,42280,0,6289
+2023-09,444090,Menú - 8,Menú,Menú,Compuesto,2,12400,0,916
+2023-09,05200,Pizza - Mechada - Mediana,Pizza,Pizzería,Compuesto,2,27992,5598,5132
+2023-09,1530,Agregado - Champiñones Salteados,Agregado,Agregados,Compuesto,2,2473,0,279
+2023-09,999300,Avocado Veggie,Avocado Veggie,Sushi,Compuesto,2,6835,2278,1077
+2023-09,5360,Agregado Pizza - Pepperoni,Agregado Pizza,Pizzería,Compuesto,2,6291,0,1170
+2023-09,12240,Handroll - Camarón - C,Handroll,Sushi,Compuesto,2,9113,0,1351
+2023-09,5120,Agregado Pizza - Champiñones,Agregado Pizza,Pizzería,Compuesto,2,2473,0,372
+2023-09,1620,Agregado - Cebolla Caramelizada,Agregado,Agregados,Compuesto,2,2407,0,150
+2023-09,05180,Pizza - Patagónica - Mediana,Pizza,Pizzería,Compuesto,2,22393,0,3903
+2023-09,5240,Agregado Pizza - Mechada,Agregado Pizza,Pizzería,Compuesto,2,6291,0,916
+2023-09,1470,Agregado - Queso Cheddar,Agregado,Agregados,Compuesto,2,2473,0,121
+2023-09,12210,Handroll - Champiñón - C,Handroll,Sushi,Compuesto,2,7951,0,1102
+2023-09,05300,Pizza - Arma tu Pizza,Pizza,Pizzería,Compuesto,2,18227,0,2912
+2023-09,5150,Agregado Pizza - Jamón,Agregado Pizza,Pizzería,Compuesto,2,6291,0,662
+2023-09,444200,Menú - 10,Menú,Menú,Compuesto,2,8267,0,637
+2023-09,6760,Sandwich - Hamburguesa - Completo,Sandwich,Sandwichería,Compuesto,1,6881,0,1302
+2023-09,5370,Agregado Pizza - Carne Vacuno,Agregado Pizza,Pizzería,Compuesto,1,3146,0,583
+2023-09,6720,Sandwich - Lomito - Americano,Sandwich,Sandwichería,Compuesto,1,6964,0,1409
+2023-09,6710,Sandwich - Lomito - Luco,Sandwich,Sandwichería,Compuesto,1,6623,0,1455
+2023-09,4040,Salsa Pote Negro - Salsa BBQ,Salsa Pote Negro,Salsa Pote Negro,Compuesto,1,415,0,94
+2023-09,12180,Handroll - Kanikama - C,Handroll,Sushi,Compuesto,1,3727,0,418
+2023-09,11060,Sushi - Acevichado,Sushi,Sushi,Compuesto,1,2693,2693,684
+2023-09,05220,Pizza - Cordillerana - Mediana,Pizza,Pizzería,Compuesto,1,11197,0,1470
+2023-09,5330,Agregado Pizza - Ají Verde,Agregado Pizza,Pizzería,Compuesto,1,1237,0,39
+2023-09,1560,Agregado - Ají Verde,Agregado,Agregados,Compuesto,1,739,0,46
+2023-09,5350,Agregado Pizza - Salame,Agregado Pizza,Pizzería,Compuesto,1,1573,1573,477
+2023-09,13040,Ajuste - Cubierta Sésamo,Ajuste,Sushi,Compuesto,1,0,0,-45
+2023-09,1590,Agregado - Pollo,Agregado,Agregados,Compuesto,1,1411,0,321
+2023-09,7260,Base - Longaniza,Base,Completería,Compuesto,1,2473,0,385
+2023-09,7450,Agregado - Papas Hilo,Agregado,Agregados,Compuesto,1,1071,0,15
+2023-09,5300,Agregado Pizza - Camarón,Agregado Pizza,Pizzería,Compuesto,1,3146,0,447
+2023-09,4020,Salsa Pote Negro - Salsa de Ajo,Salsa Pote Negro,Salsa Pote Negro,Compuesto,1,415,0,61
+2023-09,1490,Agregado - Chucrut,Agregado,Agregados,Compuesto,1,739,0,62
+2023-09,12150,Handroll - Salmón - C,Handroll,Sushi,Compuesto,1,5138,0,657

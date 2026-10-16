@@ -1,0 +1,350 @@
+product_id,product,ingredient_id,ingredient,qty,unit,yield_pct
+1060,Completo - A Lo Pobre,10,Pan Completo,1.0,UN,100.0
+1060,Completo - A Lo Pobre,190,Vienesa - Medinger,1.0,UN,100.0
+1060,Completo - A Lo Pobre,460,Huevo,1.0,UN,100.0
+1060,Completo - A Lo Pobre,710,Cebolla Caramelizada,80.0,g,100.0
+1060,Completo - A Lo Pobre,550,Papa Natural,150.0,g,85.0
+1600,Agregado - Palta,530,Palta,50.0,g,65.0
+1080,Completo - Vegetariano,10,Pan Completo,1.0,UN,100.0
+1080,Completo - Vegetariano,320,Aceitunas Negras,10.0,g,100.0
+1080,Completo - Vegetariano,200,Tomate,40.0,g,95.0
+1080,Completo - Vegetariano,410,Choclo,25.0,g,100.0
+1080,Completo - Vegetariano,400,Champiñones,50.0,g,100.0
+1080,Completo - Vegetariano,290,Queso - Mozzarella,25.0,g,100.0
+1210,As Carne - Gringo,380,Carne Posta Negra,100.0,g,83.0
+1210,As Carne - Gringo,580,Pepinillo,10.0,g,100.0
+1210,As Carne - Gringo,220,Tocino - Medinger,15.0,g,100.0
+1210,As Carne - Gringo,310,Queso - Cheddar,26.0,g,100.0
+1210,As Carne - Gringo,710,Cebolla Caramelizada,40.0,g,100.0
+1210,As Carne - Gringo,10,Pan Completo,1.0,UN,100.0
+1680,Pizza - Salame - Grande,720,Masa,360.0,g,100.0
+1680,Pizza - Salame - Grande,290,Queso - Mozzarella,180.0,g,100.0
+1680,Pizza - Salame - Grande,790,Salsa Pomodoro,85.0,g,100.0
+1680,Pizza - Salame - Grande,270,Salame - Medinger,80.0,g,100.0
+1200,As Carne - Completo,10,Pan Completo,1.0,UN,100.0
+1200,As Carne - Completo,380,Carne Posta Negra,100.0,g,83.0
+1200,As Carne - Completo,260,Salsa Americana,30.0,g,100.0
+1200,As Carne - Completo,420,Chucrut,30.0,g,100.0
+1200,As Carne - Completo,200,Tomate,80.0,g,95.0
+1200,As Carne - Completo,730,Mayonesa,0.03,PTN,100.0
+780,Salsa de Ajo,900,Aceite - Vegetal,2.0,L,100.0
+780,Salsa de Ajo,340,Ajo en Polvo,14.0,g,100.0
+780,Salsa de Ajo,480,Leche Líquida,1.0,L,100.0
+1050,Completo - Chacarero,10,Pan Completo,1.0,UN,100.0
+1050,Completo - Chacarero,190,Vienesa - Medinger,1.0,UN,100.0
+1050,Completo - Chacarero,200,Tomate,80.0,g,95.0
+1050,Completo - Chacarero,600,Porotos Verdes,50.0,g,100.0
+1050,Completo - Chacarero,730,Mayonesa,0.03,PTN,100.0
+1050,Completo - Chacarero,330,Ají Verde,5.0,g,80.0
+1540,Agregado - Tomate,200,Tomate,80.0,g,95.0
+1320,Papas - Pollo BBQ - 3 Personas,550,Papa Natural,1.0,kg,85.0
+1320,Papas - Pollo BBQ - 3 Personas,570,Pechuga de Pollo,200.0,g,100.0
+1320,Papas - Pollo BBQ - 3 Personas,780,Salsa de Ajo,600.0,g,100.0
+1320,Papas - Pollo BBQ - 3 Personas,750,Salsa BBQ,250.0,g,100.0
+1320,Papas - Pollo BBQ - 3 Personas,710,Cebolla Caramelizada,80.0,g,100.0
+730,Mayonesa,900,Aceite - Vegetal,1.0,L,100.0
+730,Mayonesa,500,Mayonesa en Polvo,40.0,g,100.0
+730,Mayonesa,520,Mostaza,10.0,g,100.0
+2030,Envase - Papas - 3 Personas - Grande,3050,Envase - Papas - 3 Personas - Grande,1.0,UN,100.0
+4020,Salsa de Ajo,780,Salsa de Ajo,60.0,g,100.0
+1760,Jugo - Frutilla,100,Jugo - Frutilla,1.5,UN,100.0
+1480,Agregado - Carne Churrasco,380,Carne Posta Negra,100.0,g,83.0
+1110,As Pollo - Completo,10,Pan Completo,1.0,UN,100.0
+1110,As Pollo - Completo,420,Chucrut,30.0,g,100.0
+1110,As Pollo - Completo,260,Salsa Americana,30.0,g,100.0
+1110,As Pollo - Completo,730,Mayonesa,0.03,PTN,100.0
+1110,As Pollo - Completo,200,Tomate,80.0,g,95.0
+1110,As Pollo - Completo,570,Pechuga de Pollo,100.0,g,100.0
+1240,As Carne - A Lo Pobre,10,Pan Completo,1.0,UN,100.0
+1240,As Carne - A Lo Pobre,380,Carne Posta Negra,100.0,g,83.0
+1240,As Carne - A Lo Pobre,460,Huevo,1.0,UN,100.0
+1240,As Carne - A Lo Pobre,550,Papa Natural,150.0,g,85.0
+1240,As Carne - A Lo Pobre,710,Cebolla Caramelizada,80.0,g,100.0
+1660,Pizza - Pepperoni - Grande,720,Masa,360.0,g,100.0
+1660,Pizza - Pepperoni - Grande,290,Queso - Mozzarella,180.0,g,100.0
+1660,Pizza - Pepperoni - Grande,790,Salsa Pomodoro,85.0,g,100.0
+1660,Pizza - Pepperoni - Grande,210,Pepperoni - PF,50.0,g,100.0
+1650,Pizza - Pepperoni - Mediana,720,Masa,300.0,g,100.0
+1650,Pizza - Pepperoni - Mediana,290,Queso - Mozzarella,150.0,g,100.0
+1650,Pizza - Pepperoni - Mediana,790,Salsa Pomodoro,65.0,g,100.0
+1650,Pizza - Pepperoni - Mediana,210,Pepperoni - PF,40.0,g,100.0
+1290,Completo - Italiano,10,Pan Completo,1.0,UN,100.0
+1290,Completo - Italiano,530,Palta,50.0,g,65.0
+1290,Completo - Italiano,730,Mayonesa,0.03,PTN,100.0
+1290,Completo - Italiano,200,Tomate,80.0,g,95.0
+1290,Completo - Italiano,180,Vienesa - Montina,1.0,UN,100.0
+1340,Papas - Vegetarianas - Individuales,550,Papa Natural,500.0,g,85.0
+1340,Papas - Vegetarianas - Individuales,290,Queso - Mozzarella,25.0,g,100.0
+1340,Papas - Vegetarianas - Individuales,200,Tomate,40.0,g,95.0
+1340,Papas - Vegetarianas - Individuales,400,Champiñones,50.0,g,100.0
+1340,Papas - Vegetarianas - Individuales,410,Choclo,25.0,g,100.0
+1340,Papas - Vegetarianas - Individuales,320,Aceitunas Negras,10.0,g,100.0
+1530,Agregado - Champiñones,400,Champiñones,60.0,g,100.0
+1130,As Pollo - Casa,10,Pan Completo,1.0,UN,100.0
+1130,As Pollo - Casa,570,Pechuga de Pollo,100.0,g,100.0
+1130,As Pollo - Casa,400,Champiñones,60.0,g,100.0
+1130,As Pollo - Casa,220,Tocino - Medinger,15.0,g,100.0
+1130,As Pollo - Casa,290,Queso - Mozzarella,25.0,g,100.0
+1130,As Pollo - Casa,710,Cebolla Caramelizada,40.0,g,100.0
+4030,Salsa de AJí,770,Salsa de AJí,60.0,g,100.0
+1180,As Carne - Napolitano,10,Pan Completo,1.0,UN,100.0
+1180,As Carne - Napolitano,380,Carne Posta Negra,100.0,g,83.0
+1180,As Carne - Napolitano,200,Tomate,80.0,g,95.0
+1180,As Carne - Napolitano,290,Queso - Mozzarella,25.0,g,100.0
+1180,As Carne - Napolitano,230,Salsa - Tomate,10.0,g,100.0
+1180,As Carne - Napolitano,320,Aceitunas Negras,10.0,g,100.0
+1410,Papas - Bravas - 3 Personas,550,Papa Natural,1.0,kg,85.0
+1410,Papas - Bravas - 3 Personas,570,Pechuga de Pollo,300.0,g,100.0
+1410,Papas - Bravas - 3 Personas,780,Salsa de Ajo,40.0,g,100.0
+1410,Papas - Bravas - 3 Personas,770,Salsa de AJí,20.0,g,100.0
+1250,As Carne - Luco,10,Pan Completo,1.0,UN,100.0
+1250,As Carne - Luco,380,Carne Posta Negra,100.0,g,83.0
+1250,As Carne - Luco,290,Queso - Mozzarella,40.0,g,100.0
+1470,Agregado - Queso Cheddar,310,Queso - Cheddar,11.6,g,100.0
+2500,Agregado - Porotos Verdes,600,Porotos Verdes,50.0,g,100.0
+1450,Salchipapas - Mediana,550,Papa Natural,500.0,g,85.0
+1450,Salchipapas - Mediana,180,Vienesa - Montina,1.0,UN,100.0
+1770,Bebida - Coca Cola Normal 350,50,Bebida - Coca Cola Normal 350,1.0,CAN,100.0
+1270,Base - As Pollo,10,Pan Completo,1.0,UN,100.0
+1270,Base - As Pollo,570,Pechuga de Pollo,100.0,g,100.0
+770,Salsa de AJí,1000,Cilantro,20.0,g,100.0
+770,Salsa de AJí,560,Pasta de Ají,1.0,kg,100.0
+770,Salsa de AJí,340,Ajo en Polvo,10.0,g,100.0
+770,Salsa de AJí,900,Aceite - Vegetal,1.0,L,100.0
+1420,Papas - Bravas - 5 Personas,550,Papa Natural,1.5,kg,85.0
+1420,Papas - Bravas - 5 Personas,570,Pechuga de Pollo,450.0,g,100.0
+1420,Papas - Bravas - 5 Personas,780,Salsa de Ajo,50.0,g,100.0
+1420,Papas - Bravas - 5 Personas,770,Salsa de AJí,30.0,g,100.0
+2060,Envase - Completo - A Lo Pobre - Alercino,3030,Envase - Completo A Lo Pobre / Alercino,1.0,UN,100.0
+1630,Pizza - Margarita - Mediana,720,Masa,300.0,g,100.0
+1630,Pizza - Margarita - Mediana,290,Queso - Mozzarella,150.0,g,100.0
+1630,Pizza - Margarita - Mediana,790,Salsa Pomodoro,65.0,g,100.0
+2050,Envase - Completo - Normal,3020,Envase - Completo - Normal,1.0,UN,100.0
+1710,Pizza - Pollo BBQ - Mediana,720,Masa,300.0,g,100.0
+1710,Pizza - Pollo BBQ - Mediana,290,Queso - Mozzarella,150.0,g,100.0
+1710,Pizza - Pollo BBQ - Mediana,790,Salsa Pomodoro,65.0,g,100.0
+1710,Pizza - Pollo BBQ - Mediana,750,Salsa BBQ,60.0,g,100.0
+1710,Pizza - Pollo BBQ - Mediana,570,Pechuga de Pollo,80.0,g,100.0
+1710,Pizza - Pollo BBQ - Mediana,220,Tocino - Medinger,20.0,g,100.0
+1710,Pizza - Pollo BBQ - Mediana,390,Cebolla,30.0,g,100.0
+1030,Completo - Gringo,10,Pan Completo,1.0,UN,100.0
+1030,Completo - Gringo,580,Pepinillo,10.0,g,100.0
+1030,Completo - Gringo,190,Vienesa - Medinger,1.0,UN,100.0
+1030,Completo - Gringo,220,Tocino - Medinger,15.0,g,100.0
+1030,Completo - Gringo,310,Queso - Cheddar,26.0,g,100.0
+1030,Completo - Gringo,710,Cebolla Caramelizada,40.0,g,100.0
+1220,As Carne - Casa,10,Pan Completo,1.0,UN,100.0
+1220,As Carne - Casa,380,Carne Posta Negra,100.0,g,83.0
+1220,As Carne - Casa,400,Champiñones,60.0,g,100.0
+1220,As Carne - Casa,220,Tocino - Medinger,15.0,g,100.0
+1220,As Carne - Casa,290,Queso - Mozzarella,25.0,g,100.0
+1220,As Carne - Casa,710,Cebolla Caramelizada,40.0,g,100.0
+1400,Papas - Bravas - Individuales,550,Papa Natural,500.0,g,85.0
+1400,Papas - Bravas - Individuales,570,Pechuga de Pollo,150.0,g,100.0
+1400,Papas - Bravas - Individuales,780,Salsa de Ajo,30.0,g,100.0
+1400,Papas - Bravas - Individuales,770,Salsa de AJí,15.0,g,100.0
+760,Salsa Cheddar,440,Crema de Leche,2.0,kg,100.0
+760,Salsa Cheddar,310,Queso - Cheddar,1.0,kg,100.0
+760,Salsa Cheddar,480,Leche Líquida,1.0,L,100.0
+760,Salsa Cheddar,300,Queso - Despunte,2.0,kg,100.0
+3000,Café - Lungo,5000,Café - Lungo,1.0,UN,100.0
+750,Salsa BBQ,340,Ajo en Polvo,20.0,g,100.0
+750,Salsa BBQ,430,Coca Cola,400.0,mL,100.0
+750,Salsa BBQ,240,Salsa - Humo Líquido,20.0,mL,100.0
+750,Salsa BBQ,250,Salsa - Soya,100.0,mL,100.0
+750,Salsa BBQ,1010,Ketchup,1.0,kg,100.0
+1300,As Pollo - Italiano,10,Pan Completo,1.0,UN,100.0
+1300,As Pollo - Italiano,570,Pechuga de Pollo,100.0,g,100.0
+1300,As Pollo - Italiano,200,Tomate,80.0,g,95.0
+1300,As Pollo - Italiano,530,Palta,50.0,g,65.0
+1300,As Pollo - Italiano,730,Mayonesa,0.03,PTN,100.0
+1740,Jugo - Melón,110,Jugo - Melón,1.5,UN,100.0
+1440,Papas Fritas - Grande,550,Papa Natural,800.0,g,85.0
+1640,Pizza - Margarita - Grande,720,Masa,360.0,g,100.0
+1640,Pizza - Margarita - Grande,290,Queso - Mozzarella,180.0,g,100.0
+1640,Pizza - Margarita - Grande,790,Salsa Pomodoro,85.0,g,100.0
+1390,Papas - Cheddar - 5 Personas,550,Papa Natural,1.5,kg,85.0
+1390,Papas - Cheddar - 5 Personas,760,Salsa Cheddar,450.0,g,100.0
+1390,Papas - Cheddar - 5 Personas,220,Tocino - Medinger,60.0,g,100.0
+1510,Agregado - Salsa Americana,260,Salsa Americana,30.0,g,100.0
+1000,Completo - Napolitano,10,Pan Completo,1.0,UN,100.0
+1000,Completo - Napolitano,190,Vienesa - Medinger,1.0,UN,100.0
+1000,Completo - Napolitano,230,Salsa - Tomate,10.0,g,100.0
+1000,Completo - Napolitano,320,Aceitunas Negras,10.0,g,100.0
+1000,Completo - Napolitano,290,Queso - Mozzarella,25.0,g,100.0
+1000,Completo - Napolitano,200,Tomate,80.0,g,95.0
+720,Masa,920,Aceite - Oliva,12.0,mL,100.0
+720,Masa,450,Harina,1.185,kg,100.0
+720,Masa,370,Azúcar,12.0,g,100.0
+720,Masa,490,Levadura,24.0,g,100.0
+720,Masa,280,Sal,24.0,g,100.0
+2020,Envase - Papas - Individuales - Mediana,3040,Envase - Papas - Individual - Mediana,1.0,UN,100.0
+2300,Café - En Polvo,150,Café - En Polvo,1.0,UN,100.0
+1860,Té - Hierbas Surtidas,3080,Té - Hierbas Surtidas,1.0,UN,100.0
+1750,Jugo - Piña,120,Jugo - Piña,1.0,UN,100.0
+1100,As Pollo - Alercino,10,Pan Completo,1.0,UN,100.0
+1100,As Pollo - Alercino,570,Pechuga de Pollo,100.0,g,100.0
+1100,As Pollo - Alercino,350,Aros de Cebolla,34.0,g,100.0
+1100,As Pollo - Alercino,710,Cebolla Caramelizada,40.0,g,100.0
+1100,As Pollo - Alercino,310,Queso - Cheddar,26.0,g,100.0
+1100,As Pollo - Alercino,730,Mayonesa,0.03,PTN,100.0
+1100,As Pollo - Alercino,750,Salsa BBQ,10.0,g,100.0
+1280,Base - As Carne,10,Pan Completo,1.0,UN,100.0
+1280,Base - As Carne,380,Carne Posta Negra,100.0,g,83.0
+1090,As Pollo - Napolitano,10,Pan Completo,1.0,UN,100.0
+1090,As Pollo - Napolitano,570,Pechuga de Pollo,100.0,g,100.0
+1090,As Pollo - Napolitano,230,Salsa - Tomate,10.0,g,100.0
+1090,As Pollo - Napolitano,290,Queso - Mozzarella,25.0,g,100.0
+1090,As Pollo - Napolitano,320,Aceitunas Negras,10.0,g,100.0
+1090,As Pollo - Napolitano,200,Tomate,80.0,g,95.0
+1830,Café - Chococino,140,Café - Chococino,1.0,UN,100.0
+1380,Papas - Cheddar - 3 Personas,550,Papa Natural,1.0,kg,85.0
+1380,Papas - Cheddar - 3 Personas,220,Tocino - Medinger,40.0,g,100.0
+1380,Papas - Cheddar - 3 Personas,760,Salsa Cheddar,300.0,g,100.0
+1580,Agregado - Huevo,460,Huevo,1.0,UN,100.0
+1010,Completo - Alercino,10,Pan Completo,1.0,UN,100.0
+1010,Completo - Alercino,190,Vienesa - Medinger,1.0,UN,100.0
+1010,Completo - Alercino,710,Cebolla Caramelizada,40.0,g,100.0
+1010,Completo - Alercino,350,Aros de Cebolla,34.0,g,100.0
+1010,Completo - Alercino,310,Queso - Cheddar,26.0,g,100.0
+1010,Completo - Alercino,750,Salsa BBQ,10.0,g,100.0
+1010,Completo - Alercino,730,Mayonesa,0.03,PTN,100.0
+1350,Papas - Vegetarianas - 3 Personas,550,Papa Natural,1.0,kg,85.0
+1350,Papas - Vegetarianas - 3 Personas,200,Tomate,80.0,g,95.0
+1350,Papas - Vegetarianas - 3 Personas,320,Aceitunas Negras,20.0,g,100.0
+1350,Papas - Vegetarianas - 3 Personas,410,Choclo,50.0,g,100.0
+1350,Papas - Vegetarianas - 3 Personas,400,Champiñones,100.0,g,100.0
+1350,Papas - Vegetarianas - 3 Personas,290,Queso - Mozzarella,50.0,g,100.0
+1120,As Pollo - Gringo,10,Pan Completo,1.0,UN,100.0
+1120,As Pollo - Gringo,570,Pechuga de Pollo,100.0,g,100.0
+1120,As Pollo - Gringo,580,Pepinillo,10.0,g,100.0
+1120,As Pollo - Gringo,310,Queso - Cheddar,26.0,g,100.0
+1120,As Pollo - Gringo,710,Cebolla Caramelizada,40.0,g,100.0
+1120,As Pollo - Gringo,220,Tocino - Medinger,15.0,g,100.0
+1040,Completo - Casa,10,Pan Completo,1.0,UN,100.0
+1040,Completo - Casa,190,Vienesa - Medinger,1.0,UN,100.0
+1040,Completo - Casa,400,Champiñones,60.0,g,100.0
+1040,Completo - Casa,220,Tocino - Medinger,15.0,g,100.0
+1040,Completo - Casa,290,Queso - Mozzarella,25.0,g,100.0
+1040,Completo - Casa,710,Cebolla Caramelizada,40.0,g,100.0
+1500,Agregado - Pepinillo,580,Pepinillo,50.0,g,100.0
+1520,Agregado - Tocino,220,Tocino - Medinger,15.0,g,100.0
+1370,Papas - Cheddar - Individuales,550,Papa Natural,500.0,g,85.0
+1370,Papas - Cheddar - Individuales,220,Tocino - Medinger,20.0,g,100.0
+1370,Papas - Cheddar - Individuales,760,Salsa Cheddar,150.0,g,100.0
+1310,Papas - Pollo BBQ - Individuales,550,Papa Natural,500.0,g,85.0
+1310,Papas - Pollo BBQ - Individuales,570,Pechuga de Pollo,100.0,g,100.0
+1310,Papas - Pollo BBQ - Individuales,750,Salsa BBQ,150.0,g,100.0
+1310,Papas - Pollo BBQ - Individuales,780,Salsa de Ajo,300.0,g,100.0
+1310,Papas - Pollo BBQ - Individuales,710,Cebolla Caramelizada,40.0,g,100.0
+1790,Bebida - Fanta Normal 350,60,Bebida - Fanta Normal 350,1.0,CAN,100.0
+740,Mostaza Miel,520,Mostaza,0.8,kg,100.0
+740,Mostaza Miel,510,Miel,0.2,kg,100.0
+1780,Bebida - Coca Cola Cero 350,70,Bebida - Coca Cola Cero 350,1.0,CAN,100.0
+1720,Pizza - Pollo BBQ - Grande,720,Masa,360.0,g,100.0
+1720,Pizza - Pollo BBQ - Grande,290,Queso - Mozzarella,180.0,g,100.0
+1720,Pizza - Pollo BBQ - Grande,790,Salsa Pomodoro,85.0,g,100.0
+1720,Pizza - Pollo BBQ - Grande,570,Pechuga de Pollo,100.0,g,100.0
+1720,Pizza - Pollo BBQ - Grande,220,Tocino - Medinger,25.0,g,100.0
+1720,Pizza - Pollo BBQ - Grande,750,Salsa BBQ,90.0,g,100.0
+1720,Pizza - Pollo BBQ - Grande,390,Cebolla,40.0,g,100.0
+1070,Completo - Luco,10,Pan Completo,1.0,UN,100.0
+1070,Completo - Luco,190,Vienesa - Medinger,1.0,UN,100.0
+1070,Completo - Luco,290,Queso - Mozzarella,40.0,g,100.0
+1550,Agregado - Choclo,410,Choclo,25.0,g,100.0
+1150,As Pollo - A Lo Pobre,10,Pan Completo,1.0,UN,100.0
+1150,As Pollo - A Lo Pobre,570,Pechuga de Pollo,100.0,g,100.0
+1150,As Pollo - A Lo Pobre,460,Huevo,1.0,UN,100.0
+1150,As Pollo - A Lo Pobre,550,Papa Natural,150.0,g,85.0
+1150,As Pollo - A Lo Pobre,710,Cebolla Caramelizada,80.0,g,100.0
+1810,Agua - Sin Gas,40,Agua - Sin Gas,1.0,BOT,100.0
+1730,Jugo - Frambuesa,90,Jugo - Frambuesa,1.0,UN,100.0
+4010,Mostaza Miel,740,Mostaza Miel,60.0,g,100.0
+1880,Agua - Con Gas,30,Agua - Con Gas,1.0,BOT,100.0
+1230,As Carne - Chacarero,10,Pan Completo,1.0,UN,100.0
+1230,As Carne - Chacarero,380,Carne Posta Negra,100.0,g,83.0
+1230,As Carne - Chacarero,200,Tomate,80.0,g,95.0
+1230,As Carne - Chacarero,600,Porotos Verdes,50.0,g,100.0
+1230,As Carne - Chacarero,330,Ají Verde,5.0,g,80.0
+1230,As Carne - Chacarero,730,Mayonesa,0.03,PTN,100.0
+1700,Pizza - Napolitana - Grande,720,Masa,360.0,g,100.0
+1700,Pizza - Napolitana - Grande,290,Queso - Mozzarella,180.0,g,100.0
+1700,Pizza - Napolitana - Grande,790,Salsa Pomodoro,85.0,g,100.0
+1700,Pizza - Napolitana - Grande,800,Tomate Rodajas,94.5,g,100.0
+1700,Pizza - Napolitana - Grande,470,Jamón,40.0,g,100.0
+1610,Agregado - Queso Mozzarella,290,Queso - Mozzarella,40.0,g,100.0
+1460,Salchipapas - Grande,550,Papa Natural,800.0,g,85.0
+1460,Salchipapas - Grande,180,Vienesa - Montina,2.0,UN,100.0
+1560,Agregado - Ají Verde,330,Ají Verde,10.0,g,80.0
+2040,Envase - Papas - 5 Personas,3060,Envase - Papas - 5 Personas,1.0,UN,100.0
+1820,Café - Espresso Intenso,160,Café - Espresso Intenso,1.0,UN,100.0
+1670,Pizza - Salame - Mediana,720,Masa,300.0,g,100.0
+1670,Pizza - Salame - Mediana,290,Queso - Mozzarella,150.0,g,100.0
+1670,Pizza - Salame - Mediana,790,Salsa Pomodoro,65.0,g,100.0
+1670,Pizza - Salame - Mediana,270,Salame - Medinger,50.0,g,100.0
+1190,As Carne - Alercino,10,Pan Completo,1.0,UN,100.0
+1190,As Carne - Alercino,380,Carne Posta Negra,100.0,g,83.0
+1190,As Carne - Alercino,350,Aros de Cebolla,34.0,g,100.0
+1190,As Carne - Alercino,310,Queso - Cheddar,26.0,g,100.0
+1190,As Carne - Alercino,710,Cebolla Caramelizada,40.0,g,100.0
+1190,As Carne - Alercino,730,Mayonesa,0.03,PTN,100.0
+1190,As Carne - Alercino,750,Salsa BBQ,10.0,g,100.0
+800,Tomate Rodajas,200,Tomate,1.0,kg,88.0
+1160,As Pollo - Luco,10,Pan Completo,1.0,UN,100.0
+1160,As Pollo - Luco,570,Pechuga de Pollo,100.0,g,100.0
+1160,As Pollo - Luco,290,Queso - Mozzarella,40.0,g,100.0
+1590,Agregado - Pollo,570,Pechuga de Pollo,100.0,g,100.0
+1870,Agregado - Vienesa Medinger,190,Vienesa - Medinger,1.0,UN,100.0
+3050,Jugo - Mango,980,Jugo - Mango,1.0,UN,100.0
+2000,Envase - Pizza,3000,Envase - Pizza,1.0,UN,100.0
+1170,As Carne - Italiano,10,Pan Completo,1.0,UN,100.0
+1170,As Carne - Italiano,380,Carne Posta Negra,100.0,g,83.0
+1170,As Carne - Italiano,200,Tomate,80.0,g,95.0
+1170,As Carne - Italiano,530,Palta,50.0,g,65.0
+1170,As Carne - Italiano,730,Mayonesa,0.03,PTN,100.0
+1800,Bebida - Sprite Normal 350,80,Bebida - Sprite Normal 350,1.0,CAN,100.0
+1330,Papas - Pollo BBQ - 5 Personas,550,Papa Natural,1.5,kg,85.0
+1330,Papas - Pollo BBQ - 5 Personas,570,Pechuga de Pollo,300.0,g,100.0
+1330,Papas - Pollo BBQ - 5 Personas,780,Salsa de Ajo,900.0,g,100.0
+1330,Papas - Pollo BBQ - 5 Personas,750,Salsa BBQ,300.0,g,100.0
+1330,Papas - Pollo BBQ - 5 Personas,710,Cebolla Caramelizada,120.0,g,100.0
+1260,Base - Vienesa,10,Pan Completo,1.0,UN,100.0
+1260,Base - Vienesa,190,Vienesa - Medinger,1.0,UN,100.0
+1690,Pizza - Napolitana - Mediana,720,Masa,300.0,g,100.0
+1690,Pizza - Napolitana - Mediana,290,Queso - Mozzarella,150.0,g,100.0
+1690,Pizza - Napolitana - Mediana,790,Salsa Pomodoro,65.0,g,100.0
+1690,Pizza - Napolitana - Mediana,800,Tomate Rodajas,52.5,g,100.0
+1690,Pizza - Napolitana - Mediana,470,Jamón,30.0,g,100.0
+3010,Café - Café con Leche,5010,Café - Café Con Leche,1.0,UN,100.0
+710,Cebolla Caramelizada,370,Azúcar,25.0,g,100.0
+710,Cebolla Caramelizada,390,Cebolla,8.0,kg,59.85
+710,Cebolla Caramelizada,280,Sal,25.0,g,100.0
+1430,Papas Fritas - Mediana,550,Papa Natural,500.0,g,85.0
+1850,Café - Cappuccino,130,Café - Cappuccino,1.0,UN,100.0
+1620,Agregado - Cebolla Caramelizada,710,Cebolla Caramelizada,40.0,g,100.0
+4040,Salsa BBQ,750,Salsa BBQ,60.0,g,100.0
+1490,Agregado - Chucrut,420,Chucrut,30.0,g,100.0
+1140,As Pollo - Chacarero,10,Pan Completo,1.0,UN,100.0
+1140,As Pollo - Chacarero,570,Pechuga de Pollo,100.0,g,100.0
+1140,As Pollo - Chacarero,200,Tomate,80.0,g,95.0
+1140,As Pollo - Chacarero,730,Mayonesa,0.03,PTN,100.0
+1140,As Pollo - Chacarero,600,Porotos Verdes,50.0,g,100.0
+1140,As Pollo - Chacarero,330,Ají Verde,5.0,g,80.0
+790,Salsa Pomodoro,370,Azúcar,35.0,g,100.0
+790,Salsa Pomodoro,230,Salsa - Tomate,2.55,kg,100.0
+790,Salsa Pomodoro,280,Sal,5.0,g,100.0
+1570,Agregado - Aceitunas Negras,320,Aceitunas Negras,10.0,g,100.0
+1840,Café - Latte Macchiato Vainilla,170,Café - Latte Macchiato Vainilla,1.0,UN,100.0
+2010,Envase - Jugo,3010,Envase - Jugo,1.0,UN,100.0
+1020,Completo - Completo,10,Pan Completo,1.0,UN,100.0
+1020,Completo - Completo,190,Vienesa - Medinger,1.0,UN,100.0
+1020,Completo - Completo,420,Chucrut,30.0,g,100.0
+1020,Completo - Completo,260,Salsa Americana,30.0,g,100.0
+1020,Completo - Completo,200,Tomate,80.0,g,95.0
+1020,Completo - Completo,730,Mayonesa,0.03,PTN,100.0
+1360,Papas - Vegetarianas - 5 Personas,550,Papa Natural,1.5,kg,85.0
+1360,Papas - Vegetarianas - 5 Personas,290,Queso - Mozzarella,75.0,g,100.0
+1360,Papas - Vegetarianas - 5 Personas,200,Tomate,120.0,g,95.0
+1360,Papas - Vegetarianas - 5 Personas,400,Champiñones,150.0,g,100.0
+1360,Papas - Vegetarianas - 5 Personas,410,Choclo,75.0,g,100.0
+1360,Papas - Vegetarianas - 5 Personas,320,Aceitunas Negras,30.0,g,100.0

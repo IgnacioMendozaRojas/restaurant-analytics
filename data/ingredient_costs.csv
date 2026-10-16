@@ -1,0 +1,202 @@
+ingredient,kind,unit,unit_cost,waste_pct
+Aceite Alta Temperatura,Gasto,Kilo,3213.0,0.0
+Aceite Oliva,Gasto,Kilo,4918.0,0.0
+Aceite Vegetal,Gasto,Kilo,1911.11,0.0
+Aceitunas Negras,Ingrediente,Kilo,4474.0,0.0
+Agua,Ingrediente,Kilo,0.0,0.0
+Ají Verde,Ingrediente,Kilo,3000.0,0.2
+Ajo en Polvo,Ingrediente,Kilo,4249.97,0.0
+Albahaca,Gasto,Kilo,4286.0,0.0
+Aros de Cebolla,Ingrediente,Kilo,2867.0,0.0
+Arroz,Ingrediente,Kilo,1380.0,0.0
+Azúcar,Ingrediente,Kilo,1070.0,0.0
+Bombilla,Directo,Unidad,17.26,0.0
+Botella de Agua Con Gas 500cc,Directo,Unidad,500.0,0.0
+Botella de Agua Sin Gas 500cc,Directo,Unidad,500.0,0.0
+Caja Pizza Grande,Envase,Unidad,490.0,0.0
+Caja Pizza Mediana,Envase,Unidad,490.0,0.0
+Carne Posta Negra,Ingrediente,Kilo,7316.0,0.11659999999999993
+Cebolla,Ingrediente,Kilo,899.0,0.15
+Champiñones,Ingrediente,Kilo,2398.0,0.0
+Choclo,Ingrediente,Kilo,2476.0,0.0
+Chucrut,Ingrediente,Kilo,1800.0,0.0
+Ciboulette,Gasto,Unidad,500.0,0.0
+Cilantro,Gasto,Kilo,7083.33,0.0
+Coca Cola,Ingrediente,Kilo,867.0,0.0
+Coca Cola Normal 350cc,Directo,Unidad,610.0,0.0
+Coca Cola Zero 350cc,Directo,Unidad,610.0,0.0
+Crema de Leche,Ingrediente,Kilo,3420.0,0.0
+Envase CT1,Envase,Unidad,156.03,0.0
+Envase CT3,Envase,Unidad,120.99,0.0
+Envase Hot Dog,Envase,Unidad,84.0,0.0
+Fanta 350cc,Directo,Unidad,610.0,0.0
+Harina,Ingrediente,Kilo,1076.0,0.0
+Huevo,Ingrediente,Unidad,174.0,0.0
+Jamón,Ingrediente,Kilo,6096.57,0.0
+Jugo Frambuesa,Directo,Unidad,621.0,0.0
+Jugo Frutilla,Directo,Unidad,374.0,0.0
+Jugo Mango,Directo,Unidad,574.0,0.0
+Jugo Maracuyá,Directo,Unidad,595.0,0.0
+Jugo Melón,Directo,Unidad,342.0,0.0
+Jugo Arándano,Directo,Unidad,452.0,0.0
+Jugo Chirimoya,Directo,Unidad,648.0,0.0
+Jugo Piña,Directo,Unidad,436.0,0.0
+Ketchup,Gasto,Kilo,1300.0,0.0
+Leche Líquida,Ingrediente,Kilo,959.98,0.0
+Levadura Fresca,Ingrediente,Kilo,4322.56,0.0
+Lentejas,Ingrediente,Kilo,2390.0,0.0
+Mayonesa en Polvo,Ingrediente,Kilo,8380.0,0.0
+Merkén,Gasto,Kilo,5550.0,0.0
+Miel,Ingrediente,Kilo,6000.0,0.0
+Mostaza,Ingrediente,Kilo,1190.0,0.0
+Orégano,Gasto,Kilo,8925.0,0.0
+Palta,Ingrediente,Kilo,5400.0,0.28
+Pan Completo,Ingrediente,Unidad,230.0,0.0
+Papa Natural,Ingrediente,Kilo,480.0,0.15
+Pasta de Ají,Ingrediente,Kilo,1170.0,0.0
+Pechuga de Pollo,Ingrediente,Kilo,3150.0,0.0
+Pepinillo,Ingrediente,Kilo,3224.9,0.0
+Pepperoni,Ingrediente,Kilo,13000.0,0.0
+Perejil,Gasto,Kilo,10560.0,0.15
+Pimentón Rojo,Ingrediente,Kilo,2796.0,0.0
+Pimentón Verde,Ingrediente,Kilo,1996.0,0.0
+Pocillo Salsa,Envase,Unidad,13.04,0.0
+Porotos Verdes,Ingrediente,Kilo,2036.0,0.0
+Queso Cheddar,Ingrediente,Kilo,6290.0,0.0
+Queso Campo,Ingrediente,Kilo,5500.0,0.0
+Queso Despunte,Ingrediente,Kilo,5833.0,0.0
+Queso Mozzarella,Ingrediente,Kilo,7970.0,0.0
+Sal,Ingrediente,Kilo,330.0,0.0
+Salame Medinger,Ingrediente,Kilo,9672.0,0.0
+Salame PF,Ingrediente,Kilo,0.0,0.0
+Salsa Americana,Ingrediente,Kilo,1800.0,0.0
+Salsa de Soya,Ingrediente,Kilo,1250.0,0.0
+Salsa Humo Líquido,Ingrediente,Kilo,2380.0,0.0
+Salsa Tomate,Ingrediente,Kilo,2800.0,0.0
+Sprite 350cc,Directo,Unidad,610.0,0.0
+Tapa Pocillo Salsa,Envase,Unidad,12.04,0.0
+Tapa Transparente,Envase,Unidad,23.79,0.0
+Tocino Medinger,Ingrediente,Kilo,12036.0,0.0
+Tomate,Ingrediente,Kilo,1058.82,0.25
+Tomate Rodajas,Ingrediente,Kilo,1058.82,0.25
+Vaso Transparente,Envase,Unidad,42.03,0.0
+Vienesa Medinger,Ingrediente,Unidad,301.55,0.0
+Vienesa Montina,Ingrediente,Unidad,162.0,0.0
+Pan Frica,Ingrediente,Unidad,230.0,0.0
+Longaniza,Ingrediente,Kilo,3213.0,0.0
+Pulpa de Cerdo,Ingrediente,Kilo,2604.0,0.0
+Pickles,Ingrediente,Kilo,2333.0,0.4
+Carne Huachalomo,Ingrediente,Kilo,5690.0,0.0
+Lechuga,Ingrediente,Kilo,1538.0,0.3
+Pepperoni PF,Ingrediente,Kilo,10418.57,0.0
+Cerveza Cristal,Ingrediente,Kilo,1315.6,0.0
+Mantequilla,Ingrediente,Kilo,7800.0,0.0
+Pan Mayorista,Ingrediente,Unidad,215.0,0.0
+Aceitunas Enteras,Ingrediente,Unidad,27.0,0.0
+Jamón Serrano,Ingrediente,Unidad,250.0,0.0
+Vino Blanco,Ingrediente,Kilo,1445.0,0.0
+Ají Color,Ingrediente,Kilo,4440.0,0.0
+Arroz Sushi,Ingrediente,Kilo,1607.0,0.0
+Salmón Con Piel,Ingrediente,Kilo,13685.0,0.0
+Vinagre de Manzana,Ingrediente,Kilo,3300.0,0.0
+Vinagre Vino Blanco,Ingrediente,Kilo,628.08,0.0
+Kanikama,Ingrediente,Kilo,1606.5,0.0
+Camarón 36/40,Ingrediente,Kilo,7616.0,0.54
+Nori Gold,Ingrediente,Unidad,91.63,0.0
+Queso Crema,Ingrediente,Kilo,7700.0,0.0
+Sésamo Blanco,Ingrediente,Kilo,6128.5,0.0
+Sésamo Negro,Ingrediente,Kilo,7378.0,0.0
+Panko,Ingrediente,Unidad,3248.7,0.0
+Salsa de Ostras,Ingrediente,Kilo,11125.0,0.0
+Ajinomoto,Ingrediente,Kilo,3900.0,0.0
+Jengibre Rosado,Ingrediente,Kilo,5000.0,0.0
+Sirracha,Ingrediente,Kilo,4787.0,0.0
+Mayonesa Kraft,Ingrediente,Kilo,3921.0,0.0
+Ajo Entero,Ingrediente,Unidad,250.0,0.0
+Cebolla Morada,Ingrediente,Kilo,1000.0,0.15
+Cebollín,Ingrediente,Kilo,2052.55,0.55
+Palmito,Ingrediente,Kilo,5750.0,0.0
+Limón,Ingrediente,Kilo,3390.0,0.0
+Zapallo,Ingrediente,Kilo,2700.0,0.0
+Palos Chinos,Ingrediente,Unidad,26.4,0.0
+Wasabi,Ingrediente,Kilo,10103.1,0.0
+Trucha Sin Piel,Ingrediente,Kilo,13090.0,0.0
+Trucha Con Piel,Ingrediente,Kilo,12495.0,0.2
+Pimentón Rojo Sushi,Ingrediente,Kilo,2816.9,0.5915492957746479
+Palta Sushi,Ingrediente,Kilo,4000.0,0.35
+Champiñones Sushi,Ingrediente,Kilo,2680.0,0.6468085106382979
+Pimentón Verde Sushi,Ingrediente,Kilo,2816.9,0.5915492957746479
+Choclo Pizza,Ingrediente,Kilo,3000.0,0.6468085106382979
+Fideos,Ingrediente,Kilo,1250.0,0.0
+Salsa Colación,Ingrediente,Kilo,1000.0,0.0
+Nuggets,Ingrediente,Kilo,3163.33,0.0
+Pan Desayuno,Ingrediente,Unidad,57.92,0.0
+Hallulla,Ingrediente,Unidad,125.0,0.0
+Mermelada Mora,Ingrediente,Kilo,1960.0,0.0
+Té Hierbas Surtidas,Ingrediente,Unidad,67.0,0.0
+Café Nescafé,Ingrediente,Unidad,60.31,0.0
+Queso Laminado,Ingrediente,Unidad,145.0,0.0
+Levadura En Polvo,Ingrediente,Kilo,12080.0,0.0
+Café Americano (Lungo),Ingrediente,Unidad,290.0,0.0
+Café Chococino,Ingrediente,Unidad,596.0,0.0
+Café Espresso Intenso,Ingrediente,Unidad,290.0,0.0
+Café con Leche,Ingrediente,Unidad,319.0,0.0
+Café Cappuccino,Ingrediente,Unidad,636.0,0.0
+Café Latte Macchiato Vainilla,Ingrediente,Unidad,566.0,0.0
+Agua de Hierbas,Ingrediente,Unidad,67.0,0.0
+Carne Hamburguesa,Ingrediente,Kilo,0.0,0.0
+Cebolla Morada,Ingrediente,Kilo,1000.0,0.5
+Tomate Deshidratado,Ingrediente,Kilo,12667.0,0.0
+Tomate Cherry,Ingrediente,Kilo,3000.0,0.0
+Piña,Ingrediente,Kilo,3890.0,0.0
+Rúcula,Ingrediente,Kilo,6750.0,0.0
+Jamón Serrano Granel,Ingrediente,Kilo,28257.14,0.0
+Queso Cabra,Ingrediente,Kilo,23390.0,0.0
+Queso Venezolano,Ingrediente,Kilo,6800.0,0.0
+Ají Cacho Cabra,Ingrediente,Kilo,8500.0,0.0
+Pimentón Paprika,Ingrediente,Kilo,9800.0,0.0
+Doritos,Ingrediente,Kilo,8139.53,0.0
+Zuko,Ingrediente,Kilo,140.0,0.0
+Porotos Negros,Ingrediente,Kilo,1910.0,0.0
+Zanahoria,Ingrediente,Kilo,1150.0,0.0
+Harina de Arepa,Ingrediente,Kilo,1150.0,0.0
+Ensalada Lista,Ingrediente,Kilo,2290.0,0.0
+Harina Pan,Ingrediente,Kilo,1500.0,0.0
+Yogurth Natural,Ingrediente,Kilo,2466.67,0.0
+Panceta,Ingrediente,Kilo,9962.35,0.0
+Masa,Preparación,Kilo,721.77,0.0
+Masa 2,Preparación,Kilo,1029.74,0.0
+Salsa Pomodoro,Preparación,Kilo,2771.85,0.0
+Cebolla Caramelizada,Preparación,Kilo,1423.0,0.2585
+Salsa BBQ,Preparación,Kilo,1236.62,0.0
+Mostaza Miel,Preparación,Kilo,1200.0,0.0
+Salsa de Ají,Preparación,Kilo,1608.51,0.0
+Salsa de Ajo,Preparación,Kilo,1596.74,0.0
+Salsa Cheddar Líquida,Preparación,Kilo,4292.66,0.0
+Mayonesa,Preparación,Kilo,1911.75,0.0
+Mechada,Preparación,Kilo,7177.94,0.4
+Lomito de Cerdo,Preparación,Kilo,5952.57,0.4
+Hamburguesa,Preparación,Kilo,56.51,0.0
+Salsa Cheddar,Preparación,Kilo,3412.56,0.0
+Arroz Preparado,Preparación,Kilo,460.0,0.0
+Arroz Sushi Preparado,Preparación,Kilo,802.5,0.048
+Vinagre Sushi,Preparación,Kilo,628.47,0.0
+Salsa Teriyaki,Preparación,Kilo,1334.33,0.34
+Pollo Teriyaki,Preparación,Kilo,2264.92,0.0
+Sésamo Sushi,Preparación,Kilo,6753.25,0.0
+Arroz Menu,Preparación,Kilo,459.14,0.0
+Fideos Menu,Preparación,Kilo,356.99,0.0
+Lentejas Menu,Preparación,Kilo,953.51,0.0
+Masa Levadura Fresca,Preparación,Kilo,719.57,0.0
+Lentejas con Longaniza,Preparación,Kilo,1923.05,0.0
+Pulled Pork,Preparación,Kilo,3932.5,0.0
+Salsa Pulled Pork,Preparación,Kilo,5642.67,0.0
+Camarones al pil pil,Preparación,Kilo,15521.25,0.0
+Salsa Pil Pil,Preparación,Kilo,5168.55,0.0
+Salsa Ácida,Preparación,Kilo,2313.15,0.0
+Salsa Relish,Preparación,Kilo,2411.61,0.15
+Salsa Big Mac,Preparación,Kilo,2280.49,0.0
+Cebolla Crunch,Preparación,Kilo,1322.06,0.2
+Papas Hilo,Preparación,Kilo,705.88,0.2
+Pebre,Preparación,Kilo,1555.94,0.05
+Cerdo Mechado,Preparación,Kilo,4069.12,0.4
