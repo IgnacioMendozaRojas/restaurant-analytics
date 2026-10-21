@@ -4,6 +4,19 @@
 ![Python](https://img.shields.io/badge/python-3.11%20|%203.12%20|%203.13-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+**Corporate finance and unit economics.** Menu engineering, margin leakage and break-even on real operating data, the same toolkit as FP&A for a business unit.
+
+## What this shows
+
+| Task in FP&A or business control | Where it is done here |
+|---|---|
+| Decide which products to keep, reprice or drop | Menu engineering by section: popularity against unit contribution |
+| Find where margin leaks | Yield-adjusted theoretical usage against actual purchases |
+| Set a sales target and a margin of safety | Break-even under recipe-cost and observed-cost scenarios |
+| Turn raw system exports into reporting | Python pipeline over the point-of-sale exports, replacing an Excel/VBA routine |
+
+## Context
+
 In 2023 I ran the day-to-day of a fast-casual restaurant in Chile: hot dogs (*completos*),
 sandwiches, pizza, sushi, fries to share and fresh juices, about 260 items on the menu.
 I set up the daily reporting on top of the POS exports (Excel/VBA): sales by product,
