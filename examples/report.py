@@ -17,22 +17,6 @@ DOCS = Path(__file__).resolve().parents[1] / "docs"
 Q3 = ["2023-07", "2023-08", "2023-09"]
 CARD_FEE = 0.0168  # fees / card sales observed in March 2023
 
-THEMES = {
-    "light": dict(
-        surface="#fcfcfb",
-        text="#0b0b0b",
-        muted="#52514e",
-        grid="#e4e3df",
-        series=["#2a78d6", "#eb6834", "#1baf7a", "#eda100"],
-    ),
-    "dark": dict(
-        surface="#1a1a19",
-        text="#f0efec",
-        muted="#c3c2b7",
-        grid="#34332f",
-        series=["#3987e5", "#d95926", "#199e70", "#c98500"],
-    ),
-}
 CLASS_ORDER = ["Star", "Plowhorse", "Puzzle", "Dog"]
 
 
@@ -146,141 +130,105 @@ def write_results(r) -> str:
     return text
 
 
-def _fig(theme, title, subtitle, size=(9, 5)):
-    import matplotlib.pyplot as plt
-
-    fig, ax = plt.subplots(figsize=size, dpi=150)
-    fig.patch.set_facecolor(theme["surface"])
-    ax.set_facecolor(theme["surface"])
-    for side in ("top", "right"):
-        ax.spines[side].set_visible(False)
-    for side in ("left", "bottom"):
-        ax.spines[side].set_color(theme["grid"])
-    ax.tick_params(colors=theme["muted"], labelsize=9)
-    ax.set_axisbelow(True)
-    fig.text(0.07, 0.95, title, color=theme["text"], fontsize=13, weight="bold")
-    fig.text(0.07, 0.905, subtitle, color=theme["muted"], fontsize=9.5)
-    fig.subplots_adjust(left=0.1, right=0.96, top=0.84, bottom=0.12)
-    return fig, ax
+SOURCE = (
+    "Source: point-of-sale exports, recipes and purchases of the restaurant I ran in Chile in 2023. "
+    "github.com/IgnacioMendozaRojas/restaurant-analytics"
+)
 
 
 def figures(r) -> None:
-    import matplotlib.pyplot as plt
+    from matplotlib.ticker import FuncFormatter
+
+    from menu_analytics.figstyle import charts
 
     me = r["me"]
     sec = me[me["division"] == "Completería"].copy()
-    usage = r["usage"].dropna(subset=["unit_cost"]).sort_values("waste_cost", ascending=False)
-    for mode, th in THEMES.items():
-        # 1. Menu engineering matrix for one section
-        fig, ax = _fig(
-            th,
-            "Menu engineering matrix: hot dogs (completos)",
-            "Q3 2023 · each dot is a dish · dashed lines are the section thresholds",
-        )
-        colors = dict(zip(CLASS_ORDER, th["series"], strict=True))
-        for cls in CLASS_ORDER:
+    top = sec.sort_values("qty", ascending=False).iloc[0]
+    above = top["unit_cm"] >= sec["cm_threshold"].iloc[0]
+
+    # 1. Menu engineering matrix for one section
+    for c in charts(
+        f"{top['product']} sells {top['mix_pct']:.0%} of hot dogs at a "
+        f"{'above' if above else 'below'}-average margin",
+        "Menu engineering matrix, hot dogs (completos), Q3 2023: menu mix (log scale) against "
+        "unit contribution margin, CLP",
+        SOURCE + " Dashed lines: section thresholds.",
+    ):
+        for i, cls in enumerate(CLASS_ORDER):
             s = sec[sec["class"] == cls]
-            ax.scatter(
+            c.ax.scatter(
                 s["mix_pct"] * 100,
                 s["unit_cm"],
-                s=70,
-                color=colors[cls],
+                s=50,
+                color=c.color(i),
                 label=cls,
-                edgecolor=th["surface"],
-                linewidth=1.5,
+                edgecolor=c.t["surface"],
+                linewidth=1.2,
                 zorder=3,
             )
-        ax.axvline(sec["popularity_threshold"].iloc[0] * 100, color=th["muted"], ls="--", lw=1)
-        ax.axhline(sec["cm_threshold"].iloc[0], color=th["muted"], ls="--", lw=1)
-        ax.set_xscale("log")
-        ax.set_xlabel("Menu mix, % of section units (log scale)", color=th["muted"], fontsize=9)
-        ax.set_ylabel("Unit contribution margin (CLP)", color=th["muted"], fontsize=9)
-        ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda v, _: f"{v:g}%"))
-        ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda v, _: f"{v:,.0f}"))
-        ax.grid(color=th["grid"], lw=0.8)
-        top = sec.sort_values("qty", ascending=False).iloc[0]
-        ax.annotate(
-            top["product"],
-            (top["mix_pct"] * 100, top["unit_cm"]),
-            xytext=(0, 10),
-            textcoords="offset points",
-            ha="center",
-            color=th["text"],
-            fontsize=9,
-        )
-        ax.legend(frameon=False, fontsize=9, labelcolor=th["text"], loc="upper left")
-        fig.savefig(DOCS / f"menu_matrix_{mode}.png", facecolor=th["surface"])
-        plt.close(fig)
+        c.ax.axvline(sec["popularity_threshold"].iloc[0] * 100, color=c.t["muted"], ls="--", lw=0.8)
+        c.ax.axhline(sec["cm_threshold"].iloc[0], color=c.t["muted"], ls="--", lw=0.8)
+        c.ax.set_xscale("log")
+        c.ax.xaxis.set_major_formatter(FuncFormatter(lambda v, _: f"{v:g}%"))
+        c.ax.yaxis.set_major_formatter(FuncFormatter(lambda v, _: f"{v:,.0f}"))
+        c.ax.grid(axis="x", color=c.t["grid"], linewidth=0.8)
+        c.note((top["mix_pct"] * 100, top["unit_cm"]), top["product"], (-40, 25))
+        c.xlabel("Menu mix, % of section units")
+        c.yaxis("Unit contribution margin, CLP")
+        c.legend("upper left")
+        c.save(DOCS, "menu-matrix")
 
-        # 2. Yield loss by ingredient
-        top = usage[usage["waste_cost"] > 0].head(5).iloc[::-1]
-        fig, ax = _fig(
-            th,
-            "Where trimming loss costs money",
-            "Cost of weight lost before plating · 17 days of sales · label = yield",
-        )
-        ax.barh(top["ingredient"], top["waste_cost"] / 1e3, color=th["series"][0], height=0.6)
-        for y, (v, yp) in enumerate(zip(top["waste_cost"] / 1e3, top["yield_pct"], strict=True)):
-            ax.annotate(
-                f"{v:,.0f}k  ·  {yp:.0f}% yield",
-                (v, y),
-                xytext=(6, 0),
-                textcoords="offset points",
-                va="center",
-                color=th["text"],
-                fontsize=9,
-            )
-        ax.set_xlabel("Thousand CLP", color=th["muted"], fontsize=9)
-        ax.grid(axis="x", color=th["grid"], lw=0.8)
-        ax.tick_params(axis="y", colors=th["text"])
-        ax.set_xlim(0, top["waste_cost"].max() / 1e3 * 1.35)
-        fig.subplots_adjust(left=0.22)
-        fig.savefig(DOCS / f"yield_loss_{mode}.png", facecolor=th["surface"])
-        plt.close(fig)
+    # 2. Yield loss by ingredient
+    usage = r["usage"].dropna(subset=["unit_cost"]).sort_values("waste_cost", ascending=False)
+    lost = usage[usage["waste_cost"] > 0]
+    first = lost.iloc[0]
+    for c in charts(
+        f"{first['ingredient']} trimming cost CLP {first['waste_cost'] / 1e3:,.0f}k in 17 days, "
+        f"{first['waste_cost'] / lost['waste_cost'].sum():.0%} of all yield loss",
+        "Cost of weight lost before plating, five largest ingredients, thousand CLP (yield in brackets)",
+        SOURCE,
+    ):
+        top5 = lost.head(5)
+        labels = [f"{x.ingredient} ({x.yield_pct:.0f}%)" for x in top5.itertuples()]
+        c.hbars(labels, list(top5["waste_cost"] / 1e3), fmt="{:,.0f}k", highlight={labels[0]})
+        c.fig.subplots_adjust(left=0.24, right=0.92, top=0.8, bottom=0.2)
+        c.save(DOCS, "yield-loss")
 
-        # 3. Break-even vs food cost
-        be = r["be"]
-        fc = np.linspace(0.10, 0.50, 81)
-        bes = [be.with_food_cost(f).break_even_sales / 1e6 for f in fc]
-        fig, ax = _fig(
-            th,
-            "Food cost moves the break-even point",
-            "Monthly break-even sales vs food cost % · fixed costs and card fees held constant",
-        )
-        ax.plot(fc * 100, bes, color=th["series"][0], lw=2)
-        ax.axhline(be.sales / 1e6, color=th["series"][1], lw=2)
-        ax.annotate(
-            "Average monthly sales, Q3",
-            (11, be.sales / 1e6),
-            xytext=(0, 6),
+    # 3. Break-even vs food cost
+    be = r["be"]
+    bp = be.with_food_cost(r["purchases_ratio"])
+    fc = np.linspace(0.10, 0.50, 81)
+    bes = [be.with_food_cost(f).break_even_sales / 1e6 for f in fc]
+    for c in charts(
+        f"A {r['purchases_ratio']:.0%} food cost lifts break-even sales "
+        f"{bp.break_even_sales / be.break_even_sales - 1:.0%} above the recipe plan",
+        "Monthly break-even sales against food cost, % of net sales; fixed costs and card fees held "
+        "constant, million CLP",
+        SOURCE,
+    ):
+        c.line(list(fc * 100), bes, 0, "Break-even sales")
+        c.ax.axhline(be.sales / 1e6, color=c.color(1), linewidth=2)
+        c.ax.annotate(
+            " Q3 average sales",
+            (fc[-1] * 100, be.sales / 1e6),
+            xytext=(4, 0),
             textcoords="offset points",
-            color=th["text"],
-            fontsize=9,
+            va="center",
+            fontsize=8.5,
+            color=c.t["text"],
+            annotation_clip=False,
         )
-        for f, label in [(be.food_cost_pct, "Recipe cost"), (r["purchases_ratio"], "Purchases")]:
+        for f, label, off in [
+            (be.food_cost_pct, "Recipe cost", (10, -18)),
+            (r["purchases_ratio"], "Purchases", (-60, 18)),
+        ]:
             y = be.with_food_cost(f).break_even_sales / 1e6
-            ax.scatter(
-                [f * 100],
-                [y],
-                color=th["series"][2],
-                s=60,
-                zorder=3,
-                edgecolor=th["surface"],
-                linewidth=1.5,
-            )
-            ax.annotate(
-                f"{label} {f:.0%}",
-                (f * 100, y),
-                xytext=(8, -14),
-                textcoords="offset points",
-                color=th["text"],
-                fontsize=9,
-            )
-        ax.set_xlabel("Food cost, % of net sales", color=th["muted"], fontsize=9)
-        ax.set_ylabel("Break-even sales (million CLP)", color=th["muted"], fontsize=9)
-        ax.grid(axis="y", color=th["grid"], lw=0.8)
-        fig.savefig(DOCS / f"break_even_{mode}.png", facecolor=th["surface"])
-        plt.close(fig)
+            c.ax.scatter([f * 100], [y], color=c.color(2), s=40, zorder=3)
+            c.note((f * 100, y), f"{label} {f:.0%}: {y:.1f}M", off)
+        c.ax.set_ylim(bottom=0)
+        c.xlabel("Food cost, % of net sales")
+        c.yaxis("Million CLP")
+        c.save(DOCS, "break-even")
 
 
 def main() -> None:

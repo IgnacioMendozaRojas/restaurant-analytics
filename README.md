@@ -44,8 +44,8 @@ three questions every restaurant owner should be able to answer:
 | **Recipe cost says 17%, purchases say 36%** | Theoretical food cost from the recipes is half of what was actually spent on merchandise. The gap is waste, portioning, price drift and unrecorded staff meals, and it moves break-even sales up by 30%. |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/menu_matrix_dark.png">
-  <img alt="Menu engineering matrix of the hot-dog section: most items are puzzles with low share, the best-selling Completo Italiano is a plowhorse with 39 percent share and below-average margin" src="docs/menu_matrix_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/menu-matrix-dark.png">
+  <img alt="Menu engineering matrix of the hot-dog section: most items are puzzles with low share, the best-selling Completo Italiano is a plowhorse with 39 percent share and below-average margin" src="docs/menu-matrix-light.png">
 </picture>
 
 ## 1. Menu engineering
@@ -77,8 +77,8 @@ are peeled, beef is trimmed. With yield *y*, the quantity that has to be bought 
 purchases per ingredient and the cost of what is trimmed away.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/yield_loss_dark.png">
-  <img alt="Bar chart of trimming loss cost: avocado 165k CLP at 65 percent yield, beef 59k at 83 percent, potatoes 46k at 85 percent, tomato 7k" src="docs/yield_loss_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/yield-loss-dark.png">
+  <img alt="Bar chart of trimming loss cost: avocado 165k CLP at 65 percent yield, beef 59k at 83 percent, potatoes 46k at 85 percent, tomato 7k" src="docs/yield-loss-light.png">
 </picture>
 
 Comparing theoretical purchases with real invoices is how a kitchen finds waste,
@@ -101,8 +101,8 @@ acquirer statements; cards were 57% of sales.
 | Observed (purchases / sales) | 36.5% | 22.2M | 38% |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/break_even_dark.png">
-  <img alt="Break-even sales rise from 15.5M to 28M CLP as food cost goes from 10 to 50 percent; average monthly sales are 35.7M" src="docs/break_even_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/break-even-dark.png">
+  <img alt="Break-even sales rise from 15.5M to 28M CLP as food cost goes from 10 to 50 percent; average monthly sales are 35.7M" src="docs/break-even-light.png">
 </picture>
 
 Caveats: the purchases ratio is one month and is not adjusted for the change in
